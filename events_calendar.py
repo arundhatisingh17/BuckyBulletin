@@ -49,11 +49,13 @@ def scrape_events():
             if (len(time_values) == 1):
                 assigned_am_pm = am_pm_matches[0] if am_pm_matches else ""
                 start_time = f"{time_values[0]}{assigned_am_pm}"
-                end_time = None
+                end_time = ""
 
             elif len(time_values) == 2:
                 if (len(am_pm_matches) == 1):
                     assigned_am_pm = am_pm_matches[0] if am_pm_matches else ""
+                    start_am_pm = assigned_am_pm
+                    end_am_pm = assigned_am_pm
                 
                 elif (len(am_pm_matches) == 2):
                     start_am_pm, end_am_pm = am_pm_matches
@@ -87,11 +89,15 @@ def scrape_events():
     with open("events.json", "w") as json_file:
         json.dump(events_list, json_file, indent=4, ensure_ascii=False)
 
-schedule.every().day.at("00:00").do(scrape_events)
+# schedule.every().day.at("00:00").do(scrape_events)
 
+
+# if __name__ == "__main__":
+#     while True:
+#         schedule.run_pending()
+#         time.sleep(1)
 
 if __name__ == "__main__":
-    while True:
-        schedule.run_pending()
-        time.sleep(1)
+    scrape_events()
+     
 
