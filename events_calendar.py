@@ -1,17 +1,30 @@
 from flask import Flask, render_template
+from selenium import webdriver
+from dotenv import load_dotenv
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 from datetime import datetime
-from flask.cli import load_dotenv
 import requests
 import googlemaps
 import re
 import json
 import os
-import schedule
 import time
+import schedule
 
 
 present_date = datetime.today().strftime("%Y-%m-%d")
+
+chrome_options = Options()
+chrome_options.add_argument("--headless")  
+chrome_options.add_argument("--disable-gpu")  
+chrome_options.add_argument("--no-sandbox")  
+chrome_options.add_argument("--disable-dev-shm-usage")  
+service = Service(ChromeDriverManager().install())
+driver = webdriver.Chrome(service=service)
 
 load_dotenv()
 API_KEY = os.getenv("VITE_GOOGLE_MAPS_API_KEY")
@@ -30,6 +43,24 @@ def scrape_events():
     for event in events:
         title_element = event.select_one("h3.event-title a")
         title = title_element.text.strip()
+
+        event_link = title_element["href"] if title_element else None
+        
+        if event_link:
+            if event_link.startswith("/events/view/"):
+                event_url = "https://today.wisc.edu" + event_link
+            else:
+                event_url = event_link
+
+        driver.get(event_url)
+        time.sleep(1)  # Wait for the page to load
+
+        event_soup = BeautifulSoup(driver.page_source, "html.parser")
+
+        description_element = event_soup.select_one("div.event-description")
+        event_description = description_element.get_text(strip=True) if description_element else event_url
+
+
 
         location_elements= event.select_one("p.event-location")
 
@@ -88,7 +119,8 @@ def scrape_events():
             "start_time" : start_time,
             "end_time" : end_time,
             "latitude": lat,
-            "longitude": lon
+            "longitude": lon,
+            "description": event_description,
         }
 
         events_list.append(event_data)
