@@ -3,7 +3,7 @@ import { GoogleMap, useJsApiLoader } from '@react-google-maps/api'
 import { useState } from 'react';
 import { useEffect } from 'react';
 import { Marker } from '@react-google-maps/api';
-import mapStyle from "./MapStyle.jsx";
+import mapStyle from "./mapStyle.jsx";
 import Popup from "./components/Popup.jsx";
 
 const containerStyle = {
