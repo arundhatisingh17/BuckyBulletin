@@ -6,7 +6,16 @@
         "end_time": null,
         "latitude": 43.0370356,
         "longitude": -89.38225949999999,
-        "description": "Exhibition dates: February 1 — 28, Reception: Saturday, February 1, 6-9pm. Come check out the paintings of undergraduate senior Rachael Hunter, grab a drink, and get creative! Beer and food are available for purchase, and you can also shop stickers and prints featuring Hunter's work. If you can’t make it to the opening night, don’t worry—the paintings will be up for the whole month."
+        "description": "Exhibition dates: February 1 — 28, Reception: Saturday, February 1, 6-9pm. Come check out the paintings of undergraduate senior Rachael Hunter, grab a drink, and get creative! Beer and food are available for purchase, and you can also shop stickers and prints featuring Hunter's work. If you can’t make it to the opening night, don’t worry—the paintings will be up for the whole month.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
     },
     {
         "title": "It’s All the Rage: Activism, Aging, and the Raging Grannies of Madison",
@@ -15,7 +24,23 @@
         "end_time": null,
         "latitude": 43.0757388,
         "longitude": -89.4087644,
-        "description": "It’s All the Rage: Activism, Aging, and the Raging Grannies of Madison grows from a two-year archival and oral history project. This exhibit focuses on several decades of local Wisconsin grassroots activism enacted by the Madison and Dane County Raging Grannies. Featuring an array of granny hats, aprons, songbooks, political buttons, and instruments, as well as video and audio clips of their original songs, this exhibit explores how senior women have engaged in a wide variety of activities."
+        "description": "It’s All the Rage: Activism, Aging, and the Raging Grannies of Madison grows from a two-year archival and oral history project. This exhibit focuses on several decades of local Wisconsin grassroots activism enacted by the Madison and Dane County Raging Grannies. Featuring an array of granny hats, aprons, songbooks, political buttons, and instruments, as well as video and audio clips of their original songs, this exhibit explores how senior women have engaged in a wide variety of activities.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Humanities",
+            "Aging",
+            "Activism",
+            "Gender",
+            "Material culture",
+            "School of human ecology",
+            "SoHE",
+            "Gender and Women Studies",
+            "Center for Design and Material Culture",
+            "CDMC",
+            "Center for Research on Gender and Women",
+            "Raging grannies"
+        ]
     },
     {
         "title": "Convergence",
@@ -24,7 +49,18 @@
         "end_time": null,
         "latitude": 43.1053381,
         "longitude": -89.35874129999999,
-        "description": "Exhibition dates: January 31 – March 1, Reception: Friday, January 31, 5:30-7:30pm. Curated by alumna Annmarie Suglio, Convergence is an exhibition providing a meeting place for fiber, textile, and paper works created by current students and alumni of UW-Madison. The artists explore themes of materiality, the passage of time, and sense of self, conveying these timeless themes through selected innovative textile or fiber art combined with a contemporary lens."
+        "description": "Exhibition dates: January 31 – March 1, Reception: Friday, January 31, 5:30-7:30pm. Curated by alumna Annmarie Suglio, Convergence is an exhibition providing a meeting place for fiber, textile, and paper works created by current students and alumni of UW-Madison. The artists explore themes of materiality, the passage of time, and sense of self, conveying these timeless themes through selected innovative textile or fiber art combined with a contemporary lens.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw",
+            "Textile art",
+            "Fiber art"
+        ]
     },
     {
         "title": "As Long As It’s Safe To Do So",
@@ -33,7 +69,16 @@
         "end_time": null,
         "latitude": 43.0984254,
         "longitude": -89.3514848,
-        "description": "Exhibition dates: February 21 – April 30, Open Wednesday to Sunday 12-6pm. Reception: Friday, February 21, 6-9pm, A live collaborative demo between the three artists will begin at 6pm. In collaboration with Eli’s Art Supplies, As Long As It’s Safe To Do So is a group show featuring artists Ava Albelo (Mary Chains), Rachael Hunter, and R-Lo."
+        "description": "Exhibition dates: February 21 – April 30, Open Wednesday to Sunday 12-6pm. Reception: Friday, February 21, 6-9pm, A live collaborative demo between the three artists will begin at 6pm. In collaboration with Eli’s Art Supplies, As Long As It’s Safe To Do So is a group show featuring artists Ava Albelo (Mary Chains), Rachael Hunter, and R-Lo.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
     },
     {
         "title": "Afterlives: Material Stories from the Helen Louise Allen Textile Collection",
@@ -42,7 +87,25 @@
         "end_time": "4p.m.",
         "latitude": 43.0757388,
         "longitude": -89.4087644,
-        "description": "Afterlives explores the many lives of objects and what happens to textiles after they enter the Helen Louise Allen Textile Collection. From a quilt made out of carefully saved 19th-century American cigar silks to an robe from Turkmenistan, material things carry traces of their journey through past, present, and future in our Collection. Both poetic and practical, the exhibition explores what these treasures can teach us if we pay attention to their stories."
+        "description": "Afterlives explores the many lives of objects and what happens to textiles after they enter the Helen Louise Allen Textile Collection. From a quilt made out of carefully saved 19th-century American cigar silks to an robe from Turkmenistan, material things carry traces of their journey through past, present, and future in our Collection. Both poetic and practical, the exhibition explores what these treasures can teach us if we pay attention to their stories.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "International",
+            "History",
+            "Humanities",
+            "Design",
+            "Textiles",
+            "Material culture",
+            "SoHE",
+            "Archive",
+            "Lynn Mecklenburg Textile Gallery",
+            "Helen Louise Allen",
+            "textiles, art, SoHE",
+            "Center for Design and Material Culture",
+            "CDMC",
+            "Campus collections"
+        ]
     },
     {
         "title": "Sunday Tour: You Belong Here",
@@ -51,7 +114,12 @@
         "end_time": "1p.m.",
         "latitude": 43.0738323,
         "longitude": -89.39931930000002,
-        "description": "Join us for a guided tour of \"You Belong Here: Place, People, and Purpose in Latinx Photography\"! Meet at the front desk for a deeper dive into works by Latinx photographers, highlighting themes of identity, community, and resistance. Tours last up to 60 minutes and encourage conversation and close observation as you explore the exhibition.Advanced reservation encouraged. Walk-ins will be welcome as space allows."
+        "description": "Join us for a guided tour of \"You Belong Here: Place, People, and Purpose in Latinx Photography\"! Meet at the front desk for a deeper dive into works by Latinx photographers, highlighting themes of identity, community, and resistance. Tours last up to 60 minutes and encourage conversation and close observation as you explore the exhibition.Advanced reservation encouraged. Walk-ins will be welcome as space allows.",
+        "tags": [
+            "Arts",
+            "Humanities",
+            "Chazen Museum of Art"
+        ]
     },
     {
         "title": "Material Intelligence",
@@ -60,7 +128,24 @@
         "end_time": "4p.m.",
         "latitude": 43.0756796,
         "longitude": -89.4091874,
-        "description": "Inspired by Material Intelligence magazine’s exploration of individual commonplace materials, this exhibition foregrounds two key substances–linen and glass–and invites visitors to experiment with many more. \"Threads\" explores the metaphorical vibrancy of linen and other fibers through the work of Ann Coddington. \"Spheres of Influence\" reveals how the material possibilities of glass and the embodied skills of glassmakers have shaped intellectual life at UW-Madison."
+        "description": "Inspired by Material Intelligence magazine’s exploration of individual commonplace materials, this exhibition foregrounds two key substances–linen and glass–and invites visitors to experiment with many more. \"Threads\" explores the metaphorical vibrancy of linen and other fibers through the work of Ann Coddington. \"Spheres of Influence\" reveals how the material possibilities of glass and the embodied skills of glassmakers have shaped intellectual life at UW-Madison.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Science",
+            "Humanities",
+            "Design",
+            "Textiles",
+            "Material culture",
+            "School of human ecology",
+            "SoHE",
+            "Weaving",
+            "Center for Design and Material Culture",
+            "CDMC",
+            "Glassmadisonexhibitions",
+            "Glasslab",
+            "Basketry"
+        ]
     },
     {
         "title": "Scenic Stroll",
@@ -69,7 +154,15 @@
         "end_time": "2p.m.",
         "latitude": 43.0428709,
         "longitude": -89.4243205,
-        "description": "This gently paced walk explores ecological communities near the Visitor Center. Themes may include the land, plants, animals, other organisms, phenology, and ecology. Wear sturdy closed-toe shoes and come prepared for weather. Routes are wheelchair accessible when weather allows. Walks canceled for unsafe weather or route conditions. Free, no registration required. Meet at the Visitor Center."
+        "description": "This gently paced walk explores ecological communities near the Visitor Center. Themes may include the land, plants, animals, other organisms, phenology, and ecology. Wear sturdy closed-toe shoes and come prepared for weather. Routes are wheelchair accessible when weather allows. Walks canceled for unsafe weather or route conditions. Free, no registration required. Meet at the Visitor Center.",
+        "tags": [
+            "Science",
+            "Research",
+            "Environment",
+            "Nature",
+            "Sustainability",
+            "Wellness"
+        ]
     },
     {
         "title": "Winter Birds",
@@ -78,7 +171,12 @@
         "end_time": "3p.m.",
         "latitude": 43.0866099,
         "longitude": -89.4216051,
-        "description": "Even with ice and snow, there are beautiful, bright, noisy birds to enjoy at the Preserve! Join us for guided walk to look for Blue Jays, Cardinals, Tufted Titmice, Woodpeckers, Nuthatches, Chickadees, Wild Turkeys, Barred Owls, and more! We may practice using the Merlin app to help identify birds by sight and sound and log our observations on eBird! Bring binoculars if you have them. If weather allows, enjoy hot cocoa and s'mores at Fire Circle 2 after the walk."
+        "description": "Even with ice and snow, there are beautiful, bright, noisy birds to enjoy at the Preserve! Join us for guided walk to look for Blue Jays, Cardinals, Tufted Titmice, Woodpeckers, Nuthatches, Chickadees, Wild Turkeys, Barred Owls, and more! We may practice using the Merlin app to help identify birds by sight and sound and log our observations on eBird! Bring binoculars if you have them. If weather allows, enjoy hot cocoa and s'mores at Fire Circle 2 after the walk.",
+        "tags": [
+            "Environment",
+            "Family friendly",
+            "Sustainability"
+        ]
     },
     {
         "title": "Women's Basketball: UW vs. Northwestern",
@@ -87,7 +185,12 @@
         "end_time": "",
         "latitude": 43.0693474,
         "longitude": -89.3969006,
-        "description": "https://today.wisc.edu/events/view/201239"
+        "description": "https://today.wisc.edu/events/view/201239",
+        "tags": [
+            "Athletics",
+            "Basketball",
+            "Women's basketball"
+        ]
     },
     {
         "title": "\"Citizens of a Stolen Land: Ho Chunk History of the 19th Century\": In-Person Badgers Talk in Monona, WI",
@@ -96,7 +199,15 @@
         "end_time": "",
         "latitude": 43.0693474,
         "longitude": -89.3969006,
-        "description": "Join us for a free, in-person talk at the Historic Blooming Grove Historical Society on Sunday, February 23, 2025, at 2:00 PM. No registration is required.Discover how the Ho-Chunk people resisted expulsion in the 1820s and 1830s, returned to their homeland, and secured their place as a sovereign nation in Wisconsin."
+        "description": "Join us for a free, in-person talk at the Historic Blooming Grove Historical Society on Sunday, February 23, 2025, at 2:00 PM. No registration is required.Discover how the Ho-Chunk people resisted expulsion in the 1820s and 1830s, returned to their homeland, and secured their place as a sovereign nation in Wisconsin.",
+        "tags": [
+            "Speakers",
+            "Talks",
+            "Statewide Outreach",
+            "Speakers Bureau",
+            "Badger Talks",
+            "UW Connects"
+        ]
     },
     {
         "title": "WUD Film & the Black Cultural Center Present: Wicked (2024) [Sing Along with Open Captions]",
@@ -105,7 +216,8 @@
         "end_time": "",
         "latitude": 43.0717653,
         "longitude": -89.40813419999999,
-        "description": "https://union.wisc.edu/events-and-activities/event-calendar/event/wud-film-presents-wicked-2024-sing-along"
+        "description": "https://union.wisc.edu/events-and-activities/event-calendar/event/wud-film-presents-wicked-2024-sing-along",
+        "tags": []
     },
     {
         "title": "Family Ice Skating Night with Outdoor UW",
@@ -114,7 +226,8 @@
         "end_time": "",
         "latitude": 43.0762475,
         "longitude": -89.4000123,
-        "description": "https://union.wisc.edu/events-and-activities/event-calendar/event/familyiceskatingnight-2025-ouw-2"
+        "description": "https://union.wisc.edu/events-and-activities/event-calendar/event/familyiceskatingnight-2025-ouw-2",
+        "tags": []
     },
     {
         "title": "Sunday Game Night: Tsuro of the Seas",
@@ -123,6 +236,7 @@
         "end_time": "",
         "latitude": 43.071313,
         "longitude": -89.40772,
-        "description": "https://union.wisc.edu/events-and-activities/event-calendar/event/sunday-game-night-9"
+        "description": "https://union.wisc.edu/events-and-activities/event-calendar/event/sunday-game-night-9",
+        "tags": []
     }
 ]

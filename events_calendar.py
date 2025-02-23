@@ -55,12 +55,13 @@ def scrape_events():
         driver.get(event_url)
         time.sleep(1)  # Wait for the page to load
 
-        event_soup = BeautifulSoup(driver.page_source, "html.parser")
+        event_stuff = BeautifulSoup(driver.page_source, "html.parser")
 
-        description_element = event_soup.select_one("div.event-description")
+        description_element = event_stuff.select_one("div.event-description")
         event_description = description_element.get_text(strip=True) if description_element else event_url
 
-
+        tag_elements = event_stuff.select("ul.event-tags li a")
+        event_tags = [tag.text.strip() for tag in tag_elements] if tag_elements else []
 
         location_elements= event.select_one("p.event-location")
 
@@ -121,6 +122,7 @@ def scrape_events():
             "latitude": lat,
             "longitude": lon,
             "description": event_description,
+            "tags": event_tags,
         }
 
         events_list.append(event_data)
@@ -133,14 +135,14 @@ def scrape_events():
     with open("events.json", "w") as json_file:
         json.dump(events_list, json_file, indent=4, ensure_ascii=False)
 
-schedule.every().day.at("00:00").do(scrape_events)
+# schedule.every().day.at("00:00").do(scrape_events)
 
 
-
-if __name__ == "__main__":
-    while True:
-        schedule.run_pending()
-        time.sleep(1)
 
 # if __name__ == "__main__":
-#     scrape_events()
+#     while True:
+#         schedule.run_pending()
+#         time.sleep(1)
+
+if __name__ == "__main__":
+    scrape_events()
