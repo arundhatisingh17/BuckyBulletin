@@ -1,0 +1,248 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+DTSTART:20250309T030000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:CDT
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20241103T010000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:CST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:205951@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250224T120000
+DTEND;TZID=America/Chicago:20250224T130000
+DESCRIPTION:Thibault Dardinier: PhD Candidate\, Programming Methodology Gro
+ up\, ETH Zurich. 
+LOCATION:1240 Computer Sciences
+SUMMARY:Talk: Sound and Automated Deductive Verifiers for Advanced Properti
+ es
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:206540@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250225T120000
+DTEND;TZID=America/Chicago:20250225T130000
+DESCRIPTION:Olivia Hsu: Final-year PhD Candidate\, Computer Science\, Stan
+ ford University. 
+LOCATION:1240 Computer Sciences
+SUMMARY:Talk: From Language to Silicon: Programming Systems for Sparse Acce
+ lerators
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:206779@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250225T130000
+DTEND;TZID=America/Chicago:20250225T140000
+DESCRIPTION:Take some time to taste some tea. SACM invites you to the pilot
+  of our brand new event. Come to the CS building 6th floor lounge for some
+  tea and donuts to take a break with tea.\n\nCONTACT: 763-267-1320\, bqtra
+ n2@wisc.edu
+LOCATION:6th Floor Lounge\, Computer Sciences
+SUMMARY:SACM Tea Time
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:206427@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250225T150000
+DTEND;TZID=America/Chicago:20250225T160000
+DESCRIPTION:Bohyung Han: Professor\, Department of Electrical and Computer 
+ Engineering\, Seoul National University\, Korea. 
+LOCATION:1240 Computer Sciences
+SUMMARY:Lecture: On the Training-Free Long Video Generation
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:205614@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250225T160000
+DTEND;TZID=America/Chicago:20250225T170000
+DESCRIPTION:\n\nCONTACT: bhoak@cs.wisc.edu
+LOCATION:3310 Computer Sciences\, Computer Sciences
+SUMMARY:MadS&amp;P Seminar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:206049@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250226T120000
+DTEND;TZID=America/Chicago:20250226T170000
+DESCRIPTION:Join us for the Spring School of Computer\, Data &amp; Information 
+ Sciences Career Fair on Wednesday\, February 26th from 12:00 P.M.-5:00 P.M
+ . in the atrium of the Discovery Building. \n\nConnect with top companies 
+ looking to hire in the areas of computer\, data\, and information science.
+  \n\nNo registration is needed\, just bring your Wiscard.\n\nCONTACT: jhin
+ es3@wisc.edu\n\nURL: https://cdis.wisc.edu/career/
+SUMMARY:CDIS Spring 2025 Career Fair
+URL;VALUE=URI:https://cdis.wisc.edu/career/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:204662@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250226T123000
+DTEND;TZID=America/Chicago:20250226T131500
+DESCRIPTION:\n\nURL: https://madpl.cs.wisc.edu/pl-seminar/\n\nONLINE: https
+ ://madpl.cs.wisc.edu/seminar-zoom/
+LOCATION:3310 Computer Sciences  (Also offered online)
+SUMMARY:madPL Weekly Seminar
+URL;VALUE=URI:https://madpl.cs.wisc.edu/pl-seminar/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:205177@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250226T143000
+DTEND;TZID=America/Chicago:20250226T163000
+DESCRIPTION:The Center for High Throughput Computing (CHTC) is holding an i
+ naugural Researcher Forum on Wednesday\, February 26.\n\nWe invite CHTC us
+ ers and the UW-Madison research computing community to join us!\n\n* Learn
+  about recent changes at CHTC and what&#39;s new and upcoming\n* Connect with 
+ CHTC users and learn from each other at a mini poster session\n* Engage wi
+ th CHTC staff - ask questions\, provide suggestions\, and more!\n* Meet a 
+ computer server\n\nCONTACT: chtc@cs.wisc.edu\n\nURL: https://chtc.cs.wisc.
+ edu/events/2025/02/researcher-forum
+LOCATION:Orchard View Room\, Discovery Building
+SUMMARY:CHTC Researcher Forum
+URL;VALUE=URI:https://chtc.cs.wisc.edu/events/2025/02/researcher-forum
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:206631@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250227T120000
+DTEND;TZID=America/Chicago:20250227T130000
+DESCRIPTION:Sadhika Malladi: Final-year PhD Candidate\, Computer Science\, 
+ Princeton. 
+LOCATION:1240 Computer Sciences
+SUMMARY:Talk: Deep Learning Theory in the Age of Generative AI
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:205559@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250227T163000
+DTEND;TZID=America/Chicago:20250227T173000
+DESCRIPTION:\n\nCONTACT: chenhaoy@cs.wisc.edu\n\nURL: https://madsystems.cs
+ .wisc.edu/seminar.html
+LOCATION:2310 Computer Sciences
+SUMMARY:MadSystems Seminar
+URL;VALUE=URI:https://madsystems.cs.wisc.edu/seminar.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:206425@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250228T120000
+DTEND;TZID=America/Chicago:20250228T130000
+DESCRIPTION:Yizhong Wang: PhD Candidate\, University of Washington. 
+LOCATION:1240 Computer Sciences
+SUMMARY:Talk: Building a Sustainable Data Foundation for AI
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:206235@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250228T160000
+DTEND;TZID=America/Chicago:20250228T170000
+DESCRIPTION:WACM (ACM-W) welcomes all female and nonbinary CS graduate stud
+ ents for free coffee and cookies. Stop by to chat\, tell stories\, and get
+  your grad school questions answered. \n\nThis is a recurring event every 
+ other week until the end of April.\n\nCONTACT: yunahwang@cs.wisc.edu
+LOCATION:4310 Computer Sciences
+SUMMARY:WACM Coffee\, Cookies\, &amp; Conversations
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:206557@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250303T120000
+DTEND;TZID=America/Chicago:20250303T130000
+DESCRIPTION:Khashayar Gatmiry: Final-year PhD Candidate\, EECS department\,
+  MIT. 
+LOCATION:1240 Computer Sciences
+SUMMARY:Talk: New geometric techniques in non-convex and non-smooth machine
+  learning
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:205615@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250304T160000
+DTEND;TZID=America/Chicago:20250304T170000
+DESCRIPTION:\n\nCONTACT: bhoak@cs.wisc.edu
+LOCATION:3310 Computer Sciences\, Computer Sciences
+SUMMARY:MadS&amp;P Seminar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:204663@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250305T123000
+DTEND;TZID=America/Chicago:20250305T131500
+DESCRIPTION:\n\nURL: https://madpl.cs.wisc.edu/pl-seminar/\n\nONLINE: https
+ ://madpl.cs.wisc.edu/seminar-zoom/
+LOCATION:3310 Computer Sciences  (Also offered online)
+SUMMARY:madPL Weekly Seminar
+URL;VALUE=URI:https://madpl.cs.wisc.edu/pl-seminar/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:206114@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250305T180000
+DTEND;TZID=America/Chicago:20250305T190000
+DESCRIPTION:Industry Speaker. Join us for an Industry Speaker event where y
+ ou’ll hear from professionals about the latest trends in data science an
+ d the tech industry. This is a great opportunity to network and gain valua
+ ble insights into career paths.\n\nCONTACT: 925-389-3399\, zlweinstein@wis
+ c.edu
+LOCATION:1240 Computer Sciences
+SUMMARY:dotData Club Meeting
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:206558@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250306T120000
+DTEND;TZID=America/Chicago:20250306T130000
+DESCRIPTION:Yeshwanth Cherapanamjeri: Postdoc\, MIT (PhD\, UC Berkeley). 
+LOCATION:1240 Computer Sciences
+SUMMARY:Talk: Statistical Challenges in Modern Machine Learning and their A
+ lgorithmic Consequences
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:205560@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250306T163000
+DTEND;TZID=America/Chicago:20250306T173000
+DESCRIPTION:\n\nCONTACT: chenhaoy@cs.wisc.edu\n\nURL: https://madsystems.cs
+ .wisc.edu/seminar.html
+LOCATION:2310 Computer Sciences
+SUMMARY:MadSystems Seminar
+URL;VALUE=URI:https://madsystems.cs.wisc.edu/seminar.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:205643@calendar.wisc.edu
+DTSTART;VALUE=DATE:20250307
+DTEND;VALUE=DATE:20250308
+DESCRIPTION:*Note: actual end time may vary.*  \n This two day event is for
+  students who have been offered admission to CS MS/PhD Program.  Event is 
+ by invitation.\n\nCONTACT: thorp@cs.wisc.edu
+LOCATION:varied venues on campus\; schedule will be provided to registered 
+ attendees
+SUMMARY:Welcome Weekend for Prospective MS/PhD Program Students
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=America/Chicago:20250223T024920
+UID:205790@calendar.wisc.edu
+DTSTART;TZID=America/Chicago:20250307T170000
+DTEND;TZID=America/Chicago:20250307T190000
+DESCRIPTION:Asking all grad students to attend the finals for the SACM pizz
+ a bracket of 2024-2025 is here. Cast your vote for who should win the crow
+ n.\n\nCONTACT: 763-267-1320\, bqtran2@wisc.edu
+LOCATION:1325 Computer Sciences
+SUMMARY:SACM TGIF + Trivia
+END:VEVENT
+END:VCALENDAR
+
