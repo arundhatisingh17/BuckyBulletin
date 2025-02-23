@@ -1,6 +1,7 @@
 from flask import Flask, render_template
 from bs4 import BeautifulSoup
 from datetime import datetime
+from flask.cli import load_dotenv
 import requests
 import googlemaps
 import re
@@ -12,6 +13,9 @@ import time
 
 present_date = datetime.today().strftime("%Y-%m-%d")
 
+load_dotenv()
+API_KEY = os.getenv("VITE_GOOGLE_MAPS_API_KEY")
+gmaps = googlemaps.Client(key=API_KEY)
 
 # scraping the events taking place on present_date
 def scrape_events():
@@ -31,8 +35,14 @@ def scrape_events():
 
         if (location_elements):
             location_elements = location_elements.get_text(strip=True)
-
-
+            geocoded_location = gmaps.geocode(location_elements + ", Madison, Wisconsin")
+            if (geocoded_location):
+                lat = geocoded_location[0]['geometry']['location']['lat']
+                lon = geocoded_location[0]['geometry']['location']['lng']
+            else:
+                # default lat/lng for UW Madison
+                lat = 43.0731
+                lon = -89.4012 
         time_elements = event.select("p.event-time span.time-hm")
         time_values = [t.get_text(strip=True) for t in time_elements]
 
@@ -77,6 +87,8 @@ def scrape_events():
             "location" : location_elements,
             "start_time" : start_time,
             "end_time" : end_time,
+            "latitiude": lat,
+            "longitude": lon
         }
 
         events_list.append(event_data)
@@ -92,9 +104,8 @@ def scrape_events():
 schedule.every().day.at("00:00").do(scrape_events)
 
 
+
 if __name__ == "__main__":
     while True:
         schedule.run_pending()
         time.sleep(1)
-
-
