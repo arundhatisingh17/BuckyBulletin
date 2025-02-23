@@ -4,7 +4,7 @@
         "location": "Delta Beer Lab, 167 E Badger Rd, Fitchburg",
         "start_time": "All Day!",
         "end_time": null,
-        "latitiude": 43.0370356,
+        "latitude": 43.0370356,
         "longitude": -89.38225949999999
     },
     {
@@ -12,7 +12,7 @@
         "location": "Nancy Nicholas Hall",
         "start_time": "All Day!",
         "end_time": null,
-        "latitiude": 43.0757388,
+        "latitude": 43.0757388,
         "longitude": -89.4087644
     },
     {
@@ -20,7 +20,7 @@
         "location": "Textile Arts Center of Madison, 2436 Pennsylvania Ave, Madison",
         "start_time": "All Day!",
         "end_time": null,
-        "latitiude": 43.1053381,
+        "latitude": 43.1053381,
         "longitude": -89.35874129999999
     },
     {
@@ -28,7 +28,7 @@
         "location": "Eli’s Art Supplies, 2348 E Washington Ave",
         "start_time": "All Day!",
         "end_time": null,
-        "latitiude": 43.0984254,
+        "latitude": 43.0984254,
         "longitude": -89.3514848
     },
     {
@@ -36,7 +36,7 @@
         "location": "Lynn Mecklenburg Textile Gallery,Nancy Nicholas Hall",
         "start_time": "10a.m.",
         "end_time": "4p.m.",
-        "latitiude": 43.0757388,
+        "latitude": 43.0757388,
         "longitude": -89.4087644
     },
     {
@@ -44,7 +44,7 @@
         "location": "Chazen Museum of Art",
         "start_time": "12p.m.",
         "end_time": "1p.m.",
-        "latitiude": 43.0738323,
+        "latitude": 43.0738323,
         "longitude": -89.39931930000002
     },
     {
@@ -52,7 +52,7 @@
         "location": "Ruth Davis Design Gallery,Nancy Nicholas Hall",
         "start_time": "12p.m.",
         "end_time": "4p.m.",
-        "latitiude": 43.0756796,
+        "latitude": 43.0756796,
         "longitude": -89.4091874
     },
     {
@@ -60,7 +60,7 @@
         "location": "Meet at Visitor Center, UW–Madison Arboretum",
         "start_time": "1p.m.",
         "end_time": "2p.m.",
-        "latitiude": 43.0428709,
+        "latitude": 43.0428709,
         "longitude": -89.4243205
     },
     {
@@ -68,7 +68,7 @@
         "location": "Picnic Point entrance kiosk, University of Wisconsin-Madison, 2000 University Bay Drive, Madison WI 53705",
         "start_time": "1:30p.m.",
         "end_time": "3p.m.",
-        "latitiude": 43.0866099,
+        "latitude": 43.0866099,
         "longitude": -89.4216051
     },
     {
@@ -76,7 +76,7 @@
         "location": "The Kohl Center",
         "start_time": "2p.m.",
         "end_time": "",
-        "latitiude": 43.0693474,
+        "latitude": 43.0693474,
         "longitude": -89.3969006
     },
     {
@@ -84,7 +84,7 @@
         "location": null,
         "start_time": "2p.m.",
         "end_time": "",
-        "latitiude": 43.0693474,
+        "latitude": 43.0693474,
         "longitude": -89.3969006
     },
     {
@@ -92,7 +92,7 @@
         "location": "The Marquee,Union South",
         "start_time": "3p.m.",
         "end_time": "",
-        "latitiude": 43.0717653,
+        "latitude": 43.0717653,
         "longitude": -89.40813419999999
     },
     {
@@ -100,7 +100,7 @@
         "location": "Memorial Union",
         "start_time": "4p.m.",
         "end_time": "",
-        "latitiude": 43.0762475,
+        "latitude": 43.0762475,
         "longitude": -89.4000123
     },
     {
@@ -108,7 +108,7 @@
         "location": "The Sett,Union South",
         "start_time": "5p.m.",
         "end_time": "",
-        "latitiude": 43.071313,
+        "latitude": 43.071313,
         "longitude": -89.40772
     }
 ]

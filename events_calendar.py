@@ -87,7 +87,7 @@ def scrape_events():
             "location" : location_elements,
             "start_time" : start_time,
             "end_time" : end_time,
-            "latitiude": lat,
+            "latitude": lat,
             "longitude": lon
         }
 
@@ -109,3 +109,6 @@ if __name__ == "__main__":
     while True:
         schedule.run_pending()
         time.sleep(1)
+
+# if __name__ == "__main__":
+#     scrape_events()

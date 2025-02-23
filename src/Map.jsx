@@ -1,6 +1,9 @@
 import React from 'react'
 import { GoogleMap, useJsApiLoader } from '@react-google-maps/api'
 import { Button } from 'react-bootstrap';
+import { useState } from 'react';
+import { useEffect } from 'react';
+import { Marker } from '@react-google-maps/api';
 
 const containerStyle = {
   width: '70vw',
@@ -23,6 +26,21 @@ function Map() {
     id: 'google-map-script',
     googleMapsApiKey: apiKey,
   })
+
+  const [events, setEvents] = useState([]); 
+
+    useEffect(() => {
+      fetch("../events.json")  
+        .then(response => response.json())
+        .then(data => {
+          setEvents(data)
+          console.log(data)
+          console.log(data.latitude)
+          console.log(data.longitude)
+          console.log(typeof(data.latitude))
+        })
+        .catch(error => console.error("Error fetching events:", error));
+    }, []);
 
 //   const resetToStartingLocation = () => {
 //     if (map) {
@@ -53,11 +71,18 @@ function Map() {
       onLoad={onLoad}
       onUnmount={onUnmount}
     >
-      {/* Child components, such as markers, info windows, etc. */}
+
+      {events.map((event, index) => (
+        <Marker
+          key={index}
+          position={{ lat: parseFloat(event.latitude), lng: parseFloat(event.longitude)}}
+          title={event.title}
+        />
+      ))}
       <></>
     </GoogleMap>
   ) : (
-    <></>
+    <p>Loading!</p>
   )
 }
 
