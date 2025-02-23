@@ -1,66 +1,49 @@
-import React from 'react'
-import { GoogleMap, useJsApiLoader } from '@react-google-maps/api'
-import { useState } from 'react';
-import { useEffect } from 'react';
-import { Marker } from '@react-google-maps/api';
-import mapStyle from "./mapStyle.jsx";
+import React, { useState, useCallback, useEffect } from "react";
+import { GoogleMap, useJsApiLoader, Marker } from "@react-google-maps/api";
+import mapStyle from "./MapStyle.jsx";
 import Popup from "./components/Popup.jsx";
 
 const containerStyle = {
-  width: '70vw',
-  height: '80vh',
+  width: "70vw",
+  height: "80vh",
   position: "fixed",
-  bottom: 10, 
-  left: 20
-}
+  bottom: 10,
+  left: 20,
+};
 
 const center = {
   lat: 43.072028,
-  lng: -89.40747
-}
+  lng: -89.40747,
+};
 
 function Map() {
-  
   const apiKey = import.meta.env.VITE_GOOGLE_MAPS_API_KEY;
 
   const { isLoaded } = useJsApiLoader({
-    id: 'google-map-script',
+    id: "google-map-script",
     googleMapsApiKey: apiKey,
-  })
+  });
 
-  const [events, setEvents] = useState([]); 
-
-    useEffect(() => {
-      fetch("../events.json")  
-        .then(response => response.json())
-        .then(data => {
-          setEvents(data)
-        })
-        .catch(error => console.error("Error fetching events:", error));
-    }, []);
-
-//   const resetToStartingLocation = () => {
-//     if (map) {
-//       map.panTo(currentCenter);
-//       map.setZoom(16);
-//     }
-//   };
-
-  const [map, setMap] = React.useState(null)
+  const [events, setEvents] = useState([]);
   const [selectedMarker, setSelectedMarker] = useState(null);
+  const [map, setMap] = useState(null);
 
+  useEffect(() => {
+    fetch("../events.json")
+      .then((response) => response.json())
+      .then((data) => {
+        setEvents(data);
+      })
+      .catch((error) => console.error("Error fetching events:", error));
+  }, []);
 
-  const onLoad = React.useCallback(function callback(map) {
-    // This is just an example of getting and using the map instance!!! don't just blindly copy!
-    const bounds = new window.google.maps.LatLngBounds(center)
-    // map.fitBounds(bounds)
+  const onLoad = useCallback((mapInstance) => {
+    setMap(mapInstance);
+  }, []);
 
-    setMap(map)
-  }, [])
-
-  const onUnmount = React.useCallback(function callback(map) {
-    setMap(null)
-  }, [])
+  const onUnmount = useCallback(() => {
+    setMap(null);
+  }, []);
 
   return isLoaded ? (
     <GoogleMap
@@ -70,25 +53,22 @@ function Map() {
       tilt={45}
       onLoad={onLoad}
       onUnmount={onUnmount}
-      options = {{styles:mapStyle}}
+      options={{ styles: mapStyle }}
     >
-      {selectedMarker && (
-        <Popup marker={selectedMarker} onClose={() => setSelectedMarker(null)} />
-      )}
+      {selectedMarker && <Popup marker={selectedMarker} onClose={() => setSelectedMarker(null)} />}
 
       {events.map((event, index) => (
         <Marker
           key={index}
-          position={{ lat: parseFloat(event.latitude), lng: parseFloat(event.longitude)}}
+          position={{ lat: parseFloat(event.latitude), lng: parseFloat(event.longitude) }}
           title={event.title}
-          onClick={() => setSelectedMarker(event)}
+          onClick={() => setSelectedMarker(event)} // This correctly sets the selected marker
         />
       ))}
-      <></>
     </GoogleMap>
   ) : (
     <p>Loading!</p>
-  )
+  );
 }
 
-export default Map
+export default Map;
