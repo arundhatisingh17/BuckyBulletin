@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Rachael's Painting Show and Mixer",
+        "location": "Delta Beer Lab, 167 E Badger Rd, Fitchburg",
+        "start_time": "All Day!",
+        "end_time": null
+    },
+    {
+        "title": "It’s All the Rage: Activism, Aging, and the Raging Grannies of Madison",
+        "location": "Nancy Nicholas Hall",
+        "start_time": "All Day!",
+        "end_time": null
+    },
+    {
+        "title": "Convergence",
+        "location": "Textile Arts Center of Madison, 2436 Pennsylvania Ave, Madison",
+        "start_time": "All Day!",
+        "end_time": null
+    },
+    {
+        "title": "As Long As It’s Safe To Do So",
+        "location": "Eli’s Art Supplies, 2348 E Washington Ave",
+        "start_time": "All Day!",
+        "end_time": null
+    },
+    {
+        "title": "Afterlives: Material Stories from the Helen Louise Allen Textile Collection",
+        "location": "Lynn Mecklenburg Textile Gallery,Nancy Nicholas Hall",
+        "start_time": "10a.m.",
+        "end_time": "4p.m."
+    },
+    {
+        "title": "Sunday Tour: You Belong Here",
+        "location": "Chazen Museum of Art",
+        "start_time": "12a.m.",
+        "end_time": "1p.m."
+    },
+    {
+        "title": "Material Intelligence",
+        "location": "Ruth Davis Design Gallery,Nancy Nicholas Hall",
+        "start_time": "12a.m.",
+        "end_time": "4p.m."
+    },
+    {
+        "title": "Scenic Stroll",
+        "location": "Meet at Visitor Center, UW–Madison Arboretum",
+        "start_time": "1a.m.",
+        "end_time": "2p.m."
+    },
+    {
+        "title": "Winter Birds",
+        "location": "Picnic Point entrance kiosk, University of Wisconsin-Madison, 2000 University Bay Drive, Madison WI 53705",
+        "start_time": "1:30a.m.",
+        "end_time": "3p.m."
+    },
+    {
+        "title": "Women's Basketball: UW vs. Northwestern",
+        "location": "The Kohl Center",
+        "start_time": "2p.m.",
+        "end_time": null
+    },
+    {
+        "title": "\"Citizens of a Stolen Land: Ho Chunk History of the 19th Century\": In-Person Badgers Talk in Monona, WI",
+        "location": null,
+        "start_time": "2p.m.",
+        "end_time": null
+    },
+    {
+        "title": "WUD Film & the Black Cultural Center Present: Wicked (2024) [Sing Along with Open Captions]",
+        "location": "The Marquee,Union South",
+        "start_time": "3p.m.",
+        "end_time": null
+    },
+    {
+        "title": "Family Ice Skating Night with Outdoor UW",
+        "location": "Memorial Union",
+        "start_time": "4p.m.",
+        "end_time": null
+    },
+    {
+        "title": "Sunday Game Night: Tsuro of the Seas",
+        "location": "The Sett,Union South",
+        "start_time": "5p.m.",
+        "end_time": null
+    }
+]
