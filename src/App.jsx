@@ -23,7 +23,7 @@ function App() {
     const fetchEvents = async () => {
       try {
         const formattedDate = formatDate(selectedDate);
-        const filename = `/events_${formattedDate}.json`;
+        const filename = `/json_folder/events_${formattedDate}.json`;
 
         const response = await fetch(filename);
         const contentType = response.headers.get("content-type");

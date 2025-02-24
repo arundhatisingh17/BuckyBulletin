@@ -8,9 +8,9 @@ const Sidebar = ({ events, onEventClick }) => {
         <Col>
           <h3 className="mt-3">Events</h3>
           <ListGroup variant="flush">
-            {events.map((event) => (
+            {events.map((event, index) => (
               <ListGroup.Item
-                key={event.id}
+                key={index} // ✅ Use index as the unique key
                 style={styles.eventItem}
                 onClick={() =>
                   onEventClick({ lat: parseFloat(event.latitude), lng: parseFloat(event.longitude) })
@@ -52,7 +52,7 @@ const styles = {
     borderRadius: "5px",
     boxShadow: "0 2px 5px rgba(0,0,0,0.1)",
     marginBottom: "6px",
-    cursor: "pointer", // ✅ Adds a clickable feel
+    cursor: "pointer", // ✅ Makes it feel clickable
     transition: "background-color 0.2s ease-in-out",
   },
   eventItemHover: {

@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import { GoogleMap, useJsApiLoader, Marker } from "@react-google-maps/api";
 import mapStyle from "./MapStyle.jsx";
 import Popup from "./components/Popup.jsx";
+import BuckyBadgerIcon from "./assets/BuckyBadger.png"
 
 const containerStyle = {
   position: "relative",
@@ -61,6 +62,12 @@ function Map({ events, selectedLocation }) {
             position={{ lat: parseFloat(event.latitude), lng: parseFloat(event.longitude) }}
             title={event.title}
             onClick={() => setSelectedMarker(event)}
+            icon={{
+              url: BuckyBadgerIcon, // ✅ Path to your custom marker
+              scaledSize: new window.google.maps.Size(35, 45), // ✅ Resizes the icon
+              origin: new window.google.maps.Point(0, 0),
+              anchor: new window.google.maps.Point(20, 40), // ✅ Ensures proper placement
+            }}
           />
         ))}
       </GoogleMap>
