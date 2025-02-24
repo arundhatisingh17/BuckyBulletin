@@ -4,8 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "engines": {
-  "node": "22.2.0",
-  "npm": "10.9.2"
+    "node": "22.2.0",
+    "npm": "10.9.2"
   },
   "scripts": {
     "dev": "vite",
@@ -20,8 +20,7 @@
     "react": "^19.0.0",
     "react-bootstrap": "^2.10.9",
     "react-date-picker": "^11.0.0",
-    "react-dom": "^19.0.0",
-    "react-helmet-async": "^2.0.5"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
@@ -42,5 +41,4 @@
       }
     }
   }
-  
 }
