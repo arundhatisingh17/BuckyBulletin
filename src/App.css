@@ -48,3 +48,39 @@ html, body, #root {
 .read-the-docs {
   color: #888;
 }
+
+/* ✅ Fix DatePicker Input Visibility */
+.custom-datepicker-container {
+  display: inline-block;
+  width: 100%;
+  max-width: 220px;
+}
+
+/* ✅ Force DatePicker Input to Be Visible */
+.custom-datepicker .react-date-picker__wrapper {
+  border: 1px solid #ced4da !important; /* Bootstrap default border */
+  background-color: white !important;
+  border-radius: 5px;
+  padding: 8px;
+  font-size: 14px;
+  color: black !important;
+}
+
+/* ✅ Fix Calendar Dropdown Visibility */
+.react-calendar {
+  background: white !important;
+  border: 1px solid #ced4da !important;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+/* ✅ Ensure Date Text is Black */
+.react-date-picker__inputGroup {
+  color: black !important;
+  font-size: 14px;
+}
+
+/* ✅ Fix Calendar Buttons */
+.react-calendar button {
+  color: black !important;
+}

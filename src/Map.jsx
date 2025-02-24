@@ -6,8 +6,13 @@ import Popup from "./components/Popup.jsx";
 const containerStyle = {
   position: "relative",
   width: "100%",
-  height: "67vh",
-  overflow: "visible",
+  height: "calc(100vh - 230px)", 
+  minHeight: "400px", 
+  marginLeft: "8%",
+  marginBottom: "20px", 
+  overflow: "hidden",
+  borderRadius: "10px",
+  boxShadow: "0px 4px 10px rgba(0, 0, 0, 0.2)", 
 };
 
 const center = {

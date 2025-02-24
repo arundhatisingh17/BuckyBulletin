@@ -1,25 +1,23 @@
 import React from "react";
+import DatePicker from "react-date-picker";
+import "react-date-picker/dist/DatePicker.css";
+import "react-calendar/dist/Calendar.css";
 import { Form } from "react-bootstrap";
 
-const DatePicker = ({ selectedDate, setSelectedDate }) => {
-  
-  const getLocalDate = (date) => {
-    const local = new Date(date);
-    local.setMinutes(local.getMinutes() - local.getTimezoneOffset()); // Adjust for timezone offset
-    return local.toISOString().split("T")[0]; // Format as YYYY-MM-DD
-  };
-
+const CustomDatePicker = ({ selectedDate, setSelectedDate }) => {
   return (
     <Form.Group className="mb-3">
       <Form.Label><strong>Select Date:</strong></Form.Label>
-      <Form.Control
-        type="date"
-        value={getLocalDate(selectedDate)}
-        onChange={(e) => setSelectedDate(new Date(e.target.value))}
-        style={{ cursor: "pointer", maxWidth: "200px" }}
-      />
+      <div className="custom-datepicker-container">
+        <DatePicker
+          onChange={setSelectedDate}
+          value={selectedDate}
+          format="yyyy-MM-dd"
+          className="custom-datepicker"
+        />
+      </div>
     </Form.Group>
   );
 };
 
-export default DatePicker;
+export default CustomDatePicker;

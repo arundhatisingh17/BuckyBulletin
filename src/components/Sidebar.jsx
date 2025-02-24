@@ -11,7 +11,10 @@ const Sidebar = ({ events }) => {
             {events.map((event) => (
               <ListGroup.Item key={event.id} style={styles.eventItem}>
                 <strong>{event.title}</strong> <br />
-                {event.tags ? event.tags.join(", ") : "No Tags"}
+                <>
+                  <p style={{ fontWeight: "normal", fontStyle: "italic" }}>{event.location}</p>
+                  {event.tags ? event.tags.join(", ") : "No Tags"}
+                </>
               </ListGroup.Item>
             ))}
           </ListGroup>
@@ -21,7 +24,6 @@ const Sidebar = ({ events }) => {
   );
 };
 
-// ✅ Sidebar Styles (Always Visible)
 const styles = {
   sidebar: {
     position: "fixed",
