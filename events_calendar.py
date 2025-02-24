@@ -188,13 +188,28 @@ def schedule_scraping():
     dates = get_30_days()
     for date in dates:
         scrape_events(date)
-        # json_filename = f"events_{date}.json"
-        # if not os.path.exists(os.path.join("json_folder", json_filename)):
-        #     schedule.every().day.at("00:00").do(scrape_events, date)
+        json_filename = f"events_{date}.json"
+        json_path = os.path.join("json_folder", json_filename)
+
+        if os.path.exists(json_path):
+            os.remove(json_path)
+            scrape_events(date)
+
+        else:
+            scrape_events(date)
+           
 
 
 if __name__ == "__main__":
     schedule_scraping()
+    schedule.every().day.at("00:00").do(schedule_scraping)
+
+    print("Scheduler is running, scraping will occur at midnight daily.")
+
+    while True:
+        schedule.run_pending()
+        time.sleep(60)  
+
     # app.run(debug=True, port=5000)
 
 # if __name__ == "__main__":
