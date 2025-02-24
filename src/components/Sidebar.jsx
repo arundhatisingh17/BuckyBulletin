@@ -1,7 +1,9 @@
 import React from "react";
 import { Container, Row, Col, ListGroup } from "react-bootstrap";
+import { useState } from "react";
 
 const Sidebar = ({ events, onEventClick }) => {
+  const [hoveredIndex, setHoveredIndex] = useState(null);
   return (
     <Container fluid style={styles.sidebar}>
       <Row>
@@ -10,8 +12,13 @@ const Sidebar = ({ events, onEventClick }) => {
           <ListGroup variant="flush">
             {events.map((event, index) => (
               <ListGroup.Item
-                key={index} // ✅ Use index as the unique key
-                style={styles.eventItem}
+                key={index} 
+                style={{
+                  ...styles.eventItem,
+                  ...(hoveredIndex === index ? styles.eventItemHover : {}), 
+                }}
+                onMouseEnter={() => setHoveredIndex(index)} 
+                onMouseLeave={() => setHoveredIndex(null)} 
                 onClick={() =>
                   onEventClick({ lat: parseFloat(event.latitude), lng: parseFloat(event.longitude) })
                 }
