@@ -9,7 +9,7 @@ import Sidebar from "./components/Sidebar.jsx";
 function App() {
   const [events, setEvents] = useState([]);
   const [selectedDate, setSelectedDate] = useState(() => new Date());
-  const [selectedLocation, setSelectedLocation] = useState(null);
+  const [selectedLocation, setSelectedLocation] = useState("");
 
   const formatDate = (date) => {
     if (!date) return "";
