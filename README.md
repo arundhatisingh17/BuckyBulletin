@@ -3,6 +3,8 @@
 
 **Bucky Bulletin** is an interactive **Google Maps** application that displays events around **UW-Madison**.  
 
+![Screenshot](https://raw.githubusercontent.com/arundhatisingh17/BuckyBulletin/main/src/assets/ss.png)
+
 In the hectic day-to-day life of a college student, it can be very easy to miss out on the numerous events around that take place daily. We have personally been victims to this, and this led to the decision of creating **Bucky Bulletin** - a very convenient and accessible website to map out all the events on and around campus to help you find events that align with your timings and interests.
 
 
