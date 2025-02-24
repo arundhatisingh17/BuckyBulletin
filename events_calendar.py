@@ -187,7 +187,6 @@ def scrape_events(present_date):
 def schedule_scraping():
     dates = get_30_days()
     for date in dates:
-        scrape_events(date)
         json_filename = f"events_{date}.json"
         json_path = os.path.join("json_folder", json_filename)
 
