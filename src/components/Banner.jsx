@@ -29,8 +29,17 @@ const Banner = ({ marker, onClose }) => {
               <td>{marker.start_time}{marker.end_time ? ` - ${marker.end_time}` : ""}</td>
             </tr>
             <tr>
-              <td><strong>Description</strong></td>
-              <td>{marker.description}</td>
+                <td><strong>Description</strong></td>
+                <td>
+                    {marker.description?.startsWith("https") ? (
+                        <a href={marker.description} target="_blank" rel="noopener noreferrer">
+                        {marker.description}
+                        </a>
+                    ) : (
+                    marker.description
+                    )}
+                </td>
+
             </tr>
             <tr>
                 <td><strong>Tags</strong></td>

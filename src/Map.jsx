@@ -1,14 +1,13 @@
-import React, { useState, useCallback, useEffect } from "react";
+import React, { useState, useCallback } from "react";
 import { GoogleMap, useJsApiLoader, Marker } from "@react-google-maps/api";
 import mapStyle from "./MapStyle.jsx";
 import Popup from "./components/Popup.jsx";
 
 const containerStyle = {
-  width: "70vw",
-  height: "80vh",
-  position: "fixed",
-  bottom: 10,
-  left: 20,
+  position: "relative", 
+  width: "100%",
+  height: "67vh", 
+  overflow: "visible", 
 };
 
 const center = {
@@ -16,7 +15,7 @@ const center = {
   lng: -89.40747,
 };
 
-function Map() {
+function Map({ events }) {
   const apiKey = import.meta.env.VITE_GOOGLE_MAPS_API_KEY;
 
   const { isLoaded } = useJsApiLoader({
@@ -24,39 +23,23 @@ function Map() {
     googleMapsApiKey: apiKey,
   });
 
-  const [events, setEvents] = useState([]);
   const [selectedMarker, setSelectedMarker] = useState(null);
-  const [map, setMap] = useState(null);
-
-  useEffect(() => {
-    fetch("../events.json")
-      .then((response) => response.json())
-      .then((data) => {
-        setEvents(data);
-      })
-      .catch((error) => console.error("Error fetching events:", error));
-  }, []);
-
-  const onLoad = useCallback((mapInstance) => {
-    setMap(mapInstance);
-  }, []);
-
-  const onUnmount = useCallback(() => {
-    setMap(null);
-  }, []);
 
   return isLoaded ? (
     <GoogleMap
       mapContainerStyle={containerStyle}
       center={center}
-      zoom={16}
+      zoom={18}
       tilt={45}
-      onLoad={onLoad}
-      onUnmount={onUnmount}
-      options={{ styles: mapStyle, fullscreenControl:false }}
+      options={{
+        styles: mapStyle,
+        fullscreenControl: false,
+      }}
     >
+      {/* Show Popup when a marker is clicked */}
       {selectedMarker && <Popup marker={selectedMarker} onClose={() => setSelectedMarker(null)} />}
 
+      {/* Render all event markers */}
       {events.map((event, index) => (
         <Marker
           key={index}
