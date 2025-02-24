@@ -32,7 +32,7 @@ function Map({ events, selectedLocation }) {
 
   const [selectedMarker, setSelectedMarker] = useState(null);
 
-  // ✅ Pan map when clicking an event in the sidebar
+
   useEffect(() => {
     if (mapRef.current && selectedLocation) {
       mapRef.current.panTo(selectedLocation);
@@ -45,7 +45,7 @@ function Map({ events, selectedLocation }) {
       <GoogleMap
         mapContainerStyle={containerStyle}
         center={center}
-        zoom={18}
+        zoom={15}
         tilt={45}
         options={{
           styles: mapStyle,
@@ -63,10 +63,10 @@ function Map({ events, selectedLocation }) {
             title={event.title}
             onClick={() => setSelectedMarker(event)}
             icon={{
-              url: BuckyBadgerIcon, // ✅ Path to your custom marker
-              scaledSize: new window.google.maps.Size(35, 45), // ✅ Resizes the icon
+              url: BuckyBadgerIcon, 
+              scaledSize: new window.google.maps.Size(35, 45), 
               origin: new window.google.maps.Point(0, 0),
-              anchor: new window.google.maps.Point(20, 40), // ✅ Ensures proper placement
+              anchor: new window.google.maps.Point(20, 40), 
             }}
           />
         ))}
