@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 import "./App.css";
-import { Helmet, HelmetProvider } from "react-helmet-async";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Container, Row, Col } from "react-bootstrap";
 import Map from "./Map.jsx";
@@ -44,19 +43,13 @@ function App() {
     fetchEvents();
   }, [selectedDate]);
 
-  // ✅ Function to pan the map when clicking an event
+
   const handleEventClick = (location) => {
     setSelectedLocation(location);
   };
 
   return (
     <>
-      <HelmetProvider>
-        <Helmet>
-          <title>WiscEvents</title>
-          <meta name="description" content="Explore UW-Madison events on an interactive map." />
-        </Helmet>
-
         <Container fluid>
           <Row>
             <Col xs={3} className="p-0">
@@ -75,7 +68,6 @@ function App() {
             </Col>
           </Row>
         </Container>
-      </HelmetProvider>
     </>
   );
 }
