@@ -9,43 +9,31 @@ import Sidebar from "./components/Sidebar.jsx";
 
 function App() {
   const [events, setEvents] = useState([]);
+  const [selectedDate, setSelectedDate] = useState(new Date()); // ✅ Track selected date
 
-  const styles = {
-    container: {
-      display: "flex",
-      width: "100vw",
-      height: "100vh", // ✅ Keeps the app within the screen
-      overflow: "hidden",
-      flexDirection: "column",
-      justifyContent: "space-between", // ✅ Ensures elements are evenly spaced
-    },
-    mainContent: {
-      flexGrow: 1,
-      display: "flex",
-      flexDirection: "column",
-      padding: "20px",
-      height: "100vh",
-      overflow: "hidden",
-      justifyContent: "center",
-    },
-    mapContainer: {
-      flexGrow: 1,
-      width: "calc(100vw - 250px)",
-      height: "calc(100vh - 100px)", 
-      display: "flex",
-      justifyContent: "center",
-      alignItems: "center",
-    },
+  // ✅ Format date as YYYY-MM-DD
+  const formatDate = (date) => {
+    return date.toISOString().split("T")[0];
   };
-  
 
-  // Fetch events from JSON
   useEffect(() => {
-    fetch("/events.json")
-      .then((response) => response.json())
-      .then((data) => setEvents(data))
-      .catch((error) => console.error("Error fetching events:", error));
-  }, []);
+    const fetchEvents = () => {
+      const formattedDate = formatDate(selectedDate);
+      const filename = `/events_${formattedDate}.json`;
+
+      fetch(filename)
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error(`No events found for ${formattedDate}`);
+          }
+          return response.json();
+        })
+        .then((data) => setEvents(data))
+        .catch((error) => console.error("Error fetching events:", error));
+    };
+
+    fetchEvents();
+  }, [selectedDate]); 
 
   return (
     <>
@@ -57,7 +45,6 @@ function App() {
 
         <Container fluid>
           <Row>
-            {/* Sidebar (Always Visible) */}
             <Col xs={3} className="p-0">
               <Sidebar events={events} />
             </Col>
@@ -68,10 +55,8 @@ function App() {
                 <p>Explore UW-Madison events on an interactive map.</p>
               </header>
 
-              {/* Date Picker */}
-              <DatePicker />
-
-              {/* Map (Shifted Right to Make Space for Sidebar) */}
+              <DatePicker selectedDate={selectedDate} setSelectedDate={setSelectedDate} />
+              
               <Map events={events} />
             </Col>
           </Row>

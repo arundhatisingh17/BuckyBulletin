@@ -1,13 +1,13 @@
-import React, { useState, useCallback } from "react";
+import React, { useState } from "react";
 import { GoogleMap, useJsApiLoader, Marker } from "@react-google-maps/api";
 import mapStyle from "./MapStyle.jsx";
 import Popup from "./components/Popup.jsx";
 
 const containerStyle = {
-  position: "relative", 
+  position: "relative",
   width: "100%",
-  height: "67vh", 
-  overflow: "visible", 
+  height: "67vh",
+  overflow: "visible",
 };
 
 const center = {
@@ -36,10 +36,8 @@ function Map({ events }) {
         fullscreenControl: false,
       }}
     >
-      {/* Show Popup when a marker is clicked */}
       {selectedMarker && <Popup marker={selectedMarker} onClose={() => setSelectedMarker(null)} />}
 
-      {/* Render all event markers */}
       {events.map((event, index) => (
         <Marker
           key={index}
