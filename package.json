@@ -15,15 +15,15 @@
     "heroku-prebuild": "npm install --legacy-peer-deps",
     "start": "serve -s dist",
     "test": "vitest"
-},
-
+  },
   "dependencies": {
     "@react-google-maps/api": "^2.20.6",
     "bootstrap": "^5.3.3",
     "react": "^19.0.0",
     "react-bootstrap": "^2.10.9",
     "react-date-picker": "^11.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "serve": "^14.2.4"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
