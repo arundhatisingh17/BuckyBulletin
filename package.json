@@ -12,8 +12,10 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "heroku-prebuild": "npm install --legacy-peer-deps"
-  },
+    "heroku-prebuild": "npm install --legacy-peer-deps",
+    "start": "node App.jsx"
+},
+
   "dependencies": {
     "@react-google-maps/api": "^2.20.6",
     "bootstrap": "^5.3.3",
