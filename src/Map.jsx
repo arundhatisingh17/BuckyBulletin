@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { GoogleMap, useJsApiLoader, Marker } from "@react-google-maps/api";
 import mapStyle from "./MapStyle.jsx";
 import Popup from "./components/Popup.jsx";
@@ -8,7 +8,7 @@ const containerStyle = {
   width: "100%",
   height: "calc(100vh - 230px)", 
   minHeight: "400px", 
-  marginLeft: "8%",
+  marginLeft: "-50px",
   marginBottom: "20px", 
   overflow: "hidden",
   borderRadius: "10px",
@@ -20,8 +20,9 @@ const center = {
   lng: -89.40747,
 };
 
-function Map({ events }) {
+function Map({ events, selectedLocation }) {
   const apiKey = import.meta.env.VITE_GOOGLE_MAPS_API_KEY;
+  const mapRef = useRef(null);
 
   const { isLoaded } = useJsApiLoader({
     id: "google-map-script",
@@ -30,28 +31,40 @@ function Map({ events }) {
 
   const [selectedMarker, setSelectedMarker] = useState(null);
 
-  return isLoaded ? (
-    <GoogleMap
-      mapContainerStyle={containerStyle}
-      center={center}
-      zoom={18}
-      tilt={45}
-      options={{
-        styles: mapStyle,
-        fullscreenControl: false,
-      }}
-    >
-      {selectedMarker && <Popup marker={selectedMarker} onClose={() => setSelectedMarker(null)} />}
+  // ✅ Pan map when clicking an event in the sidebar
+  useEffect(() => {
+    if (mapRef.current && selectedLocation) {
+      mapRef.current.panTo(selectedLocation);
+      mapRef.current.setZoom(16);
+    }
+  }, [selectedLocation]);
 
-      {events.map((event, index) => (
-        <Marker
-          key={index}
-          position={{ lat: parseFloat(event.latitude), lng: parseFloat(event.longitude) }}
-          title={event.title}
-          onClick={() => setSelectedMarker(event)}
-        />
-      ))}
-    </GoogleMap>
+  return isLoaded ? (
+    <div style={{ display: "flex", justifyContent: "center", width: "100%" }}>
+      <GoogleMap
+        mapContainerStyle={containerStyle}
+        center={center}
+        zoom={18}
+        tilt={45}
+        options={{
+          styles: mapStyle,
+          fullscreenControl: true,
+          mapTypeControl: true,
+        }}
+        onLoad={(map) => (mapRef.current = map)}
+      >
+        {selectedMarker && <Popup marker={selectedMarker} onClose={() => setSelectedMarker(null)} />}
+
+        {events.map((event, index) => (
+          <Marker
+            key={index}
+            position={{ lat: parseFloat(event.latitude), lng: parseFloat(event.longitude) }}
+            title={event.title}
+            onClick={() => setSelectedMarker(event)}
+          />
+        ))}
+      </GoogleMap>
+    </div>
   ) : (
     <p>Loading!</p>
   );
