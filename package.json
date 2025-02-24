@@ -15,8 +15,7 @@
     "heroku-prebuild": "npm install --legacy-peer-deps",
     "start": "vite",
     "test": "vitest"
-},
-
+  },
   "dependencies": {
     "@react-google-maps/api": "^2.20.6",
     "bootstrap": "^5.3.3",
