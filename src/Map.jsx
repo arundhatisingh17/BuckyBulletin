@@ -36,7 +36,7 @@ function Map({ events, selectedLocation }) {
   useEffect(() => {
     if (mapRef.current && selectedLocation) {
       mapRef.current.panTo(selectedLocation);
-      mapRef.current.setZoom(16);
+      mapRef.current.setZoom(12);
     }
   }, [selectedLocation]);
 
