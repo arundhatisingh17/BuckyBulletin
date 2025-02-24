@@ -45,11 +45,7 @@ function Map({ events }) {
           key={index}
           position={{ lat: parseFloat(event.latitude), lng: parseFloat(event.longitude) }}
           title={event.title}
-<<<<<<< Updated upstream
           onClick={() => setSelectedMarker(event)}
-=======
-          onClick={() => setSelectedMarker(event)} // This correctly sets the selected marker'
->>>>>>> Stashed changes
         />
       ))}
     </GoogleMap>
