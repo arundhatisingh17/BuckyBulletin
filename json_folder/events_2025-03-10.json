@@ -1,0 +1,340 @@
+[
+    {
+        "title": "The Last Rose of Summer: Master of Fine Arts Thesis Exhibition by Jonah Figueroa-Daley",
+        "location": "Art Lofts Gallery,Art Lofts",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0690363,
+        "longitude": -89.3954208,
+        "description": "Exhibition dates: March 10 – 14, Reception: Wednesday, March 12, 6-9pm. A portrait constructed from a collection of “things”, images and sculptures, this exhibit examines the intricate relationship between the home Figueroa-Daley grew up in, the land it resides on, and the body—a relationship profoundly shaped by their experience with Ehlers-Danlos syndrome and further informed by the medical experiences of his mother moving through her diagnosis with HER2-metastatic breast cancer.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
+    },
+    {
+        "title": "It’s All the Rage: Activism, Aging, and the Raging Grannies of Madison",
+        "location": "Nancy Nicholas Hall",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0757388,
+        "longitude": -89.4087644,
+        "description": "It’s All the Rage: Activism, Aging, and the Raging Grannies of Madison grows from a two-year archival and oral history project. This exhibit focuses on several decades of local Wisconsin grassroots activism enacted by the Madison and Dane County Raging Grannies. Featuring an array of granny hats, aprons, songbooks, political buttons, and instruments, as well as video and audio clips of their original songs, this exhibit explores how senior women have engaged in a wide variety of activities.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Humanities",
+            "Aging",
+            "Activism",
+            "Gender",
+            "Material culture",
+            "School of human ecology",
+            "SoHE",
+            "Gender and Women Studies",
+            "Center for Design and Material Culture",
+            "CDMC",
+            "Center for Research on Gender and Women",
+            "Raging grannies"
+        ]
+    },
+    {
+        "title": "Constructs of Color—Hard & Soft",
+        "location": "9th floor Vision Gallery,Wisconsin Institutes for Medical Research",
+        "start_time": "8:30a.m.",
+        "end_time": "5p.m.",
+        "latitude": 43.078097,
+        "longitude": -89.43164949999999,
+        "description": "An exhibition exploring the multifaceted impacts of color, in works of translucent glass and stitched fabrics.- Stained glass works by Randy Glysch- Fiber, needlework, and mixed media stitchworks by Memory Cloth Circle artists",
+        "tags": [
+            "Arts",
+            "Exhibitions"
+        ]
+    },
+    {
+        "title": "Writing Your Research Statement for the Academic Job Market",
+        "location": "Online",
+        "start_time": "10a.m.",
+        "end_time": "11a.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Job postings in higher education often require a research statement as part of the application process. This session will focus on assembling a research statement for academic jobs. We’ll consider the intended audience and analyze examples from recent applicants.",
+        "tags": [
+            "Research",
+            "Professional development",
+            "Delta",
+            "Career development",
+            "GSPD",
+            "Grad students"
+        ]
+    },
+    {
+        "title": "University Veteran Services Satellite Office Hours",
+        "location": "Atrium,Signe Skott Cooper Hall",
+        "start_time": "11:30a.m.",
+        "end_time": "1:30p.m.",
+        "latitude": 43.0775337,
+        "longitude": -89.4278564,
+        "description": "University Veteran Services (UVS) is hosting drop-in office hours for military-connected students at Signe Skott Cooper Hall in the Atrium! This is a great opportunity to connect with a member of our staff face-to-face to talk education benefits, active duty orders, any other questions, or just to check in and say hello between classes. Military-connected students in all majors on campus are welcome. Please contact veterans@wisc.edu with questions.",
+        "tags": [
+            "Careers and advising",
+            "Advising",
+            "Student life",
+            "Nursing School",
+            "#studentlife",
+            "Uwveteran",
+            "#UWVeteran"
+        ]
+    },
+    {
+        "title": "Badger Scholars 2",
+        "location": "2305Signe Skott Cooper Hall",
+        "start_time": "11:30a.m.",
+        "end_time": "12:15p.m.",
+        "latitude": 43.0775337,
+        "longitude": -89.4278564,
+        "description": "For May 2025 grads. Badger Scholars is an academic and social support group to promote your success in nursing. Based on your feedback from the fall, topics may include things like 443 support, interview tips and tricks, licensure, or alumni panel.",
+        "tags": [
+            "Nursing",
+            "Nlc"
+        ]
+    },
+    {
+        "title": "Talk: Privacy, Copyright, and Data Integrity: The Cascading Implications of Generative AI",
+        "location": "1240Computer Sciences",
+        "start_time": "12p.m.",
+        "end_time": "1p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "LIVE STREAM: TBDAbstract:The rapid adoption of generative AI has created a cycle where personal information cascades perpetually: from people to models to applications and online platforms, then back through scrapers into the system. Simple blanket rules such as \"don't train on this data\" or \"don't share sensitive information\" are inadequate, as we face training data scarcity while these models are already deeply integrated into people's daily lives. In this talk, rather than examining data, people, and models in isolation and setting rigid rules, we will reason about their interplay by discussing three research directions: (1) measuring the imprint of data on models through novel membership inference attacks and uncovering memorization patterns, (2) developing algorithmic approaches to help people control the exposure of their data while preserving utility, and (3) grounding model evaluations in legal and social frameworks, particularly the theory of contextual integrity. Looking ahead, we discuss emerging directions in building on-device privacy controls and nudging mechanisms, formalizing semantic memorization, and developing model capabilities such as abstraction, composition, and inhibition to enable controllable generation of outputs.Bio:Niloofar Mireshghallah is a post-doctoral scholar at the Paul G. Allen Center for Computer Science & Engineering at the University of Washington. She received her Ph.D. from the CSE department of UC San Diego in 2023. Her research interests are privacy in machine learning, natural language processing, and generative AI and law. She is a recipient of the National Center for Women & IT Collegiate award in 2020, a finalist of the Qualcomm Innovation Fellowship in 2021, and a recipient of the 2022 Rising Stars in Adversarial ML award and Rising Stars in EECS.",
+        "tags": [
+            "Computer science",
+            "Computer sciences"
+        ]
+    },
+    {
+        "title": "Virtual Support for Survivors",
+        "location": "Online",
+        "start_time": "1p.m.",
+        "end_time": "2:30p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "This is a drop-in space for UW-Madison student survivors to connect with peers and offer mutual support in a confidential and safe environment. Group facilitators are mental health professionals that foster a space that is open, affirming, and connecting for all members. Group will focus on the impact of having experienced trauma and skills/supports to support post-traumatic growth, with some boundaries placed around sharing narratives about traumatic experiences. This group is specifically designed for UW-Madison students who have experienced sexual assault, dating/domestic violence, sexual harassment, stalking, and/or childhood sexual abuse.",
+        "tags": [
+            "Wellness",
+            "Uhs",
+            "Survivor services"
+        ]
+    },
+    {
+        "title": "\"Human Services Deserts?: Nonprofit Human Services Safety Net Access in Possible Human Service\" - Dr Shoshana Shapiro",
+        "location": "1199Nancy Nicholas Hall",
+        "start_time": "1:15p.m.",
+        "end_time": "2:15p.m.",
+        "latitude": 43.0757388,
+        "longitude": -89.4087644,
+        "description": "This talk will present novel data analysis on human services availability in possible human services desert counties, and discuss a new typology of human services deserts. It will also cover themes from analysis of the open-ended interview responses, which share information about the experiences of providers in these counties.",
+        "tags": [
+            "Research",
+            "Seminar",
+            "Sociology",
+            "Diversity",
+            "Social justice",
+            "Guest Speaker",
+            "Consumer science",
+            "School of human ecology",
+            "Graduate School Seminar Series",
+            "Equality",
+            "Human services",
+            "Household finance",
+            "Irp seminar",
+            "Institue for Research on Poverty",
+            "SoHE event",
+            "SoHEgrad",
+            "Economic inequality",
+            "Wealth"
+        ]
+    },
+    {
+        "title": "Combinatorics Seminar",
+        "location": "901Van Vleck Hall",
+        "start_time": "2:25p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/205001",
+        "tags": [
+            "Math",
+            "Mathematics",
+            "Combinatorics",
+            "Mathseminars"
+        ]
+    },
+    {
+        "title": "Group Actions and Dynamics Seminar",
+        "location": "B131Van Vleck Hall",
+        "start_time": "3p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/203784",
+        "tags": [
+            "Math",
+            "Mathematics",
+            "Dynamics",
+            "Mathseminars",
+            "Group actions"
+        ]
+    },
+    {
+        "title": "Biochemistry Colloquium - Scott Rothbart",
+        "location": "1211DeLuca Biochemical Sciences Building",
+        "start_time": "3p.m.",
+        "end_time": "",
+        "latitude": 43.0742486,
+        "longitude": -89.4112498,
+        "description": "Scott Rothbart is from the Van Andel Research Institute",
+        "tags": [
+            "CALS",
+            "Biochemistry",
+            "Ipib"
+        ]
+    },
+    {
+        "title": "PDE Geometric Analysis Seminar",
+        "location": "901Van Vleck Hall",
+        "start_time": "3:30p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/203833",
+        "tags": [
+            "Math",
+            "Mathematics",
+            "Geometric Analysis",
+            "Pde",
+            "Mathseminars"
+        ]
+    },
+    {
+        "title": "Graduate Logic Seminar",
+        "location": "B235Van Vleck Hall",
+        "start_time": "3:30p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/205083",
+        "tags": [
+            "Math",
+            "Mathematics",
+            "Logic",
+            "Mathseminars"
+        ]
+    },
+    {
+        "title": "“When I ate schnapps cherries with Hitler” – A Reading, Discussion & Workshop with Manja Präkels",
+        "location": "260Bascom Hall",
+        "start_time": "4p.m.",
+        "end_time": "",
+        "latitude": 43.0742567,
+        "longitude": -89.4104404,
+        "description": "Manja Prȁkels, born in Zehdenick, East Germany in 1974, is the singer of the highly acclaimed band \"Der singende Tresen (The Singing Bar)\". She was co-editor of the narrative anthology \"Kaltand – a Collection\", a classic of post-reunification literature. She was awarded the Kranichstein Youth Literature Scholarship and the German Children’s Literature Award for her debut novel \"When I ate Schanps Cherries with Hitler\". She also received the Anna Seghers Prize for this novel.",
+        "tags": [
+            "International",
+            "European Studies",
+            "Minnesota",
+            "IRIS"
+        ]
+    },
+    {
+        "title": "Wellbeing Community",
+        "location": "Willow Room,Bakke Recreation & Wellbeing Center",
+        "start_time": "4p.m.",
+        "end_time": "5p.m.",
+        "latitude": 43.07675,
+        "longitude": -89.4201054,
+        "description": "Wellbeing Community: Rooting for Ourselves, TogetherStudents will discuss the wellbeing topic of the week, self-reflect on their wellbeing, and create goals. Throughout these meetings, students build connections while learning and practicing new skills for improving personal wellbeing.  Wellness coaches will facilitate conversation and reflection to invite each student to add personalization to their experience. Snacks are provided! Register for as many sessions as you'd like.",
+        "tags": [
+            "Recreation",
+            "Fun",
+            "Sports",
+            "Rec sports",
+            "Student affairs",
+            "Activities",
+            "Wellbeing",
+            "Alcohol free",
+            "Rec well",
+            "Recreation & wellbeing",
+            "Recwell"
+        ]
+    },
+    {
+        "title": "Statistics Seminar",
+        "location": "133Service Memorial Institute",
+        "start_time": "4p.m.",
+        "end_time": "5p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Abstract:",
+        "tags": [
+            "Computer science",
+            "Statistics",
+            "CDIS",
+            "Stats",
+            "Mathseminars",
+            "Statistics seminars"
+        ]
+    },
+    {
+        "title": "Ed Baring, “European Internationalisms”",
+        "location": "206Ingraham Hall",
+        "start_time": "4p.m.",
+        "end_time": "",
+        "latitude": 43.07549789999999,
+        "longitude": -89.4053275,
+        "description": "Edward Baring is Associate Professor of History and Human Values at Princeton University and an intellectual historian specializing in twentieth-century Europe. He earned his BA in Mathematics and History at the University of Cambridge, and his PhD at Harvard University. Baring has held fellowships from the National Endowment of the Humanities, the ACLS, and the John Simon Guggenheim Foundation. At Princeton he holds a joint appointment with the University Center for Human.",
+        "tags": [
+            "International",
+            "European Studies",
+            "Department of History",
+            "George L. Mosse Program",
+            "IRIS"
+        ]
+    },
+    {
+        "title": "Children’s African Story Hour (CASH)",
+        "location": "Pinney Library (516 Cottage Grove Rd.)",
+        "start_time": "4p.m.",
+        "end_time": "5p.m.",
+        "latitude": 43.0841366,
+        "longitude": -89.3178638,
+        "description": "Enjoy captivating and award-winning children's literature that celebrates the diversity of art,culture, food and language across the African continent. Participants will engage in hands-on creative activities and sample different African cuisines. This program is designed for childrenages 3-10 and their caretakers.Customized programs are also available for schools/libraries. Contact outreach@africa.wisc.edu for enquiries and visit africa.wisc.edu/cash to learn more.",
+        "tags": [
+            "Children and youth",
+            "Africa",
+            "Library",
+            "Diversity",
+            "Africa at Noon",
+            "Africa Talks",
+            "Children's African Story Hour"
+        ]
+    },
+    {
+        "title": "Rainbow Recovery Meeting with Badger Recover",
+        "location": "Gender and Sexuality Campus Center",
+        "start_time": "5p.m.",
+        "end_time": "6p.m.",
+        "latitude": 43.0761899,
+        "longitude": -89.3983081,
+        "description": "The GSCC and Badger Recovery invite student members of the LGBT+ community to attend our All Recovery meeting. We offer a welcoming and judgment-free space where individuals can receive support and openly discuss their recovery journeys from substances, eating disorders, or addictive behaviors (i.e. alcohol use, eating concerns, self-harm, gaming). Meetings are facilitated by a staff member in recovery who aims to create a welcoming and inclusive environment for students at any stage in their recovery journey, whether they are questioning their relationship to a substance or addictive behavior, curious about recovery, or already in recovery.",
+        "tags": [
+            "Wellness",
+            "Uhs",
+            "Recovery"
+        ]
+    }
+]

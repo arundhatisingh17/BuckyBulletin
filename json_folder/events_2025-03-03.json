@@ -1,0 +1,342 @@
+[
+    {
+        "title": "The Westlands: Master of Fine Arts Thesis Exhibition by Jason Houge",
+        "location": "Art Lofts Gallery,Art Lofts",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0690363,
+        "longitude": -89.3954208,
+        "description": "Exhibition dates: February 25 – March 8, Reception: Monday, March 3, 5-8pm.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
+    },
+    {
+        "title": "Midwest Print Showcase",
+        "location": "Commonwealth Gallery, 3rd Floor, 100 S Baldwin St, Madison WI",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0861032,
+        "longitude": -89.3651532,
+        "description": "Exhibition dates: February 26 – March 4, Reception: Friday, February 28, 6:30-8:30pm. Join us for the Midwest Print Showcase reception featuring free food, refreshments, a door prize, and a print sale booth. This exhibit brings together 17 artists from Wisconsin, Nebraska, and Iowa, all working with different printmaking techniques including screen print, cyanotype, woodcuts, and more.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Printmaking",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
+    },
+    {
+        "title": "It’s All the Rage: Activism, Aging, and the Raging Grannies of Madison",
+        "location": "Nancy Nicholas Hall",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0757388,
+        "longitude": -89.4087644,
+        "description": "It’s All the Rage: Activism, Aging, and the Raging Grannies of Madison grows from a two-year archival and oral history project. This exhibit focuses on several decades of local Wisconsin grassroots activism enacted by the Madison and Dane County Raging Grannies. Featuring an array of granny hats, aprons, songbooks, political buttons, and instruments, as well as video and audio clips of their original songs, this exhibit explores how senior women have engaged in a wide variety of activities.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Humanities",
+            "Aging",
+            "Activism",
+            "Gender",
+            "Material culture",
+            "School of human ecology",
+            "SoHE",
+            "Gender and Women Studies",
+            "Center for Design and Material Culture",
+            "CDMC",
+            "Center for Research on Gender and Women",
+            "Raging grannies"
+        ]
+    },
+    {
+        "title": "Amir Issaa, “Presentation/Conversation Potere alle Parole”",
+        "location": "Memorial Union",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0762475,
+        "longitude": -89.4000123,
+        "description": "Open to advanced undergraduate and graduate students in Italian studiesEvent will be in ItalianAmir Issaa is  an Egyptian-Italian Hip-hop Artist, Writer, and Educator. Issaa’s“Potere alle Parole-Vivo per Questo / Power to the Words-This is What I Live For” US Tour 2025 includes a visit to the University of Wisconsin-Madison.",
+        "tags": [
+            "Music",
+            "International",
+            "European Studies",
+            "Department of French and Italian",
+            "IRIS",
+            "Italian Cultural Institute in Chiacago",
+            "European Global",
+            "Middle Eastern",
+            "Italian Club at University of Wisconsin-Madison",
+            "Italian Consulate in Chicago"
+        ]
+    },
+    {
+        "title": "Constructs of Color—Hard & Soft",
+        "location": "9th floor Vision Gallery,Wisconsin Institutes for Medical Research",
+        "start_time": "8:30a.m.",
+        "end_time": "5p.m.",
+        "latitude": 43.078097,
+        "longitude": -89.43164949999999,
+        "description": "An exhibition exploring the multifaceted impacts of color, in works of translucent glass and stitched fabrics.- Stained glass works by Randy Glysch- Fiber, needlework, and mixed media stitchworks by Memory Cloth Circle artists",
+        "tags": [
+            "Arts",
+            "Exhibitions"
+        ]
+    },
+    {
+        "title": "2025 EPS Conference",
+        "location": "WI Idea Room 159, 1000 Bascom Mall, Madison, WI 53706,Education Building",
+        "start_time": "8:45a.m.",
+        "end_time": "5p.m.",
+        "latitude": 43.07574289999999,
+        "longitude": -89.40228259999999,
+        "description": "Education for Every Generation stems from the Seventh Generation cultural value of the Indigenous philosophy of the Haudenosaunee Tribe ([h-oh-D-EE-n-oh-SH-oh- n-ee]). This keeps in mind the next seven generations to guide our decisions and actions today, inspiring us to ask questions such as: How are we guided by those who came before us? How do our actions impact those to come? What can education look like for every generation?",
+        "tags": [
+            "Conference",
+            "Education",
+            "International",
+            "India",
+            "Asia",
+            "Center for south asia",
+            "South asia",
+            "IRIS",
+            "EPS"
+        ]
+    },
+    {
+        "title": "Talk: New geometric techniques in non-convex and non-smooth machine learning",
+        "location": "1240Computer Sciences",
+        "start_time": "12p.m.",
+        "end_time": "1p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Live stream:TBDAbstract:While the classical theory of convex optimization provides efficient algorithms for optimizing convex functions in Euclidean space given first or second-order information, modern machine learning methods—such as deep learning—often require optimizing or sampling from non-convex objectives or distributions, or handling non-smooth domains, making algorithm design significantly more challenging. In this talk, I will demonstrate how uncovering and leveraging the hidden geometric structure in these problems can lead to new insights for designing efficient algorithms. I will begin by discussing how we can provably learn continuous mixtures of Gaussians using diffusion models by understanding the structure of the score function and effectively learning it. I will then move on to the non-convex landscape of training neural networks and showcase how new geometric tools help us understand the implicit bias of SGD. Finally, I will present a faster algorithm for sampling a point uniformly within a polytope by imposing a carefully constructed geometric structure on its interior.Bio:Khashayar Gatmiry is a final-year graduate student in the EECS department at MIT, co-advised by Stefanie Jegelka and Jonathan A. Kelner. His research broadly spans machine learning, sampling, and optimization, with a focus on designing reliable and efficient algorithms, and on uncovering the fundamental principles behind the practical success of modern deep learning.",
+        "tags": [
+            "Computer science",
+            "Computer sciences"
+        ]
+    },
+    {
+        "title": "Free Webinar - Why Cloud Computing is the Future: How AWS is Shaping It",
+        "location": "Online",
+        "start_time": "12p.m.",
+        "end_time": "12:45p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Explore how AWS has transformed industries like healthcare, entertainment and finance, becoming a cornerstone of global innovation. In this 45-minute webinar, discover why mastering AWS and cloud technologies is no longer optional for tech professionals but essential for success in the digital age. Register for this free webinar.",
+        "tags": [
+            "Technology",
+            "Continuing studies",
+            "Webinar"
+        ]
+    },
+    {
+        "title": "Amir Issaa, “Power to the Words: A Conversation with Amir Issaa”",
+        "location": "19Ingraham Hall",
+        "start_time": "12p.m.",
+        "end_time": "1p.m.",
+        "latitude": 43.07549789999999,
+        "longitude": -89.4053275,
+        "description": "With Prof. Grazia Menechella. Q&A to follow. Free and open to all!Amir Issaa is an Egyptian-Italian Hip-hop Artist, Writer, and Educator. Issaa’s “Potere alle Parole-Vivo per Questo / Power to the Words-This is What I Live For” US Tour 2025 includes a visit to the University of Wisconsin-Madison. During his visit to campus, Amir Issaa will give one public talk (in English), meet with students, and hold workshops.",
+        "tags": [
+            "Music",
+            "International",
+            "European Studies",
+            "Department of French and Italian",
+            "IRIS",
+            "Italian Cultural Institute in Chiacago",
+            "European Global",
+            "Middle Eastern",
+            "Italian Club at University of Wisconsin-Madison",
+            "Italian Consulate in Chicago"
+        ]
+    },
+    {
+        "title": "Writing Your Diversity or Inclusion Statement for the Academic Job Market",
+        "location": "Online",
+        "start_time": "1p.m.",
+        "end_time": "2p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Learn about diversity or inclusion statements as part of an academic job application: how to highlight past experiences and future goals in creating welcoming learning environments.",
+        "tags": [
+            "Professional development",
+            "Delta",
+            "Career development",
+            "GSPD",
+            "Grad students",
+            "DEI"
+        ]
+    },
+    {
+        "title": "Virtual Support for Survivors",
+        "location": "Online",
+        "start_time": "1p.m.",
+        "end_time": "2:30p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "This is a drop-in space for UW-Madison student survivors to connect with peers and offer mutual support in a confidential and safe environment. Group facilitators are mental health professionals that foster a space that is open, affirming, and connecting for all members. Group will focus on the impact of having experienced trauma and skills/supports to support post-traumatic growth, with some boundaries placed around sharing narratives about traumatic experiences. This group is specifically designed for UW-Madison students who have experienced sexual assault, dating/domestic violence, sexual harassment, stalking, and/or childhood sexual abuse.",
+        "tags": [
+            "Wellness",
+            "Uhs",
+            "Survivor services"
+        ]
+    },
+    {
+        "title": "Animal Care, Nutrition, and Vet Services Meet-Up",
+        "location": "Library/Atrium,Animal Science Building",
+        "start_time": "1p.m.",
+        "end_time": "4p.m.",
+        "latitude": 43.0761941,
+        "longitude": -89.4153173,
+        "description": "Animal Care, Nutrition, and Vet Services Meet-Up is an event meant for students who are interested in working with animals professionally after school, but are unsure if graduate school is for them. Attend this event to learn more about options available to you after graduation, as well as meet with employers!Find more information about this event, as well as companies attending, on Handshake.",
+        "tags": [
+            "Careers and advising",
+            "CALS",
+            "Info session",
+            "Employer Networking",
+            "Animal career"
+        ]
+    },
+    {
+        "title": "Combinatorics Seminar",
+        "location": "901Van Vleck Hall",
+        "start_time": "2:25p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/205000",
+        "tags": [
+            "Math",
+            "Mathematics",
+            "Combinatorics",
+            "Mathseminars"
+        ]
+    },
+    {
+        "title": "Group Actions and Dynamics Seminar",
+        "location": "B131Van Vleck Hall",
+        "start_time": "3p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/203783",
+        "tags": [
+            "Math",
+            "Mathematics",
+            "Dynamics",
+            "Mathseminars",
+            "Group actions"
+        ]
+    },
+    {
+        "title": "Biochemistry Colloquium - Brian Smith",
+        "location": "1211DeLuca Biochemical Sciences Building",
+        "start_time": "3p.m.",
+        "end_time": "",
+        "latitude": 43.0742486,
+        "longitude": -89.4112498,
+        "description": "Brian Smith is from the Medical College of Wisconsin",
+        "tags": [
+            "CALS",
+            "Biochemistry",
+            "Ipib"
+        ]
+    },
+    {
+        "title": "PDE Geometric Analysis Seminar",
+        "location": "901Van Vleck Hall",
+        "start_time": "3:30p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/203832",
+        "tags": [
+            "Math",
+            "Mathematics",
+            "Geometric Analysis",
+            "Pde",
+            "Mathseminars"
+        ]
+    },
+    {
+        "title": "Graduate Logic Seminar",
+        "location": "B235Van Vleck Hall",
+        "start_time": "3:30p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/205082",
+        "tags": [
+            "Math",
+            "Mathematics",
+            "Logic",
+            "Mathseminars"
+        ]
+    },
+    {
+        "title": "Wellbeing Community",
+        "location": "Willow Room,Bakke Recreation & Wellbeing Center",
+        "start_time": "4p.m.",
+        "end_time": "5p.m.",
+        "latitude": 43.07675,
+        "longitude": -89.4201054,
+        "description": "Wellbeing Community: Rooting for Ourselves, TogetherParticipants will discuss the wellbeing topic of the week, self-reflect on their wellbeing, and create goals. Throughout these meetings, students build connections while learning and practicing new skills for improving personal wellbeing.  Wellness coaches will facilitate conversation and reflection to invite each student to add personalization to their experience. Snacks are provided! Register for as many sessions as you'd like.",
+        "tags": [
+            "Recreation",
+            "Fun",
+            "Sports",
+            "Rec sports",
+            "Student affairs",
+            "Activities",
+            "Wellbeing",
+            "Alcohol free",
+            "Rec well",
+            "Recreation & wellbeing",
+            "Recwell"
+        ]
+    },
+    {
+        "title": "Introduction to Financial Management",
+        "location": null,
+        "start_time": "4p.m.",
+        "end_time": "",
+        "latitude": 43.07675,
+        "longitude": -89.4201054,
+        "description": "Establishing a good organizational system and clear accounting processesDevelop a basic understanding of accounting terminologyUnderstand the key components of the “Big Three” financial statements – balance sheet, P&L statement, and cash flow statementLearn more about the impact of breakeven on the bottom linePractice a few examples of analyzing financial information to understand how your numbers relate to your business",
+        "tags": [
+            "Innovation",
+            "Management",
+            "Financial",
+            "Innovate",
+            "Startup",
+            "Smallbusiness",
+            "WI SBDC"
+        ]
+    },
+    {
+        "title": "Internship Recruitment Mixer",
+        "location": "154 - Morgridge Center for Public Service,Armory and Gymnasium (Red Gym)",
+        "start_time": "4:30p.m.",
+        "end_time": "5:30p.m.",
+        "latitude": 43.0760709,
+        "longitude": -89.39841190000001,
+        "description": "The Morgridge Center for Public Service is recruiting interns for the next academic school year. Join us to learn about available positions, meet current interns, and discover how you can make an impact through civic engagement, community partnerships, and public service initiatives.",
+        "tags": [
+            "Volunteer",
+            "Mcfps"
+        ]
+    }
+]

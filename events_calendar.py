@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timedelta
 import requests
 import googlemaps
 import re
@@ -31,7 +31,7 @@ chrome_options.add_argument("--disable-gpu")
 chrome_options.add_argument("--no-sandbox")  
 chrome_options.add_argument("--disable-dev-shm-usage")  
 service = Service(ChromeDriverManager().install())
-driver = webdriver.Chrome(service=service)
+driver = webdriver.Chrome(service=service, options = chrome_options)
 
 load_dotenv()
 API_KEY = os.getenv("VITE_GOOGLE_MAPS_API_KEY")
@@ -57,8 +57,24 @@ def set_date():
         return jsonify({"error": "Invalid Date"})
     
 
+
+def get_30_days():
+    dates = []
+    for i in range(30):
+        date_today = (datetime.today() + timedelta(days=i)).strftime("%Y-%m-%d")
+        dates.append(date_today)
+    return dates 
+
+    
+
 # scraping the events taking place on present_date
 def scrape_events(present_date):
+
+    json_filename = f"events_{present_date}.json"
+
+    if os.path.exists(os.path.join("json_folder",json_filename)):
+        print(f"Skipping scrape: {json_filename} already exists.")
+        return
 
     url = f"https://today.wisc.edu/events/day/{present_date}"
     response = requests.get(url)
@@ -156,19 +172,30 @@ def scrape_events(present_date):
         events_list.append(event_data)
 
 
+    # if 'events.json' in os.listdir("./"):
+    #     os.remove("events.json")
 
-    if 'events.json' in os.listdir("./"):
-        os.remove("events.json")
+    json_path = os.path.join("json_folder", json_filename)
         
-    with open("events.json", "w") as json_file:
+    with open(json_path, "w") as json_file:
         json.dump(events_list, json_file, indent=4, ensure_ascii=False)
 
 
-schedule.every().day.at("00:00").do(scrape_events)
+# schedule.every().day.at("00:00").do(scrape_events)
+
+
+def schedule_scraping():
+    dates = get_30_days()
+    for date in dates:
+        scrape_events(date)
+        # json_filename = f"events_{date}.json"
+        # if not os.path.exists(os.path.join("json_folder", json_filename)):
+        #     schedule.every().day.at("00:00").do(scrape_events, date)
 
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5000)
+    schedule_scraping()
+    # app.run(debug=True, port=5000)
 
 # if __name__ == "__main__":
 #     while True:

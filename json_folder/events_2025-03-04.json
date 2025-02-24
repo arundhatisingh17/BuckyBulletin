@@ -1,0 +1,357 @@
+[
+    {
+        "title": "The Westlands: Master of Fine Arts Thesis Exhibition by Jason Houge",
+        "location": "Art Lofts Gallery,Art Lofts",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0690363,
+        "longitude": -89.3954208,
+        "description": "Exhibition dates: February 25 – March 8, Reception: Monday, March 3, 5-8pm.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
+    },
+    {
+        "title": "Midwest Print Showcase",
+        "location": "Commonwealth Gallery, 3rd Floor, 100 S Baldwin St, Madison WI",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0861032,
+        "longitude": -89.3651532,
+        "description": "Exhibition dates: February 26 – March 4, Reception: Friday, February 28, 6:30-8:30pm. Join us for the Midwest Print Showcase reception featuring free food, refreshments, a door prize, and a print sale booth. This exhibit brings together 17 artists from Wisconsin, Nebraska, and Iowa, all working with different printmaking techniques including screen print, cyanotype, woodcuts, and more.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Printmaking",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
+    },
+    {
+        "title": "It’s All the Rage: Activism, Aging, and the Raging Grannies of Madison",
+        "location": "Nancy Nicholas Hall",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0757388,
+        "longitude": -89.4087644,
+        "description": "It’s All the Rage: Activism, Aging, and the Raging Grannies of Madison grows from a two-year archival and oral history project. This exhibit focuses on several decades of local Wisconsin grassroots activism enacted by the Madison and Dane County Raging Grannies. Featuring an array of granny hats, aprons, songbooks, political buttons, and instruments, as well as video and audio clips of their original songs, this exhibit explores how senior women have engaged in a wide variety of activities.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Humanities",
+            "Aging",
+            "Activism",
+            "Gender",
+            "Material culture",
+            "School of human ecology",
+            "SoHE",
+            "Gender and Women Studies",
+            "Center for Design and Material Culture",
+            "CDMC",
+            "Center for Research on Gender and Women",
+            "Raging grannies"
+        ]
+    },
+    {
+        "title": "In no. 5: The Light Saw What I Couldn’t by MFA Candidate Paulina King",
+        "location": "Abel Contemporary Gallery, 524 East Main St, Stoughton",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 42.9177627,
+        "longitude": -89.21468349999999,
+        "description": "Exhibition dates: February 28 – April 13, Opening Reception: Friday, February 28, 5-8pm, & Artist Talk with Pauli King: Saturday, March 15, 2pm. King's work explores light through the manipulation of translucency and color. Through intentional positioning of poured silicone sheets, King creates large scale color fields with tones inspired by the sky. Light activates each work, which in turn generate subtle auras and change the atmospheric conditions of their surroundings and is transformative.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
+    },
+    {
+        "title": "Enhancing Online Education: Designing Assessments micro-course",
+        "location": "Online",
+        "start_time": "8a.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Tests and papers are only two of a myriad of options for assessing what your learners understand. In this program, you will explore strategies to create a diverse range of robust assessments designed to guide learners through structured activities, helping them progressively build and apply knowledge. You will also identify the essential components for designing a successful group project.This program is an asynchronous micro-course in Canvas that will be open from March 4-21.Registration required.",
+        "tags": [
+            "Teaching and Learning",
+            "Career development",
+            "GSPD",
+            "CTLM"
+        ]
+    },
+    {
+        "title": "Constructs of Color—Hard & Soft",
+        "location": "9th floor Vision Gallery,Wisconsin Institutes for Medical Research",
+        "start_time": "8:30a.m.",
+        "end_time": "5p.m.",
+        "latitude": 43.078097,
+        "longitude": -89.43164949999999,
+        "description": "An exhibition exploring the multifaceted impacts of color, in works of translucent glass and stitched fabrics.- Stained glass works by Randy Glysch- Fiber, needlework, and mixed media stitchworks by Memory Cloth Circle artists",
+        "tags": [
+            "Arts",
+            "Exhibitions"
+        ]
+    },
+    {
+        "title": "Python Programming: Data Visualization with Seaborn",
+        "location": "Online, connection information will be sent in advance",
+        "start_time": "10a.m.",
+        "end_time": "12p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "In this workshop, we will explore different methods and tools for visualizing data. We’ll use seaborn, a popular and free data visualization library written for Python.Prerequisite: Understanding of basic Python concepts (e.g., functions, operators, data types) is helpful.Registration required (link below)",
+        "tags": [
+            "Libraries",
+            "Ebling Library for the Health Sciences",
+            "GSPD",
+            "Research Computing",
+            "Libraries: Workshops",
+            "Ebling: Workshops",
+            "Steenbock: Workshops",
+            "Libraries: Graduate Support Series",
+            "Steenbock",
+            "Graduate Support Series",
+            "Data science",
+            "Data science training",
+            "Python Programming",
+            "Libraries: data services",
+            "Disciplinary expertise &amp; interdisciplinary connections"
+        ]
+    },
+    {
+        "title": "Physical Seminar: Professor Zhiyue Lu (University of North Carolina – Chapel Hill)",
+        "location": "1315 Seminar Hall ,Chemistry Building",
+        "start_time": "11a.m.",
+        "end_time": "12p.m.",
+        "latitude": 43.0725942,
+        "longitude": -89.4046935,
+        "description": "Join us in the chemistry department for a physical seminar from Prof. Zhiyue Lu! Refreshments will be provided, please click the link for additional information.",
+        "tags": [
+            "Science",
+            "Chemistry",
+            "Seminar"
+        ]
+    },
+    {
+        "title": "“Women’s Voices in Climate Change Activism in Colombia’s Public Sphere”",
+        "location": "206Ingraham HallAlso offered online",
+        "start_time": "12p.m.",
+        "end_time": "1p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Colombia is the most dangerous country for environmental leaders, according to the latest report from the NGO Global Witness, with four out of ten defenders being murdered. Despite this, environmental activism continues to grow in the context of climate change. Women play a key role in the formation of social movements through which they exercise resistance against environmental degradation.Presented by Tinker Visiting Professor, Dr. Adriana Angel Botero",
+        "tags": [
+            "International",
+            "Human rights",
+            "Latin america",
+            "Social justice",
+            "LACIS",
+            "Peru",
+            "Colombia",
+            "Caribbean",
+            "Iberian Peninsula",
+            "IRIS",
+            "ID-Rise"
+        ]
+    },
+    {
+        "title": "Visiting Scholars Program Lecture Series: American Politics and Society – The Rise of Illiberalism – A Black Critique",
+        "location": "Online",
+        "start_time": "12p.m.",
+        "end_time": "1:30p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Anthony Bogues is a writer, scholar, curator, and the Director of the Center for the Study of Slavery and Justice; Professor of Africana Studies, Royce Professor of Teaching Excellence (2004-2007); and currently Asa Messer Professor of Humanities & Critical Theory. Bogues’s major research and writing interests are intellectual, literary & cultural history, radical political thought, political theory, critical theory, Caribbean and African politics as well as Haitian, Caribbean, and African Art.",
+        "tags": [
+            "Lectures",
+            "Department of History",
+            "U.S. Politics",
+            "Social movement"
+        ]
+    },
+    {
+        "title": "Study Abroad In Italy: Santa Reparata School of Art",
+        "location": "Study Abroad Resource Center (3rd Floor Red Gym)",
+        "start_time": "12p.m.",
+        "end_time": "1:30p.m.",
+        "latitude": 43.0760709,
+        "longitude": -89.39841190000001,
+        "description": "Learn more about the Santa Reparata International School for Art (SRISA) and what it's like to study abroad in Florence, Italy! Hear from SRISA alumni, faculty, and staff, and get all your questions answered about the program. Register to attend: https://win.wisc.edu/event/11071367Applications for Fall 2025 and Academic Year 2025-2026 are due Friday, March 7.",
+        "tags": [
+            "Arts",
+            "International",
+            "Study abroad",
+            "Languages",
+            "Art",
+            "International Internships",
+            "Italy",
+            "Undergraduate Advising",
+            "IRIS"
+        ]
+    },
+    {
+        "title": "Legal Dimensions of Maritime Military Conflicts in East Asia",
+        "location": "2260Law Building",
+        "start_time": "12p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "China's sweeping territorial claims in the South China Sea has continued to drive tensions in the region with its Southeast Asian neighbors, namely Brunei, Indonesia, Malaysia, the Philippines, Taiwan, and Vietnam.Kevin Kelly, Associate Dean for Academic Affairs and a retired Navy Reserve officer specializing in military operational law and international law issues, will unpack this territorial dispute from the perspective of maritime law.",
+        "tags": [
+            "International",
+            "Southeast Asia",
+            "East Asia",
+            "CEAS",
+            "South China Sea dispute",
+            "South China Sea",
+            "IRIS",
+            "East Asian Legal Studies Center",
+            "University of Wisconsin Law School East Asian Studies Legal Center"
+        ]
+    },
+    {
+        "title": "UW Health Precision Health Department",
+        "location": "Online",
+        "start_time": "1p.m.",
+        "end_time": "2p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Advancing translational research in precision health requires collaboration across many stakeholders in clinic care, research, and administration. The UW Health Precision Health Department offers an innovative operational design to connect individuals and groups with similar goals. This webinar will explain the Department design and describe examples of how this design is forwarding precision medicine for patients and researchers.",
+        "tags": [
+            "UW Health",
+            "Clinical Research",
+            "Precision health",
+            "Clinical Trials"
+        ]
+    },
+    {
+        "title": "Work In Progress (WIP) Lab Activation – Paper Butterfly Folding with Mariah Moneda",
+        "location": "Wisconsin Idea, 1199,Nancy Nicholas Hall",
+        "start_time": "2p.m.",
+        "end_time": "5p.m.",
+        "latitude": 43.0757388,
+        "longitude": -89.4087644,
+        "description": "For her workshop Messengers for the Living, artist Mariah Moneda invites the community to join her in creating folded paper butterflies—a symbol in Filipino folklore for transformation, rebirth, and the eternal cycle of life and death—as an act to pause and consider the present.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Community",
+            "Humanities",
+            "Diversity",
+            "Sculpture",
+            "SoHE",
+            "Butterfly",
+            "Center for Design and Material Culture",
+            "CDMC",
+            "Paper art"
+        ]
+    },
+    {
+        "title": "Graduate Number Theory Seminar",
+        "location": "B219Van Vleck Hall",
+        "start_time": "2:30p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/205098",
+        "tags": [
+            "Math",
+            "Mathematics",
+            "Number theory",
+            "Mathseminars"
+        ]
+    },
+    {
+        "title": "Relative Trace Formula Seminar",
+        "location": "B215Van Vleck Hall",
+        "start_time": "3:30p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/205128",
+        "tags": [
+            "Math",
+            "Mathematics",
+            "Mathseminars"
+        ]
+    },
+    {
+        "title": "Chemical Biology Seminar: Professor J.P. Gerdt (Indiana University)",
+        "location": "1315 Seminar Hall ,Chemistry Building",
+        "start_time": "3:30p.m.",
+        "end_time": "4:30p.m.",
+        "latitude": 43.0725942,
+        "longitude": -89.4046935,
+        "description": "Join us in the chemistry department for a chemical biology seminar from Prof. J.P. Gerdt! Refreshments will be provided, please click the link for additional information.",
+        "tags": [
+            "Science",
+            "Chemistry",
+            "Seminar"
+        ]
+    },
+    {
+        "title": "Site Visit to Promega",
+        "location": "Promega",
+        "start_time": "4p.m.",
+        "end_time": "7:30p.m.",
+        "latitude": 43.0070519,
+        "longitude": -89.4269997,
+        "description": "Are you interested in lab work? Have you considered working in the biotech industry? If so, join us for the CALS Career Services Trek to Promega on March 4th from 4-7:30pm. We will have the opportunity to tour their lab space and talk with current Promega employees about the important work they do! Transportation Provided!Student must RSVP on Handshake to attend.",
+        "tags": [
+            "Careers and advising",
+            "Networking",
+            "CALS",
+            "Biotech",
+            "Informational session",
+            "Site visit"
+        ]
+    },
+    {
+        "title": "Movies of Liberation: Film Fest",
+        "location": "1339Sterling Hall",
+        "start_time": "4p.m.",
+        "end_time": "",
+        "latitude": 43.0747399,
+        "longitude": -89.4058197,
+        "description": "This film fest focuses on new and old films that center the liberation struggles and life after independence in Portuguese- speaking Africa. We will be showing the film, \"Sambizanga\" a 1971 Angolan drama.",
+        "tags": [
+            "International",
+            "History",
+            "Africa",
+            "Latin American Caribbean and Iberian Studies",
+            "European Studies",
+            "Department of Spanish and Portuguese",
+            "African Studies Program",
+            "IRIS",
+            "African Cultural Studies"
+        ]
+    },
+    {
+        "title": "MadS&P Seminar",
+        "location": "3310 Computer Sciences,Computer Sciences",
+        "start_time": "4p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/205615",
+        "tags": [
+            "Computer science",
+            "Computer sciences"
+        ]
+    }
+]

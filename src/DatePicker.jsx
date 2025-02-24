@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 
+
 const DatePicker = () => {
     const [date, setDate] = useState(new Date().toISOString().split("T")[0]);
 
@@ -9,7 +10,7 @@ const DatePicker = () => {
         console.log(newDate);
 
         try {
-            const response = await fetch("http://127.0.0.1:5000/api/date", {  // ✅ FIXED API URL
+            const response = await fetch("http://127.0.0.1:5000/api/date", { 
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",

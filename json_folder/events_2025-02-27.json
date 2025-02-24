@@ -1,0 +1,380 @@
+[
+    {
+        "title": "The Westlands: Master of Fine Arts Thesis Exhibition by Jason Houge",
+        "location": "Art Lofts Gallery,Art Lofts",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0690363,
+        "longitude": -89.3954208,
+        "description": "Exhibition dates: February 25 – March 8, Reception: Monday, March 3, 5-8pm.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
+    },
+    {
+        "title": "Rachael's Painting Show and Mixer",
+        "location": "Delta Beer Lab, 167 E Badger Rd, Fitchburg",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0370356,
+        "longitude": -89.38225949999999,
+        "description": "Exhibition dates: February 1 — 28, Reception: Saturday, February 1, 6-9pm. Come check out the paintings of undergraduate senior Rachael Hunter, grab a drink, and get creative! Beer and food are available for purchase, and you can also shop stickers and prints featuring Hunter's work. If you can’t make it to the opening night, don’t worry—the paintings will be up for the whole month.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
+    },
+    {
+        "title": "Midwest Print Showcase",
+        "location": "Commonwealth Gallery, 3rd Floor, 100 S Baldwin St, Madison WI",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0861032,
+        "longitude": -89.3651532,
+        "description": "Exhibition dates: February 26 – March 4, Reception: Friday, February 28, 6:30-8:30pm. Join us for the Midwest Print Showcase reception featuring free food, refreshments, a door prize, and a print sale booth. This exhibit brings together 17 artists from Wisconsin, Nebraska, and Iowa, all working with different printmaking techniques including screen print, cyanotype, woodcuts, and more.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Printmaking",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
+    },
+    {
+        "title": "It’s All the Rage: Activism, Aging, and the Raging Grannies of Madison",
+        "location": "Nancy Nicholas Hall",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0757388,
+        "longitude": -89.4087644,
+        "description": "It’s All the Rage: Activism, Aging, and the Raging Grannies of Madison grows from a two-year archival and oral history project. This exhibit focuses on several decades of local Wisconsin grassroots activism enacted by the Madison and Dane County Raging Grannies. Featuring an array of granny hats, aprons, songbooks, political buttons, and instruments, as well as video and audio clips of their original songs, this exhibit explores how senior women have engaged in a wide variety of activities.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Humanities",
+            "Aging",
+            "Activism",
+            "Gender",
+            "Material culture",
+            "School of human ecology",
+            "SoHE",
+            "Gender and Women Studies",
+            "Center for Design and Material Culture",
+            "CDMC",
+            "Center for Research on Gender and Women",
+            "Raging grannies"
+        ]
+    },
+    {
+        "title": "Convergence",
+        "location": "Textile Arts Center of Madison, 2436 Pennsylvania Ave, Madison",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.1053381,
+        "longitude": -89.35874129999999,
+        "description": "Exhibition dates: January 31 – March 1, Reception: Friday, January 31, 5:30-7:30pm. Curated by alumna Annmarie Suglio, Convergence is an exhibition providing a meeting place for fiber, textile, and paper works created by current students and alumni of UW-Madison. The artists explore themes of materiality, the passage of time, and sense of self, conveying these timeless themes through selected innovative textile or fiber art combined with a contemporary lens.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw",
+            "Textile art",
+            "Fiber art"
+        ]
+    },
+    {
+        "title": "Building in the Imagination: Master of Fine Arts Qualifier Exhibition by Alex Mikev",
+        "location": "Gallery 7,Mosse Humanities Building",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0741703,
+        "longitude": -89.4000444,
+        "description": "February 24 – March 1, Reception: Friday, February 28, 6-9pm. Building in the Imagination will include video projection, animation, and other media to explore reality vs. the imagination in how we make and build things.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
+    },
+    {
+        "title": "As Long As It’s Safe To Do So",
+        "location": "Eli’s Art Supplies, 2348 E Washington Ave",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0984254,
+        "longitude": -89.3514848,
+        "description": "Exhibition dates: February 21 – April 30, Open Wednesday to Sunday 12-6pm. Reception: Friday, February 21, 6-9pm, A live collaborative demo between the three artists will begin at 6pm. In collaboration with Eli’s Art Supplies, As Long As It’s Safe To Do So is a group show featuring artists Ava Albelo (Mary Chains), Rachael Hunter, and R-Lo.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
+    },
+    {
+        "title": "Pediatrics Grand Rounds",
+        "location": "Online",
+        "start_time": "7:30a.m.",
+        "end_time": "8:30a.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Speakers: Ande Jones, MD – associate professor, residency continuity clinic director, Division of General Pediatrics & Adolescent Medicine Education, Department of Pediatrics, University of Wisconsin School of Medicine and Public Health and Kathleen Kastner, MD – assistant professor, Division of Developmental Pediatrics & Rehabilitation Medicine, Department of Pediatrics, University of Wisconsin School of Medicine and Public Health",
+        "tags": [
+            "Lectures",
+            "SMPH",
+            "Pediatrics",
+            "Grand rounds",
+            "American Family Children's Hospital",
+            "CME",
+            "Department of pediatrics",
+            "SMPH event",
+            "ICEP"
+        ]
+    },
+    {
+        "title": "Constructs of Color—Hard & Soft",
+        "location": "9th floor Vision Gallery,Wisconsin Institutes for Medical Research",
+        "start_time": "8:30a.m.",
+        "end_time": "5p.m.",
+        "latitude": 43.078097,
+        "longitude": -89.43164949999999,
+        "description": "An exhibition exploring the multifaceted impacts of color, in works of translucent glass and stitched fabrics.- Stained glass works by Randy Glysch- Fiber, needlework, and mixed media stitchworks by Memory Cloth Circle artists",
+        "tags": [
+            "Arts",
+            "Exhibitions"
+        ]
+    },
+    {
+        "title": "Pathology Seminar - \"Engineering tissue microenvironments in vitro for investigating disease progression\"",
+        "location": "1325Health Sciences Learning Center",
+        "start_time": "9a.m.",
+        "end_time": "10a.m.",
+        "latitude": 43.0774041,
+        "longitude": -89.43032939999999,
+        "description": "https://today.wisc.edu/events/view/196639",
+        "tags": [
+            "Pathology"
+        ]
+    },
+    {
+        "title": "Research Object Storage (S3): An overview for researchers and support staff (online)",
+        "location": "Online",
+        "start_time": "10a.m.",
+        "end_time": "11a.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Research generates data of all sizes, from a few megabytes to hundreds of terabytes. And let’s face it, storing all that data can be costly.  In this virtual session, we’ll introduce Research Object Storage (S3), a new campus-hosted data storage service offering 50TB of no cost storage to eligible researchers.  Discover how this service can significantly reduce storage costs and enable new ways to use and distribute your data.Recommended for researchers, IT, and other support staff.",
+        "tags": [
+            "Research",
+            "IT Events",
+            "Data Science Hub",
+            "Data science",
+            "Research Cyberinfrastructure",
+            "ResearchDrive",
+            "Data storage",
+            "Data transfer"
+        ]
+    },
+    {
+        "title": "Research Object Storage (S3):  An overview for researchers & support staff",
+        "location": "Online",
+        "start_time": "10a.m.",
+        "end_time": "11a.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "In this virtual session, we’ll introduce Research Object Storage (S3), a new campus-hosted data storage service offering 50TB of no-cost storage to eligible researchers. Discover how this service can significantly reduce storage costs and enable new ways to use and distribute your data.",
+        "tags": [
+            "IT Event"
+        ]
+    },
+    {
+        "title": "Material Intelligence",
+        "location": "Ruth Davis Design Gallery,Nancy Nicholas Hall",
+        "start_time": "10a.m.",
+        "end_time": "7p.m.",
+        "latitude": 43.0756796,
+        "longitude": -89.4091874,
+        "description": "Inspired by Material Intelligence magazine’s exploration of individual commonplace materials, this exhibition foregrounds two key substances–linen and glass–and invites visitors to experiment with many more. \"Threads\" explores the metaphorical vibrancy of linen and other fibers through the work of Ann Coddington. \"Spheres of Influence\" reveals how the material possibilities of glass and the embodied skills of glassmakers have shaped intellectual life at UW-Madison.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Science",
+            "Humanities",
+            "Design",
+            "Textiles",
+            "Material culture",
+            "School of human ecology",
+            "SoHE",
+            "Weaving",
+            "Center for Design and Material Culture",
+            "CDMC",
+            "Glassmadisonexhibitions",
+            "Glasslab",
+            "Basketry"
+        ]
+    },
+    {
+        "title": "In Tandem: Lynda Benglis & Sam Gilliam",
+        "location": "Tandem Press, 1743 Commercial Ave, Madison, WI 53704",
+        "start_time": "10a.m.",
+        "end_time": "4p.m.",
+        "latitude": 43.1056427,
+        "longitude": -89.3616646,
+        "description": "This exhibition highlights the work of world renowned artists and early practitioners with Tandem Press, Lynda Benglis and Sam Gilliam. From the margins of the art world, Benglis and Gilliam reconceived entirely the notion of painterly abstraction, rejecting the conventions of easel painting in favor of letting the world back in. The works on display continue the spirit of experimentation that is intrinsic to the work of these artists and Tandem Press.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Exhibition",
+            "Printmaking",
+            "Tandem press",
+            "Fine art prints",
+            "Art exhibition",
+            "Art gallery",
+            "Sam gilliam",
+            "Lynda benglis"
+        ]
+    },
+    {
+        "title": "All that Buzz: Looking Back at the 2024 Periodical Cicada Emergence",
+        "location": "Meet at Visitor Center, UW–Madison Arboretum",
+        "start_time": "10a.m.",
+        "end_time": "11:30a.m.",
+        "latitude": 43.0428709,
+        "longitude": -89.4243205,
+        "description": "PJ Liesch, Entomologist, UW–Madison Extension and Department of Entomology. In the spring of 2024, Wisconsin saw the emergence of Brood XIII periodical cicadas. These insects have a fascinating natural history and only emerge once every seventeen years. In this talk, we'll take a closer look at the biology of these amazing insects and share findings of a recent community science project. Fee: $10. Register by February 23.",
+        "tags": [
+            "Lectures",
+            "Science",
+            "Research",
+            "Environment",
+            "Nature",
+            "Sustainability"
+        ]
+    },
+    {
+        "title": "Afterlives: Material Stories from the Helen Louise Allen Textile Collection",
+        "location": "Lynn Mecklenburg Textile Gallery,Nancy Nicholas Hall",
+        "start_time": "10a.m.",
+        "end_time": "4p.m.",
+        "latitude": 43.0757388,
+        "longitude": -89.4087644,
+        "description": "Afterlives explores the many lives of objects and what happens to textiles after they enter the Helen Louise Allen Textile Collection. From a quilt made out of carefully saved 19th-century American cigar silks to an robe from Turkmenistan, material things carry traces of their journey through past, present, and future in our Collection. Both poetic and practical, the exhibition explores what these treasures can teach us if we pay attention to their stories.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "International",
+            "History",
+            "Humanities",
+            "Design",
+            "Textiles",
+            "Material culture",
+            "SoHE",
+            "Archive",
+            "Lynn Mecklenburg Textile Gallery",
+            "Helen Louise Allen",
+            "textiles, art, SoHE",
+            "Center for Design and Material Culture",
+            "CDMC",
+            "Campus collections"
+        ]
+    },
+    {
+        "title": "Personalize your path to a healthy brain and healthy heart",
+        "location": "Calvary Baptist Church",
+        "start_time": "11a.m.",
+        "end_time": "1p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Join us for a community conversation about the important links between heart and brain health. Learn tools to map your own personalized path to a healthy brain and healthy heart. Blood pressure checks available. Attendees will hear a presentation from the speaker, and after the talk a lunch will be provided. We invite you to wear red in recognition of Heart Health month. Speaker: Julia Means, RN, Community Health and Parish Nurse, Ascension Columbia St. Mary’s Hospital",
+        "tags": [
+            "Wellness",
+            "Milwaukee",
+            "Statewide Outreach",
+            "Community event",
+            "Heart health",
+            "WAI",
+            "Uw smph",
+            "Alzheimers",
+            "Healthy aging"
+        ]
+    },
+    {
+        "title": "Applied Algebra Seminar",
+        "location": "901Van Vleck Hall",
+        "start_time": "11a.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/203702",
+        "tags": [
+            "Math",
+            "Mathematics",
+            "Algebra",
+            "Applied algebra",
+            "Mathseminars"
+        ]
+    },
+    {
+        "title": "Spring SoTL Sessions: Demystifying the Institutional Review Board",
+        "location": "ZoomAlso offered online",
+        "start_time": "11:30a.m.",
+        "end_time": "1p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "The Scholarship of Teaching and Learning (SoTL) offers instructors of all career stages and disciplines an opportunity to reinvigorate their teaching and develop inquiry methods that can reveal how best to support their students’ learning. Each of these sessions will start with some information about the topic followed by discussion with experts and colleagues, and then time to explore how the content may apply to your scholarly teaching interests.Register for Zoom link",
+        "tags": [
+            "Teaching and Learning",
+            "Career development",
+            "GSPD",
+            "CTLM"
+        ]
+    },
+    {
+        "title": "Textiles x Insects Panel Conversation and Lunch",
+        "location": "Nancy Nicholas Hall",
+        "start_time": "12p.m.",
+        "end_time": "1p.m.",
+        "latitude": 43.0757388,
+        "longitude": -89.4087644,
+        "description": "How scientifically accurate are the butterflies and moths depicted by the textiles on view in Afterlives? What do butterfly boxes tell us about the intersections of art, science, design, and decoration? What do insect collection managers and textile collection managers have in common?Join us for a panel discussion with UW-Madison staff and faculty, who will discuss the intersections of textiles and insects in their collections management and art practices.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Science",
+            "History",
+            "Humanities",
+            "Culture",
+            "Design",
+            "Textile",
+            "Insects",
+            "Panel discussions",
+            "SoHE",
+            "Center for Design and Material Culture",
+            "CDMC"
+        ]
+    }
+]

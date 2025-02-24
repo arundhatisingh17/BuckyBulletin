@@ -1,0 +1,312 @@
+[
+    {
+        "title": "You-Know-What: Master of Fine Arts Thesis Exhibition by Emily Graves",
+        "location": "Art Lofts Gallery,Art Lofts",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0690363,
+        "longitude": -89.3954208,
+        "description": "Exhibition dates: March 17 – 30, Reception: Wednesday, March 19, 6-8pm.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
+    },
+    {
+        "title": "Spring recess",
+        "location": null,
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0690363,
+        "longitude": -89.3954208,
+        "description": "https://today.wisc.edu/events/view/193315",
+        "tags": [
+            "Academic calendar"
+        ]
+    },
+    {
+        "title": "Constructs of Color—Hard & Soft",
+        "location": "9th floor Vision Gallery,Wisconsin Institutes for Medical Research",
+        "start_time": "8:30a.m.",
+        "end_time": "5p.m.",
+        "latitude": 43.078097,
+        "longitude": -89.43164949999999,
+        "description": "An exhibition exploring the multifaceted impacts of color, in works of translucent glass and stitched fabrics.- Stained glass works by Randy Glysch- Fiber, needlework, and mixed media stitchworks by Memory Cloth Circle artists",
+        "tags": [
+            "Arts",
+            "Exhibitions"
+        ]
+    },
+    {
+        "title": "School of Nursing Informational Session",
+        "location": "1227Signe Skott Cooper Hall",
+        "start_time": "8:45a.m.",
+        "end_time": "10a.m.",
+        "latitude": 43.0775337,
+        "longitude": -89.4278564,
+        "description": "This informational session is directed toward high school students who are interested in Nursing and their families, but anyone who is interested in the School of Nursing may attend.",
+        "tags": [
+            "SoN",
+            "School of Nursing",
+            "Undergraduate",
+            "Traditional BSN",
+            "Traditional bachelor of science in nursing",
+            "School of Nursing Admissions",
+            "School of Nursing undergraduate education",
+            "BS in Nursing"
+        ]
+    },
+    {
+        "title": "Intermediate Research Software Development with Python",
+        "location": "Orchard View Room,Discovery Building",
+        "start_time": "9a.m.",
+        "end_time": "12:30p.m.",
+        "latitude": 43.072896,
+        "longitude": -89.4075586,
+        "description": "This course aims to teach a core set of established, intermediate-level software development skills and best practices for working as part of a team in a research environment using Python as an example programming language (seedetailed learning objectives). The core set of skills we teach is not a comprehensive set of all-encompassing skills, but a selective set of tried-and-tested collaborative development skills that forms a firm foundation for continuing on your learning journey.",
+        "tags": [
+            "GSPD",
+            "Wisconsin Institute for Discovery",
+            "Programming",
+            "Managing Projects and People",
+            "Disciplinary expertise and interdisciplinary connections",
+            "Inquiry, discovery, and creation",
+            "Python",
+            "Data science",
+            "Data Science Hub Workshops"
+        ]
+    },
+    {
+        "title": "Early voting at Union South, including same-day voter registration",
+        "location": "Marquee Lounge (2nd Floor),Union South",
+        "start_time": "11a.m.",
+        "end_time": "5p.m.",
+        "latitude": 43.0719999,
+        "longitude": -89.40764639999999,
+        "description": "If you're voting in Wisconsin, you can register or re-register to vote (if you need to) and complete your ballot at the same time during early voting.",
+        "tags": [
+            "Voter registration",
+            "Union south ipav"
+        ]
+    },
+    {
+        "title": "Early voting at Memorial Union, including same-day voter registration",
+        "location": "Gekas Commons (1st floor),Memorial Union",
+        "start_time": "11a.m.",
+        "end_time": "5:30p.m.",
+        "latitude": 43.0762475,
+        "longitude": -89.4000123,
+        "description": "If you're voting in Wisconsin, you can register or re-register to vote (if you need to) and complete your ballot at the same time during early voting.",
+        "tags": [
+            "Voter registration",
+            "Memorial union ipav"
+        ]
+    },
+    {
+        "title": "Early voting at Health Sciences Learning Center (HSLC), including same-day voter registration",
+        "location": "Health Sciences Learning Center",
+        "start_time": "11a.m.",
+        "end_time": "5p.m.",
+        "latitude": 43.0774041,
+        "longitude": -89.43032939999999,
+        "description": "If you're voting in Wisconsin, you can register or re-register to vote (if you need to) and complete your ballot at the same time during early voting.",
+        "tags": [
+            "Voter registration",
+            "Hslc ipav"
+        ]
+    },
+    {
+        "title": "Virtual Support for Survivors",
+        "location": "Online",
+        "start_time": "1p.m.",
+        "end_time": "2:30p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "This is a drop-in space for UW-Madison student survivors to connect with peers and offer mutual support in a confidential and safe environment. Group facilitators are mental health professionals that foster a space that is open, affirming, and connecting for all members. Group will focus on the impact of having experienced trauma and skills/supports to support post-traumatic growth, with some boundaries placed around sharing narratives about traumatic experiences. This group is specifically designed for UW-Madison students who have experienced sexual assault, dating/domestic violence, sexual harassment, stalking, and/or childhood sexual abuse.",
+        "tags": [
+            "Wellness",
+            "Uhs",
+            "Survivor services"
+        ]
+    },
+    {
+        "title": "Health Sciences Data Carpentry",
+        "location": "1248Health Sciences Learning Center",
+        "start_time": "1p.m.",
+        "end_time": "5p.m.",
+        "latitude": 43.0774041,
+        "longitude": -89.43032939999999,
+        "description": "Data Carpentry develops and teaches workshops on the fundamental data skills needed to conduct research. Its target audience is researchers who have little to no prior computational experience, and its lessons are domain specific, building on learners' existing knowledge to enable them to quickly apply skills learned to their own research. Participants will be encouraged to help one another and to apply what they have learned to their own research problems.",
+        "tags": [
+            "Spreadsheets",
+            "GSPD",
+            "Wisconsin Institute for Discovery",
+            "Managing Projects and People",
+            "Disciplinary expertise and interdisciplinary connections",
+            "Inquiry, discovery, and creation",
+            "Data science",
+            "Data science training",
+            "R",
+            "SQL",
+            "Data Science Hub Workshops"
+        ]
+    },
+    {
+        "title": "\"Gardening with Native Plants\": In-Person Badger Talk in Fort Atkinson, WI",
+        "location": "209 Merchants Ave, Fort Atkinson, WI 53538",
+        "start_time": "1p.m.",
+        "end_time": "",
+        "latitude": 42.9252491,
+        "longitude": -88.8357208,
+        "description": "Join us on March 24, 2025, at 1:00 PM at the Dwight Foster Public Library (Fort Atkinson) for the \"Kickoff Event for the 2025 Seed Library.\" No registration required.Learn how native plants create sustainable, diverse gardens that support pollinators, insects, and wildlife—thriving without fertilizers, pesticides, or extra watering. We’ll share examples, plant sources, and practical gardening tips. Questions? Call the library at (920) 563-7790.",
+        "tags": [
+            "Speakers",
+            "Talks",
+            "Statewide Outreach",
+            "Speakers Bureau",
+            "Badger Talks",
+            "UW Connects"
+        ]
+    },
+    {
+        "title": "School of Nursing Informational Session",
+        "location": "1227Signe Skott Cooper Hall",
+        "start_time": "1:45p.m.",
+        "end_time": "3p.m.",
+        "latitude": 43.0775337,
+        "longitude": -89.4278564,
+        "description": "This informational session is directed toward high school students who are interested in Nursing and their families, but anyone who is interested in the School of Nursing may attend.",
+        "tags": [
+            "SoN",
+            "School of Nursing",
+            "Undergraduate",
+            "Traditional BSN",
+            "Traditional bachelor of science in nursing",
+            "School of Nursing Admissions",
+            "School of Nursing undergraduate education",
+            "BS in Nursing"
+        ]
+    },
+    {
+        "title": "Combinatorics Seminar",
+        "location": "901Van Vleck Hall",
+        "start_time": "2:25p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/205003",
+        "tags": [
+            "Math",
+            "Mathematics",
+            "Combinatorics",
+            "Mathseminars"
+        ]
+    },
+    {
+        "title": "Group Actions and Dynamics Seminar",
+        "location": "B131Van Vleck Hall",
+        "start_time": "3p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/203786",
+        "tags": [
+            "Math",
+            "Mathematics",
+            "Dynamics",
+            "Mathseminars",
+            "Group actions"
+        ]
+    },
+    {
+        "title": "Biochemistry Colloquium - Gary Whittaker",
+        "location": "1211DeLuca Biochemical Sciences Building",
+        "start_time": "3p.m.",
+        "end_time": "",
+        "latitude": 43.0742486,
+        "longitude": -89.4112498,
+        "description": "Gary Whittaker is from Cornell University.This will be an in person only seminar.",
+        "tags": [
+            "CALS",
+            "Biochemistry",
+            "Ipib"
+        ]
+    },
+    {
+        "title": "PDE Geometric Analysis Seminar",
+        "location": "901Van Vleck Hall",
+        "start_time": "3:30p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/203835",
+        "tags": [
+            "Math",
+            "Mathematics",
+            "Geometric Analysis",
+            "Pde",
+            "Mathseminars"
+        ]
+    },
+    {
+        "title": "Graduate Logic Seminar",
+        "location": "B235Van Vleck Hall",
+        "start_time": "3:30p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/205086",
+        "tags": [
+            "Math",
+            "Mathematics",
+            "Logic",
+            "Mathseminars"
+        ]
+    },
+    {
+        "title": "Rainbow Recovery Meeting with Badger Recover",
+        "location": "Gender and Sexuality Campus Center",
+        "start_time": "5p.m.",
+        "end_time": "6p.m.",
+        "latitude": 43.0761899,
+        "longitude": -89.3983081,
+        "description": "The GSCC and Badger Recovery invite student members of the LGBT+ community to attend our All Recovery meeting. We offer a welcoming and judgment-free space where individuals can receive support and openly discuss their recovery journeys from substances, eating disorders, or addictive behaviors (i.e. alcohol use, eating concerns, self-harm, gaming). Meetings are facilitated by a staff member in recovery who aims to create a welcoming and inclusive environment for students at any stage in their recovery journey, whether they are questioning their relationship to a substance or addictive behavior, curious about recovery, or already in recovery.",
+        "tags": [
+            "Wellness",
+            "Uhs",
+            "Recovery"
+        ]
+    },
+    {
+        "title": "WUD Art Committee Meeting",
+        "location": "Check TITU,Memorial Union",
+        "start_time": "6p.m.",
+        "end_time": "",
+        "latitude": 43.0762475,
+        "longitude": -89.4000123,
+        "description": "https://union.wisc.edu/events-and-activities/event-calendar/event/wud-art-committee-meeting/2025-03-24",
+        "tags": []
+    },
+    {
+        "title": "\"From Wood to Watercraft: Dugout Canoes of Wisconsin\": In-Person Badger Talk in Waupaca, WI",
+        "location": "107 S Main St, Waupaca, WI 54981",
+        "start_time": "6:30p.m.",
+        "end_time": "",
+        "latitude": 44.357584,
+        "longitude": -89.08439229999999,
+        "description": "Join us for this free in-person event on March 24, 2025, at 6:30 PM at the Waupaca Public Library meeting rooms, hosted by the Winchester Academy. For questions, contact the library at (715) 258-4414.The Wisconsin Dugout Canoe Survey Project showcases cultural traditions and technological ingenuity, engaging museums and historical societies to document this rare yet significant form of material culture.",
+        "tags": [
+            "Speakers",
+            "Talks",
+            "Statewide Outreach",
+            "Speakers Bureau",
+            "Badger Talks",
+            "UW Connects"
+        ]
+    }
+]

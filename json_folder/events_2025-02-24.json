@@ -1,0 +1,353 @@
+[
+    {
+        "title": "Rachael's Painting Show and Mixer",
+        "location": "Delta Beer Lab, 167 E Badger Rd, Fitchburg",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0370356,
+        "longitude": -89.38225949999999,
+        "description": "Exhibition dates: February 1 — 28, Reception: Saturday, February 1, 6-9pm. Come check out the paintings of undergraduate senior Rachael Hunter, grab a drink, and get creative! Beer and food are available for purchase, and you can also shop stickers and prints featuring Hunter's work. If you can’t make it to the opening night, don’t worry—the paintings will be up for the whole month.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
+    },
+    {
+        "title": "It’s All the Rage: Activism, Aging, and the Raging Grannies of Madison",
+        "location": "Nancy Nicholas Hall",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0757388,
+        "longitude": -89.4087644,
+        "description": "It’s All the Rage: Activism, Aging, and the Raging Grannies of Madison grows from a two-year archival and oral history project. This exhibit focuses on several decades of local Wisconsin grassroots activism enacted by the Madison and Dane County Raging Grannies. Featuring an array of granny hats, aprons, songbooks, political buttons, and instruments, as well as video and audio clips of their original songs, this exhibit explores how senior women have engaged in a wide variety of activities.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Humanities",
+            "Aging",
+            "Activism",
+            "Gender",
+            "Material culture",
+            "School of human ecology",
+            "SoHE",
+            "Gender and Women Studies",
+            "Center for Design and Material Culture",
+            "CDMC",
+            "Center for Research on Gender and Women",
+            "Raging grannies"
+        ]
+    },
+    {
+        "title": "Convergence",
+        "location": "Textile Arts Center of Madison, 2436 Pennsylvania Ave, Madison",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.1053381,
+        "longitude": -89.35874129999999,
+        "description": "Exhibition dates: January 31 – March 1, Reception: Friday, January 31, 5:30-7:30pm. Curated by alumna Annmarie Suglio, Convergence is an exhibition providing a meeting place for fiber, textile, and paper works created by current students and alumni of UW-Madison. The artists explore themes of materiality, the passage of time, and sense of self, conveying these timeless themes through selected innovative textile or fiber art combined with a contemporary lens.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw",
+            "Textile art",
+            "Fiber art"
+        ]
+    },
+    {
+        "title": "Building in the Imagination: Master of Fine Arts Qualifier Exhibition by Alex Mikev",
+        "location": "Gallery 7,Mosse Humanities Building",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0741703,
+        "longitude": -89.4000444,
+        "description": "February 24 – March 1, Reception: Friday, February 28, 6-9pm. Building in the Imagination will include video projection, animation, and other media to explore reality vs. the imagination in how we make and build things.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
+    },
+    {
+        "title": "Constructs of Color—Hard & Soft",
+        "location": "9th floor Vision Gallery,Wisconsin Institutes for Medical Research",
+        "start_time": "8:30a.m.",
+        "end_time": "5p.m.",
+        "latitude": 43.078097,
+        "longitude": -89.43164949999999,
+        "description": "An exhibition exploring the multifaceted impacts of color, in works of translucent glass and stitched fabrics.- Stained glass works by Randy Glysch- Fiber, needlework, and mixed media stitchworks by Memory Cloth Circle artists",
+        "tags": [
+            "Arts",
+            "Exhibitions"
+        ]
+    },
+    {
+        "title": "Peace Corps Recruiting Office",
+        "location": "First Floor,Memorial Union",
+        "start_time": "11a.m.",
+        "end_time": "1p.m.",
+        "latitude": 43.0762475,
+        "longitude": -89.4000123,
+        "description": "Are you ready to apply to serve in the Peace Corps?  Just want to find out more about it?  Come talk to the Campus Recruiter about the process of applying, the benefits of serving, and what your day to day life as a Peace Corps Volunteer might be like.",
+        "tags": [
+            "Careers and advising",
+            "Volunteerism",
+            "International",
+            "Humanities",
+            "Sustainability",
+            "Diversity",
+            "Social justice",
+            "Peace Corps",
+            "#PeaceCorpsWeek",
+            "International/IRIS"
+        ]
+    },
+    {
+        "title": "The Latin Americanization of U.S. Politics",
+        "location": "Nafziger Conference Room (5055),Vilas Hall",
+        "start_time": "12p.m.",
+        "end_time": "2p.m.",
+        "latitude": 43.0726995,
+        "longitude": -89.39985999999999,
+        "description": "Held at the School of Journalism & Mass Communication (SJMC)Featured speaker: Martin Echeverria, Head of the Center for Political Communication Studies at Benemerita Universidad Automnoma De PueblaDiscussants:--Ruben Arnoldo Gonzalez, journalist and scholar--Leonor Hidalgo-Ciro, SJMC PhD student--Elohim Monard, SJMC PhD student",
+        "tags": [
+            "Lectures",
+            "International",
+            "Symposium",
+            "Mass Communication",
+            "Journalism",
+            "Politics",
+            "SJMC"
+        ]
+    },
+    {
+        "title": "Talk: Sound and Automated Deductive Verifiers for Advanced Properties",
+        "location": "1240Computer Sciences",
+        "start_time": "12p.m.",
+        "end_time": "1p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "LIVE STREAM:https://uwmadison.zoom.us/j/92829687761?pwd=96pakDtvmilcNrlRng9aNpiavvbiwr.1Abstract:Automated deductive verifiers are tools that take as input a program and a specification and attempt to construct a formal proof, using a program logic, that the program satisfies its specification. Modern verifiers have had significant practical impact, with notable examples including the use of Dafny at Amazon, F* at Microsoft, and Viper in the VerifiedSCION project. However, modern verifiers face two fundamental challenges: trustworthiness (how can we ensure that verifiers are sound?) and expressivity (how can we build verifiers that can prove security and privacy properties?).In this talk, I will present my research, which addresses both challenges. First, I will introduce a comprehensive formal framework for systematically proving the soundness of modern verifiers based on separation logic (a state-of-the-art program logic for modular reasoning about sequential and concurrent programs). Second, I will present an expressive program logic for hyperproperties (properties relating multiple executions of a program), which has been automated in a deductive verifier. Finally, I will outline my research agenda for developing trustworthy, automated verifiers for advanced correctness and security properties.Bio:Thibault Dardinier is a PhD student in the Programming Methodology Group at ETH Zurich, advised by Prof. Peter Müller. The goal of his research is to build provably sound deductive verifiers with state-of-the-art automation for correctness, security, and privacy properties. To achieve this goal, his research addresses both theoretical and practical aspects, ranging from developing machine-checked program logics (e.g., Hyper Hoare Logic or CommCSL) and formal foundations (e.g., for translational verifiers based on separation logic, magic wands, fractional resources, or verification-preserving inlining) to building novel automated verifiers (e.g., Hypra).During his PhD, Thibault completed an internship at Microsoft Research. Before his PhD, he graduated from ETH Zurich (as part of the Direct Doctorate program) and from École Polytechnique in France, and completed internships at SRI International, Siemens, and the Ministry of Defense (France).  Thibault received a Distinguished Paper Award at OOPSLA 2022 and the ETH Medal in 2020 for his MSc. thesis.",
+        "tags": [
+            "Computer science",
+            "Computer sciences"
+        ]
+    },
+    {
+        "title": "Public Works: Translating Research to Narrative Nonfiction with Aaron Robertson",
+        "location": null,
+        "start_time": "12p.m.",
+        "end_time": "1p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Participants will have the opportunity to dive deeper into Robertson's nonfiction debut, The Black Utopians. Robertson will discuss his experience translating extensive research and field work into narrative nonfiction and lead an informal conversation on key subject areas of the book, including social and utopian movements, marginalized histories, as well as writing narrative nonfiction. RSVPs are required and seats are limited.",
+        "tags": [
+            "Arts",
+            "Humanities",
+            "Diversity",
+            "Social justice",
+            "Creative Writing",
+            "GSPD",
+            "Graduate Student Professional Development",
+            "Literature/Writing/Publishing",
+            "Disciplinary expertise and interdisciplinary connections",
+            "Inquiry discovery and creation"
+        ]
+    },
+    {
+        "title": "Palestine and Arab-Israeli Peace",
+        "location": "206Ingraham Hall",
+        "start_time": "12p.m.",
+        "end_time": "",
+        "latitude": 43.07549789999999,
+        "longitude": -89.4053275,
+        "description": "Professor Dana El Kurd (University of Richmond) will discuss Arab-Israeli peace initiatives and their impacts following the 1994 Oslo Accords. The focus will be on American-led peace initiatives under both the Trump and Biden administrations, with a discussion of projected American foreign policy under a second Trump term.",
+        "tags": [
+            "International",
+            "Middle East",
+            "Israel",
+            "Conflict resolution",
+            "Palestine",
+            "Peace building",
+            "Israel &amp; Palestine"
+        ]
+    },
+    {
+        "title": "Willard/Physical Seminar: Sir Michael Berry (University of Bristol)",
+        "location": "1315 Seminar Hall ,Chemistry Building",
+        "start_time": "12:05p.m.",
+        "end_time": "1:05p.m.",
+        "latitude": 43.0725942,
+        "longitude": -89.4046935,
+        "description": "Join us in the chemistry department for a Willard/Physical seminar from Sir Michael Berry! Refreshments will be provided, please click the link for additional information.",
+        "tags": [
+            "Science",
+            "Chemistry",
+            "Seminar"
+        ]
+    },
+    {
+        "title": "Virtual Support for Survivors",
+        "location": "Online",
+        "start_time": "1p.m.",
+        "end_time": "2:30p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "This is a drop-in space for UW-Madison student survivors to connect with peers and offer mutual support in a confidential and safe environment. Group facilitators are mental health professionals that foster a space that is open, affirming, and connecting for all members. Group will focus on the impact of having experienced trauma and skills/supports to support post-traumatic growth, with some boundaries placed around sharing narratives about traumatic experiences. This group is specifically designed for UW-Madison students who have experienced sexual assault, dating/domestic violence, sexual harassment, stalking, and/or childhood sexual abuse.",
+        "tags": [
+            "Wellness",
+            "Uhs",
+            "Survivor services"
+        ]
+    },
+    {
+        "title": "Business Badgers Study Abroad",
+        "location": "3180Grainger Hall",
+        "start_time": "1p.m.",
+        "end_time": "2p.m.",
+        "latitude": 43.072381,
+        "longitude": -89.4019271,
+        "description": "Join this BBSA info session if you are thinking about studying abroad on a program through the Wisconsin School of Business.Before scheduling an appointment, prospective study abroad students (pre-application) must attend a BBSA info session.",
+        "tags": [
+            "International",
+            "Study abroad",
+            "Languages",
+            "International Internships",
+            "School of Business",
+            "Wisconsin School of Business",
+            "Undergraduate Advising",
+            "IRIS",
+            "Wisconsin School of Business Global Programs"
+        ]
+    },
+    {
+        "title": "School of Nursing Informational Session",
+        "location": "1231Signe Skott Cooper Hall",
+        "start_time": "1:45p.m.",
+        "end_time": "3p.m.",
+        "latitude": 43.0775337,
+        "longitude": -89.4278564,
+        "description": "This informational session is directed toward high school students who are interested in Nursing and their families, but anyone who is interested in the School of Nursing may attend.",
+        "tags": [
+            "SoN",
+            "School of Nursing",
+            "Undergraduate",
+            "Traditional BSN",
+            "Traditional bachelor of science in nursing",
+            "School of Nursing Admissions",
+            "School of Nursing undergraduate education",
+            "BS in Nursing"
+        ]
+    },
+    {
+        "title": "Funding Study Abroad",
+        "location": "Online",
+        "start_time": "2p.m.",
+        "end_time": "3p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Worried that studying abroad will break your budget? Attend our upcoming Funding Study Abroad Info Session to learn about:•\tThe cost of studying abroad•\tFinancial Aid and Scholarships•\tCreative funding strategies and savings•\tAnd MOREOffered in collaboration with the Office of Student Financial Aid",
+        "tags": [
+            "International",
+            "Study abroad",
+            "Languages",
+            "Informational Meeting",
+            "International Internships",
+            "Funding Opportunities",
+            "Advising",
+            "Scholarships",
+            "Financial aid",
+            "Language Institute",
+            "Funding",
+            "Student life",
+            "IRIS",
+            "Office of student financial aid",
+            "International education",
+            "International division"
+        ]
+    },
+    {
+        "title": "Combinatorics Seminar",
+        "location": "901Van Vleck Hall",
+        "start_time": "2:25p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/204999",
+        "tags": [
+            "Math",
+            "Mathematics",
+            "Combinatorics",
+            "Mathseminars"
+        ]
+    },
+    {
+        "title": "Introduction to Community Engagement",
+        "location": null,
+        "start_time": "3p.m.",
+        "end_time": "4p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Join the Morgridge Center's Community Engagement Team  as we articulate individual motivations and goals for community engagement/”service” and define cultural humility and recognize its implications for engaging appropriately with communities ! Register with the link below:https://uwmadison.givepulse.com/event/560423-Introduction-to-Community-Engagement",
+        "tags": [
+            "Volunteer",
+            "Mcfps"
+        ]
+    },
+    {
+        "title": "Group Actions and Dynamics Seminar",
+        "location": "B131Van Vleck Hall",
+        "start_time": "3p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/203782",
+        "tags": [
+            "Math",
+            "Mathematics",
+            "Dynamics",
+            "Mathseminars",
+            "Group actions"
+        ]
+    },
+    {
+        "title": "Biochemistry Colloquium - Shiv Grewal - SEMINAR CANCELLED",
+        "location": "1211DeLuca Biochemical Sciences Building",
+        "start_time": "3p.m.",
+        "end_time": "",
+        "latitude": 43.0742486,
+        "longitude": -89.4112498,
+        "description": "This seminar has been cancelled.Shiv Grewal is from the National Institutes of Health.",
+        "tags": [
+            "CALS",
+            "Biochemistry",
+            "Ipib"
+        ]
+    },
+    {
+        "title": "Stork/Organic Seminar: Professor Sukbok Chang (Korea Advanced Institute of Science and Technology)",
+        "location": "1315 Seminar Hall ,Chemistry Building",
+        "start_time": "3:30p.m.",
+        "end_time": "4:30p.m.",
+        "latitude": 43.0725942,
+        "longitude": -89.4046935,
+        "description": "Join us in the chemistry department for a Stork/Organic seminar from Prof. Sukbok Chang! Refreshments will be provided, please click the link for additional information.",
+        "tags": [
+            "Science",
+            "Chemistry",
+            "Seminar"
+        ]
+    }
+]
