@@ -72,7 +72,7 @@ def scrape_events(present_date):
 
     json_filename = f"events_{present_date}.json"
 
-    if os.path.exists(os.path.join("json_folder",json_filename)):
+    if os.path.exists(os.path.join("public", "json_folder",json_filename)):
         print(f"Skipping scrape: {json_filename} already exists.")
         return
 
@@ -175,7 +175,7 @@ def scrape_events(present_date):
     # if 'events.json' in os.listdir("./"):
     #     os.remove("events.json")
 
-    json_path = os.path.join("json_folder", json_filename)
+    json_path = os.path.join("public", "json_folder", json_filename)
         
     with open(json_path, "w") as json_file:
         json.dump(events_list, json_file, indent=4, ensure_ascii=False)
@@ -188,7 +188,7 @@ def schedule_scraping():
     dates = get_30_days()
     for date in dates:
         json_filename = f"events_{date}.json"
-        json_path = os.path.join("json_folder", json_filename)
+        json_path = os.path.join("public", "json_folder", json_filename)
 
         if os.path.exists(json_path):
             os.remove(json_path)
