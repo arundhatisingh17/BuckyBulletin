@@ -1,5 +1,23 @@
 [
     {
+        "title": "The Westlands: Master of Fine Arts Thesis Exhibition by Jason Houge",
+        "location": "Art Lofts Gallery,Art Lofts",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0690363,
+        "longitude": -89.3954208,
+        "description": "Exhibition dates: February 25 – March 8, Reception: Monday, March 3, 5-8pm.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
+    },
+    {
         "title": "Rachael's Painting Show and Mixer",
         "location": "Delta Beer Lab, 167 E Badger Rd, Fitchburg",
         "start_time": "All Day!",
@@ -12,6 +30,46 @@
             "Exhibitions",
             "Art",
             "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
+    },
+    {
+        "title": "Peace Corps Recruiting Office",
+        "location": "Play Circle,Memorial Union",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0762475,
+        "longitude": -89.4000123,
+        "description": "An evening of stories about Peace Corps Service told by Returned Peace Corps Volunteers based on the theme \"Tales of Transformation\".",
+        "tags": [
+            "Careers and advising",
+            "Arts",
+            "Volunteerism",
+            "International",
+            "Sustainability",
+            "Diversity",
+            "Social justice",
+            "IRIS",
+            "#PeaceCorpsWeek",
+            "International/IRIS"
+        ]
+    },
+    {
+        "title": "Midwest Print Showcase",
+        "location": "Commonwealth Gallery, 3rd Floor, 100 S Baldwin St, Madison WI",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0861032,
+        "longitude": -89.3651532,
+        "description": "Exhibition dates: February 26 – March 4, Reception: Friday, February 28, 6:30-8:30pm. Join us for the Midwest Print Showcase reception featuring free food, refreshments, a door prize, and a print sale booth. This exhibit brings together 17 artists from Wisconsin, Nebraska, and Iowa, all working with different printmaking techniques including screen print, cyanotype, woodcuts, and more.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Printmaking",
             "Art department",
             "School of Education",
             "Arts at uw"
@@ -63,6 +121,24 @@
         ]
     },
     {
+        "title": "Building in the Imagination: Master of Fine Arts Qualifier Exhibition by Alex Mikev",
+        "location": "Gallery 7,Mosse Humanities Building",
+        "start_time": "All Day!",
+        "end_time": null,
+        "latitude": 43.0741703,
+        "longitude": -89.4000444,
+        "description": "February 24 – March 1, Reception: Friday, February 28, 6-9pm. Building in the Imagination will include video projection, animation, and other media to explore reality vs. the imagination in how we make and build things.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
+        ]
+    },
+    {
         "title": "As Long As It’s Safe To Do So",
         "location": "Eli’s Art Supplies, 2348 E Washington Ave",
         "start_time": "All Day!",
@@ -78,6 +154,71 @@
             "Art department",
             "School of Education",
             "Arts at uw"
+        ]
+    },
+    {
+        "title": "Pesticide Applicator Training",
+        "location": "Arlington Public Events",
+        "start_time": "8a.m.",
+        "end_time": "4:30p.m.",
+        "latitude": 43.0716466,
+        "longitude": -89.4191167,
+        "description": "https://today.wisc.edu/events/view/205901",
+        "tags": [
+            "ARS",
+            "ARS Arlington",
+            "Arlington ARS"
+        ]
+    },
+    {
+        "title": "Constructs of Color—Hard & Soft",
+        "location": "9th floor Vision Gallery,Wisconsin Institutes for Medical Research",
+        "start_time": "8:30a.m.",
+        "end_time": "5p.m.",
+        "latitude": 43.078097,
+        "longitude": -89.43164949999999,
+        "description": "An exhibition exploring the multifaceted impacts of color, in works of translucent glass and stitched fabrics.- Stained glass works by Randy Glysch- Fiber, needlework, and mixed media stitchworks by Memory Cloth Circle artists",
+        "tags": [
+            "Arts",
+            "Exhibitions"
+        ]
+    },
+    {
+        "title": "In Tandem: Lynda Benglis & Sam Gilliam",
+        "location": "Tandem Press, 1743 Commercial Ave, Madison, WI 53704",
+        "start_time": "10a.m.",
+        "end_time": "4p.m.",
+        "latitude": 43.1056427,
+        "longitude": -89.3616646,
+        "description": "This exhibition highlights the work of world renowned artists and early practitioners with Tandem Press, Lynda Benglis and Sam Gilliam. From the margins of the art world, Benglis and Gilliam reconceived entirely the notion of painterly abstraction, rejecting the conventions of easel painting in favor of letting the world back in. The works on display continue the spirit of experimentation that is intrinsic to the work of these artists and Tandem Press.",
+        "tags": [
+            "Arts",
+            "Exhibitions",
+            "Exhibition",
+            "Printmaking",
+            "Tandem press",
+            "Fine art prints",
+            "Art exhibition",
+            "Art gallery",
+            "Sam gilliam",
+            "Lynda benglis"
+        ]
+    },
+    {
+        "title": "CANCELLED: \"Healthy Brain Aging: Can I Increase My Chances?\": In-Person Badger Talk in Madison, WI",
+        "location": "325 W Main St, Madison, WI 53703-3114, United States",
+        "start_time": "10a.m.",
+        "end_time": "",
+        "latitude": 43.07096079999999,
+        "longitude": -89.3866029,
+        "description": "Join us for this free, in-person event on February 26, 2025 at 10:00 AM at the Capitol Lakes Assisted Living. This event is hosted by PLATO, a community of intellectually curious adults which explores subjects of interest through member-led discussion groups, lectures and cultural activities. Please email kirk_elliott@hotmail.com to register for this event.This presentation provides an overview of changes that are expected in age, and factors that may improve brain outcomes in older age.",
+        "tags": [
+            "Speakers",
+            "Talks",
+            "Statewide Outreach",
+            "Speakers Bureau",
+            "Badger Talks",
+            "UW Connects"
         ]
     },
     {
@@ -108,98 +249,13 @@
         ]
     },
     {
-        "title": "Sunday Tour: You Belong Here",
-        "location": "Chazen Museum of Art",
-        "start_time": "12p.m.",
-        "end_time": "1p.m.",
-        "latitude": 43.0738323,
-        "longitude": -89.39931930000002,
-        "description": "Join us for a guided tour of \"You Belong Here: Place, People, and Purpose in Latinx Photography\"! Meet at the front desk for a deeper dive into works by Latinx photographers, highlighting themes of identity, community, and resistance. Tours last up to 60 minutes and encourage conversation and close observation as you explore the exhibition.Advanced reservation encouraged. Walk-ins will be welcome as space allows.",
-        "tags": [
-            "Arts",
-            "Humanities",
-            "Chazen Museum of Art"
-        ]
-    },
-    {
-        "title": "Material Intelligence",
-        "location": "Ruth Davis Design Gallery,Nancy Nicholas Hall",
-        "start_time": "12p.m.",
-        "end_time": "4p.m.",
-        "latitude": 43.0756796,
-        "longitude": -89.4091874,
-        "description": "Inspired by Material Intelligence magazine’s exploration of individual commonplace materials, this exhibition foregrounds two key substances–linen and glass–and invites visitors to experiment with many more. \"Threads\" explores the metaphorical vibrancy of linen and other fibers through the work of Ann Coddington. \"Spheres of Influence\" reveals how the material possibilities of glass and the embodied skills of glassmakers have shaped intellectual life at UW-Madison.",
-        "tags": [
-            "Arts",
-            "Exhibitions",
-            "Science",
-            "Humanities",
-            "Design",
-            "Textiles",
-            "Material culture",
-            "School of human ecology",
-            "SoHE",
-            "Weaving",
-            "Center for Design and Material Culture",
-            "CDMC",
-            "Glassmadisonexhibitions",
-            "Glasslab",
-            "Basketry"
-        ]
-    },
-    {
-        "title": "Scenic Stroll",
-        "location": "Meet at Visitor Center, UW–Madison Arboretum",
-        "start_time": "1p.m.",
-        "end_time": "2p.m.",
-        "latitude": 43.0428709,
-        "longitude": -89.4243205,
-        "description": "This gently paced walk explores ecological communities near the Visitor Center. Themes may include the land, plants, animals, other organisms, phenology, and ecology. Wear sturdy closed-toe shoes and come prepared for weather. Routes are wheelchair accessible when weather allows. Walks canceled for unsafe weather or route conditions. Free, no registration required. Meet at the Visitor Center.",
-        "tags": [
-            "Science",
-            "Research",
-            "Environment",
-            "Nature",
-            "Sustainability",
-            "Wellness"
-        ]
-    },
-    {
-        "title": "Winter Birds",
-        "location": "Picnic Point entrance kiosk, University of Wisconsin-Madison, 2000 University Bay Drive, Madison WI 53705",
-        "start_time": "1:30p.m.",
-        "end_time": "3p.m.",
-        "latitude": 43.0866099,
-        "longitude": -89.4216051,
-        "description": "Even with ice and snow, there are beautiful, bright, noisy birds to enjoy at the Preserve! Join us for guided walk to look for Blue Jays, Cardinals, Tufted Titmice, Woodpeckers, Nuthatches, Chickadees, Wild Turkeys, Barred Owls, and more! We may practice using the Merlin app to help identify birds by sight and sound and log our observations on eBird! Bring binoculars if you have them. If weather allows, enjoy hot cocoa and s'mores at Fire Circle 2 after the walk.",
-        "tags": [
-            "Environment",
-            "Family friendly",
-            "Sustainability"
-        ]
-    },
-    {
-        "title": "Women's Basketball: UW vs. Northwestern",
-        "location": "The Kohl Center",
-        "start_time": "2p.m.",
+        "title": "\"Scandinavia in a Global World: The Welfare State, Geopolitics, and the Arctic\": In-Person Badger Talk in Madison, WI",
+        "location": "333 W Main St, Madison, WI 53703",
+        "start_time": "10a.m.",
         "end_time": "",
-        "latitude": 43.0693474,
-        "longitude": -89.3969006,
-        "description": "https://today.wisc.edu/events/view/201239",
-        "tags": [
-            "Athletics",
-            "Basketball",
-            "Women's basketball"
-        ]
-    },
-    {
-        "title": "\"Citizens of a Stolen Land: Ho Chunk History of the 19th Century\": In-Person Badgers Talk in Monona, WI",
-        "location": null,
-        "start_time": "2p.m.",
-        "end_time": "",
-        "latitude": 43.0693474,
-        "longitude": -89.3969006,
-        "description": "Join us for a free, in-person talk at the Historic Blooming Grove Historical Society on Sunday, February 23, 2025, at 2:00 PM. No registration is required.Discover how the Ho-Chunk people resisted expulsion in the 1820s and 1830s, returned to their homeland, and secured their place as a sovereign nation in Wisconsin.",
+        "latitude": 43.0710419,
+        "longitude": -89.3865769,
+        "description": "Join us for an in-person Badger Talk at Capitol Lakes Senior Living on February 26, 2025, at 10:00 AM. Registration is required—contact Kirk Elliott at kirk_elliott@hotmail.com to register.Hosted by PLATO, a community of intellectually curious adults, this talk will explore how Scandinavian countries balance their welfare states with global challenges, focusing on international politics, security, and climate issues, especially in the rapidly changing Arctic region.",
         "tags": [
             "Speakers",
             "Talks",
@@ -210,33 +266,125 @@
         ]
     },
     {
-        "title": "WUD Film & the Black Cultural Center Present: Wicked (2024) [Sing Along with Open Captions]",
-        "location": "The Marquee,Union South",
-        "start_time": "3p.m.",
-        "end_time": "",
-        "latitude": 43.0717653,
-        "longitude": -89.40813419999999,
-        "description": "https://union.wisc.edu/events-and-activities/event-calendar/event/wud-film-presents-wicked-2024-sing-along",
-        "tags": []
+        "title": "Engaged Scholars Talk: Co-Developing Research Agendas with Older Community Members",
+        "location": "Morgridge Center for Public Service (1st Floor of Red Gym)",
+        "start_time": "10:30a.m.",
+        "end_time": "11:45a.m.",
+        "latitude": 43.0760709,
+        "longitude": -89.39841249999999,
+        "description": "The Madison Board of Older Adult Advisors (BOAAs) is one of two community advisory boards of older people that's facilitated by the Center for Aging Research and Education and Wisconsin Network for Research Support at the UW–Madison School of Nursing.  During this discussion, Madison BOAA members will share their process for identifying the research topics and questions that they feel would most improve older adults' health and healthcare, as well as the group's top research priorities.",
+        "tags": [
+            "Professional development",
+            "Aging",
+            "Social justice",
+            "GSPD",
+            "Mcfps"
+        ]
     },
     {
-        "title": "Family Ice Skating Night with Outdoor UW",
-        "location": "Memorial Union",
-        "start_time": "4p.m.",
-        "end_time": "",
-        "latitude": 43.0762475,
-        "longitude": -89.4000123,
-        "description": "https://union.wisc.edu/events-and-activities/event-calendar/event/familyiceskatingnight-2025-ouw-2",
-        "tags": []
+        "title": "I’m Doing Everything! How Value Planning Reduces Panic and Builds Value",
+        "location": null,
+        "start_time": "11a.m.",
+        "end_time": "12p.m.",
+        "latitude": 43.0760709,
+        "longitude": -89.39841249999999,
+        "description": "In this session, you will:Understand the actions you can take – quantitative and qualitative – that can increase the potential value of your business for a buyerExplore the idea of a “buyer” – who are they? What are they looking for?Learn tips for building your business to sellUnderstand how to build credibility and clear financial statementsUnderstand risk factors that impact valueUnderstand qualities of the ideal time to sellLearn the basics of what to expect when selling your business",
+        "tags": [
+            "Innovation",
+            "Leadership",
+            "Innovate",
+            "Startup",
+            "Smallbusiness",
+            "WI SBDC",
+            "Value"
+        ]
     },
     {
-        "title": "Sunday Game Night: Tsuro of the Seas",
-        "location": "The Sett,Union South",
-        "start_time": "5p.m.",
-        "end_time": "",
-        "latitude": 43.071313,
-        "longitude": -89.40772,
-        "description": "https://union.wisc.edu/events-and-activities/event-calendar/event/sunday-game-night-9",
+        "title": "Intern and Study in Washington, DC",
+        "location": "Online",
+        "start_time": "11a.m.",
+        "end_time": "12p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Meet advisors & returned students of the Wisconsin in Washington program to learn how YOU can jump start your career by:> interning in Washington, DC> completing classwork in domestic & international issues that complement & enhance your internship experience> taking a course from our Ambassador in Residence> connecting with UW alumni & professionals in your field",
+        "tags": [
+            "Careers and advising",
+            "International",
+            "Careers, advising, tutoring",
+            "Study abroad",
+            "Human rights",
+            "Journalism",
+            "Free food",
+            "Policy",
+            "Global Health",
+            "Political science",
+            "International Internships",
+            "Info session",
+            "Careers",
+            "International studies",
+            "Nonprofit",
+            "SoHE",
+            "Student life",
+            "Pizza",
+            "Internships",
+            "IRIS",
+            "UW International Division",
+            "Successworks",
+            "Careers|advising|tutoring",
+            "Intern abroad"
+        ]
+    },
+    {
+        "title": "Fulbright office hours - virtual & in-person",
+        "location": "256Bascom HallAlso offered online",
+        "start_time": "11a.m.",
+        "end_time": "1p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Have a question about one of the many Fulbright programs available to UW-Madison students, faculty, staff, and alumni? Heard about \"Fulbright\" but aren't sure what it might mean to you? Are you an administrator trying to assist one of your international Fulbrighters studying here at UW-Madison? Every Wednesday we'll have drop-in hours where you can have your questions answered, schedule a more in-depth appointment, or just learn more about what \"Fulbright\" could make possible for you!",
+        "tags": [
+            "Careers and advising",
+            "International",
+            "Graduate students",
+            "Abroad",
+            "Faculty",
+            "Staff",
+            "Undergraduates",
+            "Fulbright",
+            "IRIS",
+            "Fulbright Hays",
+            "DDRA",
+            "Fulbright US Student Program",
+            "Fulbright Scholar Program",
+            "Fulbright Specialist"
+        ]
+    },
+    {
+        "title": "Cancer Biology Seminar series",
+        "location": "1345Health Sciences Learning CenterAlso offered online",
+        "start_time": "11a.m.",
+        "end_time": "12p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Leaders in Cancer Biology, Human Oncology, immunology and bioinformatics share their research with faculty, postdocs, graduate students and clinicians.  Topics of interest are open to all.",
+        "tags": [
+            "Cancer biology",
+            "Immunology",
+            "Cancer research",
+            "Biomedical sciences",
+            "Medical microbiology and immunology",
+            "Cancer genetics",
+            "Radiation oncology"
+        ]
+    },
+    {
+        "title": "University Roundtable",
+        "location": "Varsity Hall III,Union South",
+        "start_time": "11:30a.m.",
+        "end_time": "1p.m.",
+        "latitude": 43.0719999,
+        "longitude": -89.40764639999999,
+        "description": "Ryan Spencer, Associate Professor (CHS), Residency Program Director, and Fellowship Program Director in the Division of Gynecologic Oncology, will discuss the current state of training OBGYNs in the United States and how patients in rural areas are not being served by this model. Dr. Spencer will explore opportunities and programs to increase the flow of OBGYN physicians into rural America – highlighting the OBGYN Rural Track at the University of Wisconsin.",
         "tags": []
     }
 ]

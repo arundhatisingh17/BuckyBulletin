@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, request, jsonify
 from selenium import webdriver
 from dotenv import load_dotenv
 from selenium.webdriver.chrome.service import Service
@@ -14,6 +14,13 @@ import json
 import os
 import time
 import schedule
+from flask_cors import CORS, cross_origin
+
+
+app = Flask(__name__)
+
+CORS(app, resources={r"/api/*": {"origins": "http://localhost:5173"}})  # Allow all origins
+
 
 
 present_date = datetime.today().strftime("%Y-%m-%d")
@@ -30,8 +37,29 @@ load_dotenv()
 API_KEY = os.getenv("VITE_GOOGLE_MAPS_API_KEY")
 gmaps = googlemaps.Client(key=API_KEY)
 
+
+@app.route("/api/date", methods=["POST"])
+@cross_origin()
+def set_date():
+
+    if request.method == "OPTIONS":
+        return jsonify({}), 200
+
+    data = request.get_json()
+    print(data)
+
+    if "selected_date" in data:
+        present_date = data["selected_date"]
+        scrape_events(present_date)
+
+        return jsonify({"message": "Date has been updated successfully"})
+    else:
+        return jsonify({"error": "Invalid Date"})
+    
+
 # scraping the events taking place on present_date
-def scrape_events():
+def scrape_events(present_date):
+
     url = f"https://today.wisc.edu/events/day/{present_date}"
     response = requests.get(url)
     soup = BeautifulSoup(response.text, "html.parser")
@@ -135,14 +163,17 @@ def scrape_events():
     with open("events.json", "w") as json_file:
         json.dump(events_list, json_file, indent=4, ensure_ascii=False)
 
+
 schedule.every().day.at("00:00").do(scrape_events)
 
 
-
 if __name__ == "__main__":
-    while True:
-        schedule.run_pending()
-        time.sleep(1)
+    app.run(debug=True, port=5000)
+
+# if __name__ == "__main__":
+#     while True:
+#         schedule.run_pending()
+#         time.sleep(1)
 
 # if __name__ == "__main__":
 #     scrape_events()
