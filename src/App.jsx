@@ -3,6 +3,7 @@ import './App.css'
 import { Helmet, HelmetProvider} from "react-helmet-async";
 import Map from './Map.jsx'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import DatePicker from './DatePicker.jsx';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -19,9 +20,10 @@ function App() {
       𝔹𝕦𝕔𝕜𝕪 𝔹𝕦𝕝𝕝𝕖𝕥𝕚𝕟</h1>
         <p>Explore UW-Madison events on an interactive map.</p>
       </header>
+      <DatePicker/>
       <div style={{ transform: "translateX(-70px)" }}>
       <Map/>
-    </div>
+     </div>
       </HelmetProvider>
     </>
   )
