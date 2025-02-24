@@ -13,7 +13,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "heroku-prebuild": "npm install --legacy-peer-deps",
-    "start": "node App.jsx"
+    "start": "vite",
+    "test": "vitest"
 },
 
   "dependencies": {
