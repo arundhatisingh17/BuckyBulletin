@@ -26,6 +26,7 @@ function App() {
 
         const response = await fetch(filename);
         const contentType = response.headers.get("content-type");
+        console.log(`Content-Type: ${contentType}`)
 
         if (!response.ok || !contentType || !contentType.includes("application/json")) {
           console.warn(`No valid JSON found at ${filename}, setting empty events.`);
