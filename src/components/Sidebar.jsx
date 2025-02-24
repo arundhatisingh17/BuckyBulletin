@@ -3,7 +3,7 @@ import { Container, Row, Col, ListGroup } from "react-bootstrap";
 import { useState } from "react";
 
 const Sidebar = ({ events, onEventClick }) => {
-  const [hoveredIndex, setHoveredIndex] = useState("");
+  const [hoveredIndex, setHoveredIndex] = useState(null);
   return (
     <Container fluid style={styles.sidebar}>
       <Row>
@@ -18,7 +18,7 @@ const Sidebar = ({ events, onEventClick }) => {
                   ...(hoveredIndex === index ? styles.eventItemHover : {}), 
                 }}
                 onMouseEnter={() => setHoveredIndex(index)} 
-                onMouseLeave={() => setHoveredIndex("")} 
+                onMouseLeave={() => setHoveredIndex(null)} 
                 onClick={() =>
                   onEventClick({ lat: parseFloat(event.latitude), lng: parseFloat(event.longitude) })
                 }

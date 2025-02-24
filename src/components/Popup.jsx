@@ -4,7 +4,7 @@ import { Button } from "react-bootstrap";
 import Banner  from "./Banner.jsx"
 
 const Popup = ({ marker, onClose }) => {  
-  if (!marker) return "";
+  if (!marker) return null;
 
   const [showBanner, setShowBanner] = useState(false);
 

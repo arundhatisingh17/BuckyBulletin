@@ -26,7 +26,7 @@ const Banner = ({ marker, onClose }) => {
             </tr>
             <tr>
               <td><strong>Time</strong></td>
-              <td>{marker.start_time}{marker.end_time ? ` - ${marker.end_time}` : ""}</td>
+              <td>{marker.start_time}{marker.end_time ? ` - ${marker.end_time}` : null}</td>
             </tr>
             <tr>
                 <td><strong>Description</strong></td>

@@ -9,10 +9,10 @@ import Sidebar from "./components/Sidebar.jsx";
 function App() {
   const [events, setEvents] = useState([]);
   const [selectedDate, setSelectedDate] = useState(() => new Date());
-  const [selectedLocation, setSelectedLocation] = useState("");
+  const [selectedLocation, setSelectedLocation] = useState(null);
 
   const formatDate = (date) => {
-    if (!date) return "";
+    if (!date) return null;
     const localDate = new Date(date);
     localDate.setMinutes(localDate.getMinutes() - localDate.getTimezoneOffset());
     return localDate.toISOString().split("T")[0];

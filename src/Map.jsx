@@ -23,14 +23,14 @@ const center = {
 
 function Map({ events, selectedLocation }) {
   const apiKey = import.meta.env.VITE_GOOGLE_MAPS_API_KEY;
-  const mapRef = useRef("");
+  const mapRef = useRef(null);
 
   const { isLoaded } = useJsApiLoader({
     id: "google-map-script",
     googleMapsApiKey: apiKey,
   });
 
-  const [selectedMarker, setSelectedMarker] = useState("");
+  const [selectedMarker, setSelectedMarker] = useState(null);
 
 
   useEffect(() => {
@@ -54,7 +54,7 @@ function Map({ events, selectedLocation }) {
         }}
         onLoad={(map) => (mapRef.current = map)}
       >
-        {selectedMarker && <Popup marker={selectedMarker} onClose={() => setSelectedMarker("")} />}
+        {selectedMarker && <Popup marker={selectedMarker} onClose={() => setSelectedMarker(null)} />}
 
         {events.map((event, index) => (
           <Marker
