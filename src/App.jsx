@@ -15,7 +15,8 @@ function App() {
         <meta name="description" content="Explore UW-Madison events on an interactive map." />
       </Helmet>
       <header style={{ textAlign: "center", marginTop: "20px" }}>
-        <h1>WiscEvents</h1>
+      <h1 style={{ fontSize: "80px", fontWeight: "bold" }}>
+      𝔹𝕦𝕔𝕜𝕪 𝔹𝕦𝕝𝕝𝕖𝕥𝕚𝕟</h1>
         <p>Explore UW-Madison events on an interactive map.</p>
       </header>
       <Map/>
