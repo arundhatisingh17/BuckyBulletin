@@ -36,7 +36,7 @@ function Map({ events, selectedLocation }) {
   useEffect(() => {
     if (mapRef.current && selectedLocation) {
       mapRef.current.panTo(selectedLocation);
-      mapRef.current.setZoom(12);
+      mapRef.current.setZoom(18);
     }
   }, [selectedLocation]);
 
@@ -45,7 +45,7 @@ function Map({ events, selectedLocation }) {
       <GoogleMap
         mapContainerStyle={containerStyle}
         center={center}
-        zoom={15}
+        zoom={12}
         tilt={45}
         options={{
           styles: mapStyle,
