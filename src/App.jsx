@@ -19,7 +19,9 @@ function App() {
       𝔹𝕦𝕔𝕜𝕪 𝔹𝕦𝕝𝕝𝕖𝕥𝕚𝕟</h1>
         <p>Explore UW-Madison events on an interactive map.</p>
       </header>
+      <div style={{ transform: "translateX(-70px)" }}>
       <Map/>
+    </div>
       </HelmetProvider>
     </>
   )
