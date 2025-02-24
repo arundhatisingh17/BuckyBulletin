@@ -6,14 +6,15 @@
         "end_time": null,
         "latitude": 43.0690363,
         "longitude": -89.3954208,
-        "description": "Join us for this free, in-person event on February 26, 2025 at 10:00 AM at the Capitol Lakes Assisted Living. This event is hosted by PLATO, a community of intellectually curious adults which explores subjects of interest through member-led discussion groups, lectures and cultural activities. Please email kirk_elliott@hotmail.com to register for this event.This presentation provides an overview of changes that are expected in age, and factors that may improve brain outcomes in older age.",
+        "description": "Exhibition dates: February 25 – March 8, Reception: Monday, March 3, 5-8pm.",
         "tags": [
-            "Speakers",
-            "Talks",
-            "Statewide Outreach",
-            "Speakers Bureau",
-            "Badger Talks",
-            "UW Connects"
+            "Arts",
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
         ]
     },
     {
@@ -23,10 +24,16 @@
         "end_time": null,
         "latitude": 43.0861032,
         "longitude": -89.3651532,
-        "description": "An exhibition exploring the multifaceted impacts of color, in works of translucent glass and stitched fabrics.- Stained glass works by Randy Glysch- Fiber, needlework, and mixed media stitchworks by Memory Cloth Circle artists",
+        "description": "Exhibition dates: February 26 – March 4, Reception: Friday, February 28, 6:30-8:30pm. Join us for the Midwest Print Showcase reception featuring free food, refreshments, a door prize, and a print sale booth. This exhibit brings together 17 artists from Wisconsin, Nebraska, and Iowa, all working with different printmaking techniques including screen print, cyanotype, woodcuts, and more.",
         "tags": [
             "Arts",
-            "Exhibitions"
+            "Exhibitions",
+            "Art",
+            "Exhibition",
+            "Printmaking",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
         ]
     },
     {
@@ -36,17 +43,22 @@
         "end_time": null,
         "latitude": 43.0757388,
         "longitude": -89.4087644,
-        "description": "This course aims to teach a core set of established, intermediate-level software development skills and best practices for working as part of a team in a research environment using Python as an example programming language (seedetailed learning objectives). The core set of skills we teach is not a comprehensive set of all-encompassing skills, but a selective set of tried-and-tested collaborative development skills that forms a firm foundation for continuing on your learning journey.",
+        "description": "It’s All the Rage: Activism, Aging, and the Raging Grannies of Madison grows from a two-year archival and oral history project. This exhibit focuses on several decades of local Wisconsin grassroots activism enacted by the Madison and Dane County Raging Grannies. Featuring an array of granny hats, aprons, songbooks, political buttons, and instruments, as well as video and audio clips of their original songs, this exhibit explores how senior women have engaged in a wide variety of activities.",
         "tags": [
-            "GSPD",
-            "Wisconsin Institute for Discovery",
-            "Programming",
-            "Managing Projects and People",
-            "Disciplinary expertise and interdisciplinary connections",
-            "Inquiry, discovery, and creation",
-            "Python",
-            "Data science",
-            "Data Science Hub Workshops"
+            "Arts",
+            "Exhibitions",
+            "Humanities",
+            "Aging",
+            "Activism",
+            "Gender",
+            "Material culture",
+            "School of human ecology",
+            "SoHE",
+            "Gender and Women Studies",
+            "Center for Design and Material Culture",
+            "CDMC",
+            "Center for Research on Gender and Women",
+            "Raging grannies"
         ]
     },
     {
@@ -56,275 +68,290 @@
         "end_time": null,
         "latitude": 42.9177627,
         "longitude": -89.21468349999999,
-        "description": "The Madison Board of Older Adult Advisors (BOAAs) is one of two community advisory boards of older people that's facilitated by the Center for Aging Research and Education and Wisconsin Network for Research Support at the UW–Madison School of Nursing.  During this discussion, Madison BOAA members will share their process for identifying the research topics and questions that they feel would most improve older adults' health and healthcare, as well as the group's top research priorities.",
-        "tags": [
-            "Professional development",
-            "Aging",
-            "Social justice",
-            "GSPD",
-            "Mcfps"
-        ]
-    },
-    {
-        "title": "Find Your People: Community Service Day to Milwaukee",
-        "location": null,
-        "start_time": "All Day!",
-        "end_time": null,
-        "latitude": 42.9177627,
-        "longitude": -89.21468349999999,
-        "description": "Afterlives explores the many lives of objects and what happens to textiles after they enter the Helen Louise Allen Textile Collection. From a quilt made out of carefully saved 19th-century American cigar silks to an robe from Turkmenistan, material things carry traces of their journey through past, present, and future in our Collection. Both poetic and practical, the exhibition explores what these treasures can teach us if we pay attention to their stories.",
+        "description": "Exhibition dates: February 28 – April 13, Opening Reception: Friday, February 28, 5-8pm, & Artist Talk with Pauli King: Saturday, March 15, 2pm. King's work explores light through the manipulation of translucency and color. Through intentional positioning of poured silicone sheets, King creates large scale color fields with tones inspired by the sky. Light activates each work, which in turn generate subtle auras and change the atmospheric conditions of their surroundings and is transformative.",
         "tags": [
             "Arts",
             "Exhibitions",
-            "International",
-            "History",
-            "Humanities",
-            "Design",
-            "Textiles",
-            "Material culture",
-            "SoHE",
-            "Archive",
-            "Lynn Mecklenburg Textile Gallery",
-            "Helen Louise Allen",
-            "textiles, art, SoHE",
-            "Center for Design and Material Culture",
-            "CDMC",
-            "Campus collections"
+            "Art",
+            "Exhibition",
+            "Art department",
+            "School of Education",
+            "Arts at uw"
         ]
     },
     {
-        "title": "Convergence",
-        "location": "Textile Arts Center of Madison, 2436 Pennsylvania Ave, Madison",
-        "start_time": "All Day!",
-        "end_time": null,
-        "latitude": 43.1053381,
-        "longitude": -89.35874129999999,
-        "description": "Have a question about one of the many Fulbright programs available to UW-Madison students, faculty, staff, and alumni? Heard about \"Fulbright\" but aren't sure what it might mean to you? Are you an administrator trying to assist one of your international Fulbrighters studying here at UW-Madison? Every Wednesday we'll have drop-in hours where you can have your questions answered, schedule a more in-depth appointment, or just learn more about what \"Fulbright\" could make possible for you!",
+        "title": "Enhancing Online Education: Designing Assessments micro-course",
+        "location": "Online",
+        "start_time": "8a.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Tests and papers are only two of a myriad of options for assessing what your learners understand. In this program, you will explore strategies to create a diverse range of robust assessments designed to guide learners through structured activities, helping them progressively build and apply knowledge. You will also identify the essential components for designing a successful group project.This program is an asynchronous micro-course in Canvas that will be open from March 4-21.Registration required.",
         "tags": [
-            "Careers and advising",
-            "International",
-            "Graduate students",
-            "Abroad",
-            "Faculty",
-            "Staff",
-            "Undergraduates",
-            "Fulbright",
-            "IRIS",
-            "Fulbright Hays",
-            "DDRA",
-            "Fulbright US Student Program",
-            "Fulbright Scholar Program",
-            "Fulbright Specialist"
-        ]
-    },
-    {
-        "title": "Building in the Imagination: Master of Fine Arts Qualifier Exhibition by Alex Mikev",
-        "location": "Gallery 7,Mosse Humanities Building",
-        "start_time": "All Day!",
-        "end_time": null,
-        "latitude": 43.0741703,
-        "longitude": -89.4000444,
-        "description": "If you're voting in Wisconsin, you can register or re-register to vote (if you need to) and complete your ballot at the same time during early voting.",
-        "tags": [
-            "Voter registration",
-            "Union south ipav"
-        ]
-    },
-    {
-        "title": "As Long As It’s Safe To Do So",
-        "location": "Eli’s Art Supplies, 2348 E Washington Ave",
-        "start_time": "All Day!",
-        "end_time": null,
-        "latitude": 43.0984254,
-        "longitude": -89.3514848,
-        "description": "If you're voting in Wisconsin, you can register or re-register to vote (if you need to) and complete your ballot at the same time during early voting.",
-        "tags": [
-            "Voter registration",
-            "Memorial union ipav"
-        ]
-    },
-    {
-        "title": "Wisconsin KidWind Challenge",
-        "location": "DeLuca Forum,Discovery Building",
-        "start_time": "9a.m.",
-        "end_time": "3:30p.m.",
-        "latitude": 43.072896,
-        "longitude": -89.4075586,
-        "description": "If you're voting in Wisconsin, you can register or re-register to vote (if you need to) and complete your ballot at the same time during early voting.",
-        "tags": [
-            "Voter registration",
-            "Hslc ipav"
-        ]
-    },
-    {
-        "title": "Afterlives: Material Stories from the Helen Louise Allen Textile Collection",
-        "location": "Lynn Mecklenburg Textile Gallery,Nancy Nicholas Hall",
-        "start_time": "10a.m.",
-        "end_time": "4p.m.",
-        "latitude": 43.0757388,
-        "longitude": -89.4087644,
-        "description": "A time to unwind and focus on the present moment. Classes incorporate elements of guided meditation, mindfulness, and relaxation practices. No previous meditation experience is required. Registration is required.",
-        "tags": [
-            "Recreation",
-            "Fun",
-            "Sports",
-            "Rec sports",
-            "Student affairs",
-            "Activities",
-            "Wellbeing",
-            "Alcohol free",
-            "Rec well",
-            "Recreation & wellbeing",
-            "Recwell"
-        ]
-    },
-    {
-        "title": "Wisconsin KidWind Challenge: Renewable Energy Expo",
-        "location": "DeLuca Forum,Discovery Building",
-        "start_time": "12p.m.",
-        "end_time": "2:45p.m.",
-        "latitude": 43.072896,
-        "longitude": -89.4075586,
-        "description": "Data Carpentry develops and teaches workshops on the fundamental data skills needed to conduct research. Its target audience is researchers who have little to no prior computational experience, and its lessons are domain specific, building on learners' existing knowledge to enable them to quickly apply skills learned to their own research. Participants will be encouraged to help one another and to apply what they have learned to their own research problems.",
-        "tags": [
-            "Spreadsheets",
+            "Teaching and Learning",
+            "Career development",
             "GSPD",
-            "Wisconsin Institute for Discovery",
-            "Managing Projects and People",
-            "Disciplinary expertise and interdisciplinary connections",
-            "Inquiry, discovery, and creation",
+            "CTLM"
+        ]
+    },
+    {
+        "title": "Constructs of Color—Hard & Soft",
+        "location": "9th floor Vision Gallery,Wisconsin Institutes for Medical Research",
+        "start_time": "8:30a.m.",
+        "end_time": "5p.m.",
+        "latitude": 43.078097,
+        "longitude": -89.43164949999999,
+        "description": "An exhibition exploring the multifaceted impacts of color, in works of translucent glass and stitched fabrics.- Stained glass works by Randy Glysch- Fiber, needlework, and mixed media stitchworks by Memory Cloth Circle artists",
+        "tags": [
+            "Arts",
+            "Exhibitions"
+        ]
+    },
+    {
+        "title": "Python Programming: Data Visualization with Seaborn",
+        "location": "Online, connection information will be sent in advance",
+        "start_time": "10a.m.",
+        "end_time": "12p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "In this workshop, we will explore different methods and tools for visualizing data. We’ll use seaborn, a popular and free data visualization library written for Python.Prerequisite: Understanding of basic Python concepts (e.g., functions, operators, data types) is helpful.Registration required (link below)",
+        "tags": [
+            "Libraries",
+            "Ebling Library for the Health Sciences",
+            "GSPD",
+            "Research Computing",
+            "Libraries: Workshops",
+            "Ebling: Workshops",
+            "Steenbock: Workshops",
+            "Libraries: Graduate Support Series",
+            "Steenbock",
+            "Graduate Support Series",
             "Data science",
             "Data science training",
-            "R",
-            "SQL",
-            "Data Science Hub Workshops"
+            "Python Programming",
+            "Libraries: data services",
+            "Disciplinary expertise &amp; interdisciplinary connections"
         ]
     },
     {
-        "title": "Material Intelligence",
-        "location": "Ruth Davis Design Gallery,Nancy Nicholas Hall",
-        "start_time": "12p.m.",
-        "end_time": "4p.m.",
-        "latitude": 43.0756796,
-        "longitude": -89.4091874,
-        "description": "https://today.wisc.edu/events/view/202463",
+        "title": "Physical Seminar: Professor Zhiyue Lu (University of North Carolina – Chapel Hill)",
+        "location": "1315 Seminar Hall ,Chemistry Building",
+        "start_time": "11a.m.",
+        "end_time": "12p.m.",
+        "latitude": 43.0725942,
+        "longitude": -89.4046935,
+        "description": "Join us in the chemistry department for a physical seminar from Prof. Zhiyue Lu! Refreshments will be provided, please click the link for additional information.",
         "tags": [
-            "Math",
-            "Mathematics",
-            "Pde",
-            "Mathseminars",
-            "Geometric analays"
+            "Science",
+            "Chemistry",
+            "Seminar"
         ]
     },
     {
-        "title": "\"The Wonders of Physics\": In-Person Badger Talk in Wausau, WI",
-        "location": "195 N 2nd Street, Wausau, WI, United States, Wisconsin",
+        "title": "“Women’s Voices in Climate Change Activism in Colombia’s Public Sphere”",
+        "location": "206Ingraham HallAlso offered online",
+        "start_time": "12p.m.",
+        "end_time": "1p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Colombia is the most dangerous country for environmental leaders, according to the latest report from the NGO Global Witness, with four out of ten defenders being murdered. Despite this, environmental activism continues to grow in the context of climate change. Women play a key role in the formation of social movements through which they exercise resistance against environmental degradation.Presented by Tinker Visiting Professor, Dr. Adriana Angel Botero",
+        "tags": [
+            "International",
+            "Human rights",
+            "Latin america",
+            "Social justice",
+            "LACIS",
+            "Peru",
+            "Colombia",
+            "Caribbean",
+            "Iberian Peninsula",
+            "IRIS",
+            "ID-Rise"
+        ]
+    },
+    {
+        "title": "Visiting Scholars Program Lecture Series: American Politics and Society – The Rise of Illiberalism – A Black Critique",
+        "location": "Online",
+        "start_time": "12p.m.",
+        "end_time": "1:30p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Anthony Bogues is a writer, scholar, curator, and the Director of the Center for the Study of Slavery and Justice; Professor of Africana Studies, Royce Professor of Teaching Excellence (2004-2007); and currently Asa Messer Professor of Humanities & Critical Theory. Bogues’s major research and writing interests are intellectual, literary & cultural history, radical political thought, political theory, critical theory, Caribbean and African politics as well as Haitian, Caribbean, and African Art.",
+        "tags": [
+            "Lectures",
+            "Department of History",
+            "U.S. Politics",
+            "Social movement"
+        ]
+    },
+    {
+        "title": "Study Abroad In Italy: Santa Reparata School of Art",
+        "location": "Study Abroad Resource Center (3rd Floor Red Gym)",
+        "start_time": "12p.m.",
+        "end_time": "1:30p.m.",
+        "latitude": 43.0760709,
+        "longitude": -89.39841190000001,
+        "description": "Learn more about the Santa Reparata International School for Art (SRISA) and what it's like to study abroad in Florence, Italy! Hear from SRISA alumni, faculty, and staff, and get all your questions answered about the program. Register to attend: https://win.wisc.edu/event/11071367Applications for Fall 2025 and Academic Year 2025-2026 are due Friday, March 7.",
+        "tags": [
+            "Arts",
+            "International",
+            "Study abroad",
+            "Languages",
+            "Art",
+            "International Internships",
+            "Italy",
+            "Undergraduate Advising",
+            "IRIS"
+        ]
+    },
+    {
+        "title": "Legal Dimensions of Maritime Military Conflicts in East Asia",
+        "location": "2260Law Building",
         "start_time": "12p.m.",
         "end_time": "",
-        "latitude": 44.9578862,
-        "longitude": -89.6291688,
-        "description": "This is a drop-in space for UW-Madison student survivors to connect with peers and offer mutual support in a confidential and safe environment. The group facilitators will foster a space that is open and affirming for all members while guiding members through experiential-, sensory- and movement-based coping skills. Group will focus on navigating the impact of trauma experiences through connection and skills to support post-traumatic growth. This group is specifically for UW-Madison students who have experienced sexual assault, dating/domestic violence, sexual harassment, stalking, and/or childhood sexual abuse. Of note, you are welcome to drop-in to this group.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "China's sweeping territorial claims in the South China Sea has continued to drive tensions in the region with its Southeast Asian neighbors, namely Brunei, Indonesia, Malaysia, the Philippines, Taiwan, and Vietnam.Kevin Kelly, Associate Dean for Academic Affairs and a retired Navy Reserve officer specializing in military operational law and international law issues, will unpack this territorial dispute from the perspective of maritime law.",
         "tags": [
-            "Wellness",
-            "Uhs",
-            "Survivor services"
+            "International",
+            "Southeast Asia",
+            "East Asia",
+            "CEAS",
+            "South China Sea dispute",
+            "South China Sea",
+            "IRIS",
+            "East Asian Legal Studies Center",
+            "University of Wisconsin Law School East Asian Studies Legal Center"
         ]
     },
     {
-        "title": "Outdoor UW Open Ice Skate",
-        "location": "Terrace (Out on Lake Mendota),Memorial Union",
+        "title": "UW Health Precision Health Department",
+        "location": "Online",
         "start_time": "1p.m.",
-        "end_time": "",
-        "latitude": 43.0762475,
-        "longitude": -89.4000123,
-        "description": "https://union.wisc.edu/events-and-activities/event-calendar/event/outdoor-uw-open-ice-skate-5",
+        "end_time": "2p.m.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "Advancing translational research in precision health requires collaboration across many stakeholders in clinic care, research, and administration. The UW Health Precision Health Department offers an innovative operational design to connect individuals and groups with similar goals. This webinar will explain the Department design and describe examples of how this design is forwarding precision medicine for patients and researchers.",
         "tags": [
-            "Math",
-            "Mathematics",
-            "Algebraic geometry",
-            "Mathseminars"
+            "UW Health",
+            "Clinical Research",
+            "Precision health",
+            "Clinical Trials"
         ]
     },
     {
-        "title": "Madison Reads Leopold: Voices of a Land Ethic",
-        "location": "Meet at Visitor Center, UW–Madison Arboretum",
-        "start_time": "1p.m.",
-        "end_time": "4p.m.",
-        "latitude": 43.0428709,
-        "longitude": -89.4243205,
-        "description": "https://today.wisc.edu/events/view/202910",
-        "tags": [
-            "Math",
-            "Analysis",
-            "Mathematics",
-            "Mathseminars"
-        ]
-    },
-    {
-        "title": "August Wilson's Joe Turner's Come and Gone",
-        "location": "Mitchell,Vilas Hall",
+        "title": "Work In Progress (WIP) Lab Activation – Paper Butterfly Folding with Mariah Moneda",
+        "location": "Wisconsin Idea, 1199,Nancy Nicholas Hall",
         "start_time": "2p.m.",
-        "end_time": "4:30p.m.",
-        "latitude": 43.0726995,
-        "longitude": -89.39985999999999,
-        "description": "Badger Recovery’s All Recovery meetings provide a space where individuals can openly discuss their recovery journeys from substances, eating disorders, or addictive behaviors (i.e. alcohol use, eating concerns, self-harm, gaming). Meetings are facilitated by student staff who aim to create a welcoming and inclusive environment for students at any stage in their recovery journey, whether they are questioning their relationship to a substance or addictive behavior, curious about recovery, or already in recovery.",
+        "end_time": "5p.m.",
+        "latitude": 43.0757388,
+        "longitude": -89.4087644,
+        "description": "For her workshop Messengers for the Living, artist Mariah Moneda invites the community to join her in creating folded paper butterflies—a symbol in Filipino folklore for transformation, rebirth, and the eternal cycle of life and death—as an act to pause and consider the present.",
         "tags": [
-            "Wellness",
-            "Uhs",
-            "Recovery"
+            "Arts",
+            "Exhibitions",
+            "Community",
+            "Humanities",
+            "Diversity",
+            "Sculpture",
+            "SoHE",
+            "Butterfly",
+            "Center for Design and Material Culture",
+            "CDMC",
+            "Paper art"
         ]
     },
     {
-        "title": "Deforest FFA Family Fun Night",
-        "location": "Arlington Public Events",
-        "start_time": "5p.m.",
-        "end_time": "9p.m.",
-        "latitude": 43.0716466,
-        "longitude": -89.4191167,
-        "description": "Join us for a free, in-person event on March 26, 2025, at 6:00 PM at the Mukwonago Community Library. Registration is encouraged but not required. To register or for any questions, contact the library at (262) 363-6411.Discover how everyday individuals—from farmers to dockworkers to office clerks—became the backbone of the U.S. military, shaping the nation we know today.",
-        "tags": [
-            "Speakers",
-            "Talks",
-            "Statewide Outreach",
-            "Speakers Bureau",
-            "Badger Talks",
-            "UW Connects"
-        ]
-    },
-    {
-        "title": "UW Cinematheque - Special Presentations",
-        "location": "4070Vilas Hall",
-        "start_time": "7p.m.",
+        "title": "Graduate Number Theory Seminar",
+        "location": "B219Van Vleck Hall",
+        "start_time": "2:30p.m.",
         "end_time": "",
-        "latitude": 43.0726995,
-        "longitude": -89.39985999999999,
-        "description": "Cast: Renée Falconetti,  Eugène Silvain, Michel SimonJeanne d’Arc’s final hours are transformed by Dreyer into a transcendent meditation on faith and sacrifice, rendered with searing immediacy and spiritual intensity. Falconetti’s iconic performance, framed in haunting close-ups, captures the raw agony and divine grace of martyrdom. A supreme masterpiece of the silent era, The Passion of Joan of Arc will be presented in a version beautifully scored for chorus and orchestra by Richard Einhorn.",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/205098",
         "tags": [
-            "Arts",
-            "Film",
-            "Free",
-            "UW Cinematheque",
-            "4070 Vilas Hall"
+            "Math",
+            "Mathematics",
+            "Number theory",
+            "Mathseminars"
         ]
     },
     {
-        "title": "August Wilson's Joe Turner's Come and Gone",
-        "location": "Mitchell,Vilas Hall",
-        "start_time": "7:30p.m.",
-        "end_time": "10p.m.",
-        "latitude": 43.0726995,
-        "longitude": -89.39985999999999,
-        "description": "University Theatre presents August Wilson’s powerful drama, set in a boarding house in 1911 Pittsburgh, that reaches deep into the well of a painful past to create a story of spiritual and emotional resurrection. Building on his work with 2023’s Fences, Dr. Baron Kelly continues his creative and scholarly investigation of Wilson’s work, speaking to the spiritual, cultural, social, and political connections in performance.",
+        "title": "Relative Trace Formula Seminar",
+        "location": "B215Van Vleck Hall",
+        "start_time": "3:30p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/205128",
         "tags": [
-            "Arts",
-            "Theater",
-            "African american literature",
-            "Play",
-            "Theater production",
-            "American Drama",
-            "Performances",
-            "African-American culture",
-            "Theatre &amp; Drama"
+            "Math",
+            "Mathematics",
+            "Mathseminars"
+        ]
+    },
+    {
+        "title": "Chemical Biology Seminar: Professor J.P. Gerdt (Indiana University)",
+        "location": "1315 Seminar Hall ,Chemistry Building",
+        "start_time": "3:30p.m.",
+        "end_time": "4:30p.m.",
+        "latitude": 43.0725942,
+        "longitude": -89.4046935,
+        "description": "Join us in the chemistry department for a chemical biology seminar from Prof. J.P. Gerdt! Refreshments will be provided, please click the link for additional information.",
+        "tags": [
+            "Science",
+            "Chemistry",
+            "Seminar"
+        ]
+    },
+    {
+        "title": "Site Visit to Promega",
+        "location": "Promega",
+        "start_time": "4p.m.",
+        "end_time": "7:30p.m.",
+        "latitude": 43.0070519,
+        "longitude": -89.4269997,
+        "description": "Are you interested in lab work? Have you considered working in the biotech industry? If so, join us for the CALS Career Services Trek to Promega on March 4th from 4-7:30pm. We will have the opportunity to tour their lab space and talk with current Promega employees about the important work they do! Transportation Provided!Student must RSVP on Handshake to attend.",
+        "tags": [
+            "Careers and advising",
+            "Networking",
+            "CALS",
+            "Biotech",
+            "Informational session",
+            "Site visit"
+        ]
+    },
+    {
+        "title": "Movies of Liberation: Film Fest",
+        "location": "1339Sterling Hall",
+        "start_time": "4p.m.",
+        "end_time": "",
+        "latitude": 43.0747399,
+        "longitude": -89.4058197,
+        "description": "This film fest focuses on new and old films that center the liberation struggles and life after independence in Portuguese- speaking Africa. We will be showing the film, \"Sambizanga\" a 1971 Angolan drama.",
+        "tags": [
+            "International",
+            "History",
+            "Africa",
+            "Latin American Caribbean and Iberian Studies",
+            "European Studies",
+            "Department of Spanish and Portuguese",
+            "African Studies Program",
+            "IRIS",
+            "African Cultural Studies"
+        ]
+    },
+    {
+        "title": "MadS&P Seminar",
+        "location": "3310 Computer Sciences,Computer Sciences",
+        "start_time": "4p.m.",
+        "end_time": "",
+        "latitude": 43.0721661,
+        "longitude": -89.4007501,
+        "description": "https://today.wisc.edu/events/view/205615",
+        "tags": [
+            "Computer science",
+            "Computer sciences"
         ]
     }
 ]
