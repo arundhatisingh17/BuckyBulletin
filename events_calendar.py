@@ -19,7 +19,7 @@ from flask_cors import CORS, cross_origin
 
 app = Flask(__name__)
 
-CORS(app, resources={r"/api/*": {"origins": "http://localhost:5173"}})  # Allow all origins
+CORS(app, resources={r"/api/*": {"origins": ["http://localhost:5173", "bucky-bulletin-54cf84e13b3f.herokuapp.com"]}})  # Allow all origins
 
 
 
