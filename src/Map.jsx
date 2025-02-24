@@ -53,7 +53,7 @@ function Map() {
       tilt={45}
       onLoad={onLoad}
       onUnmount={onUnmount}
-      options={{ styles: mapStyle }}
+      options={{ styles: mapStyle, fullscreenControl:false }}
     >
       {selectedMarker && <Popup marker={selectedMarker} onClose={() => setSelectedMarker(null)} />}
 
@@ -62,7 +62,7 @@ function Map() {
           key={index}
           position={{ lat: parseFloat(event.latitude), lng: parseFloat(event.longitude) }}
           title={event.title}
-          onClick={() => setSelectedMarker(event)} // This correctly sets the selected marker
+          onClick={() => setSelectedMarker(event)}
         />
       ))}
     </GoogleMap>
