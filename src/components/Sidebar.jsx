@@ -59,7 +59,7 @@ const styles = {
     borderRadius: "5px",
     boxShadow: "0 2px 5px rgba(0,0,0,0.1)",
     marginBottom: "6px",
-    cursor: "pointer", // ✅ Makes it feel clickable
+    cursor: "pointer",
     transition: "background-color 0.2s ease-in-out",
   },
   eventItemHover: {
