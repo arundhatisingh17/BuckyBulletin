@@ -10,6 +10,7 @@ function App() {
   const [events, setEvents] = useState([]);
   const [selectedDate, setSelectedDate] = useState(() => new Date());
   const [selectedLocation, setSelectedLocation] = useState(null);
+  const [isSidebarOpen, setIsSidebarOpen] = useState(true); // Sidebar default open
 
   const formatDate = (date) => {
     if (!date) return null;
@@ -26,7 +27,7 @@ function App() {
 
         const response = await fetch(filename);
         const contentType = response.headers.get("content-type");
-        console.log(`Content-Type: ${contentType}`)
+        console.log(`Content-Type: ${contentType}`);
 
         if (!response.ok || !contentType || !contentType.includes("application/json")) {
           console.warn(`No valid JSON found at ${filename}, setting empty events.`);
@@ -44,31 +45,35 @@ function App() {
     fetchEvents();
   }, [selectedDate]);
 
-
   const handleEventClick = (location) => {
     setSelectedLocation(location);
   };
 
   return (
     <>
-        <Container fluid>
-          <Row>
-            <Col xs={3} className="p-0">
-              <Sidebar events={events} onEventClick={handleEventClick} />
-            </Col>
+      <Container fluid>
+        <Row>
+          {/* Sidebar Column - Controls Open/Close */}
+          <Col xs={isSidebarOpen ? 3 : 0} className="p-0">
+            <Sidebar events={events} onEventClick={handleEventClick} setIsSidebarOpen={setIsSidebarOpen} />
+          </Col>
 
-            <Col xs={9} style={{ marginLeft: "350px" }}>
-              <header className="text-center">
-                <h1 style={{ fontSize: "55px", fontWeight: "bold" }}>𝔹𝕦𝕔𝕜𝕪 𝔹𝕦𝕝𝕝𝕖𝕥𝕚𝕟</h1>
-                <p>Explore UW-Madison events on an interactive map.</p>
-              </header>
+          {/* Main Content - Adjusts Width Based on Sidebar State */}
+          <Col xs={isSidebarOpen ? 9 : 12} className="content">
+            <header className="text-center">
+              <h1 className="title">𝔹𝕦𝕔𝕜𝕪 𝔹𝕦𝕝𝕝𝕖𝕥𝕚𝕟</h1>
+              <p>Explore UW-Madison events on an interactive map.</p>
+            </header>
 
-              <DatePicker selectedDate={selectedDate} setSelectedDate={setSelectedDate} />
+            <DatePicker selectedDate={selectedDate} setSelectedDate={setSelectedDate} />
 
-              <Map events={events} selectedLocation={selectedLocation} />
-            </Col>
-          </Row>
-        </Container>
+            <Map events={events} selectedLocation={selectedLocation} isSidebarOpen={isSidebarOpen} />
+          </Col>
+          <Col style={{textAlign: "center", position: "relative" }}>
+            <p>Some events are online-only and do not appear on the map. These are in red on the events sidebar!</p>
+          </Col>
+        </Row>
+      </Container>
     </>
   );
 }

@@ -7,14 +7,15 @@ import BuckyBadgerIcon from "./assets/BuckyBadger.png"
 const containerStyle = {
   position: "relative",
   width: "100%",
-  height: "calc(100vh - 230px)", 
+  height: "calc(100vh - 280px)",
   minHeight: "400px", 
   marginLeft: "-50px",
-  marginBottom: "20px", 
-  overflow: "hidden",
+  marginBottom: "40px", // Increased bottom margin to give more space
+  overflow: "hidden", // Allow bottom content to be seen
   borderRadius: "10px",
-  boxShadow: "0px 4px 10px rgba(0, 0, 0, 0.2)", 
+  boxShadow: "0px 4px 10px rgba(0, 0, 0, 0.2)",
 };
+
 
 const center = {
   lat: 43.072028,
@@ -56,20 +57,29 @@ function Map({ events, selectedLocation }) {
       >
         {selectedMarker && <Popup marker={selectedMarker} onClose={() => setSelectedMarker(null)} />}
 
-        {events.map((event, index) => (
-          <Marker
-            key={index}
-            position={{ lat: parseFloat(event.latitude), lng: parseFloat(event.longitude) }}
-            title={event.title}
-            onClick={() => setSelectedMarker(event)}
-            icon={{
-              url: BuckyBadgerIcon, 
-              scaledSize: new window.google.maps.Size(35, 45), 
-              origin: new window.google.maps.Point(0, 0),
-              anchor: new window.google.maps.Point(20, 40), 
-            }}
-          />
-        ))}
+        {events.map((evt, index) => {
+          const lat = parseFloat(evt.latitude).toFixed(4);
+          const lng = parseFloat(evt.longitude).toFixed(4);
+
+          if (lat === "43.0722" && lng === "-89.4008") {
+            return null;
+          }
+
+          return (
+            <Marker
+              key={index}
+              position={{ lat: parseFloat(evt.latitude), lng: parseFloat(evt.longitude) }}
+              title={evt.title}
+              onClick={() => setSelectedMarker(evt)}
+              icon={{
+                url: BuckyBadgerIcon,
+                scaledSize: new window.google.maps.Size(35, 45),
+                origin: new window.google.maps.Point(0, 0),
+                anchor: new window.google.maps.Point(20, 40),
+              }}
+            />
+          );
+        })}
       </GoogleMap>
     </div>
   ) : (
