@@ -201,20 +201,3 @@ def schedule_scraping():
 
 if __name__ == "__main__":
     schedule_scraping()
-    schedule.every().day.at("00:00").do(schedule_scraping)
-
-    print("Scheduler is running, scraping will occur at midnight daily.")
-
-    while True:
-        schedule.run_pending()
-        time.sleep(60)  
-
-    # app.run(debug=True, port=5000)
-
-# if __name__ == "__main__":
-#     while True:
-#         schedule.run_pending()
-#         time.sleep(1)
-
-# if __name__ == "__main__":
-#     scrape_events()
