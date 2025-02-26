@@ -58,9 +58,9 @@ def set_date():
     
 
 
-def get_30_days():
+def get_90_days():
     dates = []
-    for i in range(30):
+    for i in range(90):
         date_today = (datetime.today() + timedelta(days=i)).strftime("%Y-%m-%d")
         dates.append(date_today)
     return dates 
@@ -185,7 +185,7 @@ def scrape_events(present_date):
 
 
 def schedule_scraping():
-    dates = get_30_days()
+    dates = get_90_days()
     for date in dates:
         json_filename = f"events_{date}.json"
         json_path = os.path.join("json_folder", json_filename)
